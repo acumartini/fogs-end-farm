@@ -71,13 +71,14 @@ The whole-farm assessment will address all NRCS resource concern categories:
 - **Contour Orientation:** Runs approximately E/W
 
 #### Existing Infrastructure
+*(See [Appendix D.6](#d6-barns-and-infrastructure))*
 - **SW Barn:** Running water, hay storage, equipment
 - **SE Barn:** Running water, hay storage
 - **Access Road:** South side of pasture (shared with irrigation infrastructure)
 - **Irrigation System:** Flood-style irrigation along south access corridor
 
 #### Water Features
-- **Wetland:** NW corner, approximately 0.25 acres (requires delineation and buffer determination)
+- **Wetland:** NW corner, approximately 0.25 acres (requires delineation and buffer determination) *(See [Appendix D.2](#d2-wetland-nw-corner))*
 - **Seasonally Wet Areas:** Some pasture areas hold water longer than others; require assessment to determine if jurisdictional wetlands or simply poorly drained soils
 - **Irrigation Runoff:** Significant water management challenge from flood irrigation currently causing uncontrolled runoff across pasture
 
@@ -89,6 +90,7 @@ NRCS wetland delineation requested to:
 - Ensure Swampbuster compliance
 
 #### Current Land Use
+*(See [Appendix D.5](#d5-pasture-conditions), [Appendix D.7](#d7-garden-and-nursery))*
 - **Pasture:** ~4.5 acres (continuous, to be subdivided)
 - **No-Till Garden:** Located within production area
 - **Nursery:** Located within production area
@@ -150,13 +152,14 @@ Based on the approved practice list and the specific site conditions (flood irri
 - **Swale location:** Away from NW wetland, respecting buffer distances determined by NRCS wetland delineation
 - **Spacing:** Approximately 50 ft between swales
 - **Swale Function:** Capture, slow, spread, and infiltrate irrigation runoff
-- **Tree Line Planting:** Diverse species on swale berms (downhill side)
+- **Tree Line Planting:** Diverse species on swale berms (north/downhill side of each swale channel)
 - **Species Selection Goals:**
-  - Nitrogen-fixing trees (black locust, alder, autumn olive)
-  - Biomass/mulch production (willow, poplar)
-  - Shade canopy development (oak, walnut, fruit/nut trees)
-  - Wildlife/pollinator habitat (native flowering species)
-  - Soil biology enhancement (mycorrhizal host species)
+  - Nitrogen-fixing trees (black locust, alder, Siberian pea shrub)
+  - Biomass/mulch production (willow, poplar - dense coppice on wet swale edge)
+  - Shade canopy development (oak, chestnut, honey locust)
+  - Fruit/nut production (fig, hazelnut, persimmon, mulberry)
+  - Wildlife/pollinator habitat (serviceberry, native species, aromatic herbs)
+  - Aromatic edge plantings (sage, lavender - dry uphill edge)
 
 **Measurable Outcomes:**
 - Elimination of uncontrolled irrigation runoff
@@ -165,7 +168,7 @@ Based on the approved practice list and the specific site conditions (flood irri
 - Canopy cover percentage over time
 - Biomass production from tree line prunings
 
-**Estimated Cost:** $8,000-$10,000 for earthwork (quotes obtained)
+**Estimated Cost:** $12,000-$15,000 for earthwork including access road (see budget)
 
 ### 3.3 Cover Crop (Practice 340) - PRIMARY
 
@@ -234,7 +237,7 @@ The following practices support the primary regenerative management system:
 
 ### 4.1 Wetland Wildlife Habitat Management (Practice 644)
 
-**Location:** NW corner, approximately 0.25 acres
+**Location:** NW corner, approximately 0.25 acres *(See [Appendix D.2](#d2-wetland-nw-corner))*
 
 **Rationale:** The existing wetland is a significant ecological asset. Proper management enhances wildlife habitat, water quality, and biodiversity while integrating with the overall farm system.
 
@@ -270,16 +273,26 @@ The following practices support the primary regenerative management system:
 
 ### 4.5 Pest Management Conservation System (Practice 595) - PRIMARY
 
-**Rationale:** Invasive species are present on the property, reducing pasture productivity and biodiversity. Integrated management through the regenerative system will address this without reliance on chemical inputs.
+**Rationale:** Invasive species and internal parasites are present challenges. Integrated management through the regenerative system will address these without reliance on chemical inputs.
 
 **Implementation Approach:**
-- **Grazing Management:** Targeted grazing pressure on invasive species (goats/sheep effective on woody invasives like blackberry)
+- **Grazing Management:** Targeted grazing pressure on invasive species (goats/sheep effective on woody invasives like blackberry) *(See [Appendix D.5](#d5-pasture-conditions), Photos D.5.4-D.5.5)*
+- **Poultry Following Ruminants:** Mobile poultry (chickens) follow 3-4 days behind ruminant grazers to:
+  - Break parasite cycles by consuming larvae in manure
+  - Control pest insects (flies, ticks, grasshoppers)
+  - Scratch and spread manure for faster nutrient cycling
+  - Add additional fertility through poultry manure
 - **Competition:** Diverse pasture overseeding and tree establishment outcompete invasives over time
 - **Manual Removal:** Targeted removal of priority invasive species
 - **Monitoring:** Track invasive species coverage as outcome metric
 
+**Infrastructure Required:**
+- Electronet poultry fencing (164 ft sections) for rotational paddock management
+- Mobile shelter (chicken tractor or skid-mounted coop) for predator protection and easy movement
+
 **Measurable Outcomes:**
 - Reduction in invasive species coverage (% of pasture)
+- Reduced internal parasite load in ruminants (fecal egg counts)
 - Increased desirable species diversity
 - Reduced need for mechanical or chemical control over time
 
@@ -325,7 +338,7 @@ WATER ENTRY                                              PASTURES
    (wasted)     (wasted)    unintended areas
 ```
 
-**Current Condition:**
+**Current Condition:** *(See [Appendix D.3](#d3-irrigation-control-boxes-500-w-of-garden))*
 - Two control boxes at water entry point, older than anyone can remember
 - Box 1: Leaking significantly
 - Box 2: In state of disrepair, also leaking
@@ -335,22 +348,23 @@ WATER ENTRY                                              PASTURES
 **Proposed System (Solution):**
 
 ```
-WATER ENTRY                                              PASTURES
-(500' W of garden)                                       
-      │                                                  
-      ▼                                                  
-  ┌───────┐     ┌───────┐                               
-  │ NEW   │────▶│ NEW   │══════════════════════════════▶ Controlled
-  │CONTROL│     │CONTROL│    Main E/W distribution       distribution
-  │STRUCT │     │STRUCT │    trench (same alignment)     to pastures
-  └───────┘     └───────┘                               
-      │             │                                         │
-   No leaks     No leaks                                      ▼
                                                     ┌─────────────────┐
                                                     │ SWALE SYSTEM    │
                                                     │ captures excess │
                                                     │ for infiltration│
                                                     └─────────────────┘
+                                                              ▲
+   No leaks     No leaks                                      │
+      │             │                                         │
+  ┌───────┐     ┌───────┐                               PASTURES
+  │ NEW   │────▶│ NEW   │══════════════════════════════▲ Controlled
+  │CONTROL│     │CONTROL│    Main E/W distribution     │ distribution
+  │STRUCT │     │STRUCT │    trench (same alignment)   │ to pastures
+  └───────┘     └───────┘                              │
+      ▲                                                │
+      │                                                │
+WATER ENTRY ───────────────────────────────────────────┘
+(500' W of garden)                                       
 ```
 
 **Implementation Approach:**
@@ -386,8 +400,9 @@ WATER ENTRY                                              PASTURES
 ### 4.9 Grazing Infrastructure
 
 Supporting infrastructure to enable grazing management:
-- **Permanent Fencing:** Perimeter and major paddock divisions
-- **Portable Electric:** Tree line exclusion, temporary subdivisions
+- **Permanent Fencing:** Perimeter plus N/S fence lines along both the east and west ends of the tree lines (creating paddock boundaries where tree lines terminate)
+- **Tree Line Access:** Cattle panels at tree line ends for cost-effective, movable access between paddocks
+- **Portable Electric:** Tree line exclusion (protecting young trees) and temporary subdivisions within paddocks
 - **Water System:** Livestock water access from barn sources to paddocks
 - **Lanes/Alleys:** Access along swale lines if needed for animal movement
 
@@ -457,45 +472,52 @@ The following outcomes will be tracked and measured:
 
 ### 7.1 Site Layout - Back 5 Acres
 
+*(See [Appendix D.1](#d1-property-overview), [Appendix D.8](#d8-maps-and-aerial-imagery))*
+
 **Total Dimensions:** 550 ft (E/W) x 400 ft (N/S)  
 **Western Strip:** 50 ft wide - Garden/Nursery (full N/S length), SW Barn, Wetland (NW corner)  
 **Paddock Area:** 500 ft (E/W) x 400 ft (N/S) = ~4.6 acres  
+**Tree Line Length:** ~400 ft each (centered), with 50 ft access corridors on both E and W ends for livestock movement to barns  
 **Contour Orientation:** E/W (swales run east-west across paddock area)  
 **Swale Spacing:** ~50 ft  
-**Number of Swales:** 5-6 (within paddock area)  
-**Number of Paddocks:** 6 (between swales, plus north and south ends)
+**Number of Swales:** 7 standard swales + 1 access road/swale = 8 water-catching features  
+**Number of Paddocks:** 7 (between swales, with access road forming southern boundary)
 
 ```
                             NORTH
         <──────────────── 550 ft ────────────────>
        
-    ┌───────────┬─────────────────────────────────────────┐
-    │░░░░░░░░░░░│ ▓▓▓▓▓▓▓▓ NORTH SWALE + TREE LINE ▓▓▓▓▓▓ │ ▲
-    │░░░░░░░░░░░├─────────────────────────────────────────┤ │
-    │░░░░░░░░░░░│           PADDOCK 1 (~0.55 ac)          │ │
-    │░ WETLAND ░├─────────────────────────────────────────┤ │
-    │░ (0.25ac) │ ▓▓▓▓▓▓▓ SWALE + TREE LINE 1 ▓▓▓▓▓▓▓▓▓▓▓ │ │
-    │░░░░░░░░░░░├─────────────────────────────────────────┤ │
-    │░░░░░░░░░░░│           PADDOCK 2 (~0.55 ac)          │ │
-    │░░░░░░░░░░░├─────────────────────────────────────────┤ │
-    ├───────────┤ ▓▓▓▓▓▓▓ SWALE + TREE LINE 2 ▓▓▓▓▓▓▓▓▓▓▓ │ │
-    │           ├─────────────────────────────────────────┤ │
-    │  NURSERY  │           PADDOCK 3 (~0.55 ac)          │ 4
-    │ (0.125ac) ├─────────────────────────────────────────┤ 0
-    │           │ ▓▓▓▓▓▓▓ SWALE + TREE LINE 3 ▓▓▓▓▓▓▓▓▓▓▓ │ 0
+    ┌───────────┬─────────────────────────────────────────┐  ▲
+    │░░░░░░░░░░░│ ▓▓▓▓▓▓▓▓ SWALE 7 (NORTH) + TREES ▓▓▓▓▓▓ │  │
+    │░░░░░░░░░░░├─────────────────────────────────────────┤  │
+    │░░░░░░░░░░░│           PADDOCK 7 (~0.45 ac)          │  │
+    │░ WETLAND ░├─────────────────────────────────────────┤  │
+    │░ (0.25ac) │ ▓▓▓▓▓▓▓▓▓▓ SWALE 6 + TREE LINE ▓▓▓▓▓▓▓▓ │  │
+    │░░░░░░░░░░░├─────────────────────────────────────────┤  │
+    │░░░░░░░░░░░│           PADDOCK 6 (~0.45 ac)          │  │
+    │░░░░░░░░░░░├─────────────────────────────────────────┤  │
+    ├───────────┤ ▓▓▓▓▓▓▓▓▓▓ SWALE 5 + TREE LINE ▓▓▓▓▓▓▓▓ │  │
+    │           ├─────────────────────────────────────────┤  │
+    │  NURSERY  │           PADDOCK 5 (~0.45 ac)          │  4
+    │ (0.125ac) ├─────────────────────────────────────────┤  0
+    │           │ ▓▓▓▓▓▓▓▓▓▓ SWALE 4 + TREE LINE ▓▓▓▓▓▓▓▓ │  0
     │           ├─────────────────────────────────────────┤  
-    ├───────────┤           PADDOCK 4 (~0.55 ac)          │ f
-    │           ├─────────────────────────────────────────┤ t
-    │  GARDEN   │ ▓▓▓▓▓▓▓ SWALE + TREE LINE 4 ▓▓▓▓▓▓▓▓▓▓▓ │ │
-    │ (no-till) ├─────────────────────────────────────────┤ │
-    │ (0.125ac) │           PADDOCK 5 (~0.55 ac)          │ │
-    │           ├─────────────────────────────────────────┤ │
-    │           │ ▓▓▓▓▓▓▓ SWALE + TREE LINE 5 ▓▓▓▓▓▓▓▓▓▓▓ │ │
-    │           ├─────────────────────────────────────────┤ │
-    │           │           PADDOCK 6 (~0.55 ac)          │ ▼
-    ├───────────┴─────────────────────────────────────────┤
-    │ ═══════════════════ ACCESS ROAD ══════════════════  │
-    ├───────────┬─────────────────────┬───────────────────┤
+    ├───────────┤           PADDOCK 4 (~0.45 ac)          │  f
+    │           ├─────────────────────────────────────────┤  t
+    │  GARDEN   │ ▓▓▓▓▓▓▓▓▓▓ SWALE 3 + TREE LINE ▓▓▓▓▓▓▓▓ │  │
+    │ (no-till) ├─────────────────────────────────────────┤  │
+    │ (0.125ac) │           PADDOCK 3 (~0.45 ac)          │  │
+    │           ├─────────────────────────────────────────┤  │
+    │           │ ▓▓▓▓▓▓▓▓▓▓ SWALE 2 + TREE LINE ▓▓▓▓▓▓▓▓ │  │
+    │           ├─────────────────────────────────────────┤  │
+    │           │           PADDOCK 2 (~0.45 ac)          │  │
+    │           ├─────────────────────────────────────────┤  │
+    │           │ ▓▓▓▓▓▓▓▓▓▓ SWALE 1 + TREE LINE ▓▓▓▓▓▓▓▓ │  │
+    │           ├─────────────────────────────────────────┤  │
+    │           │           PADDOCK 1 (~0.45 ac)          │  ▼
+    ├───────────┼─────────────────────────────────────────┤
+    │           │ ▓▓▓ ACCESS ROAD/SWALE 0 + N TREE LINE ▓ │◀── ATV access
+    ├───────────┼─────────────────────┬───────────────────┤
     │  GARDEN   │      SW BARN        │     SE BARN       │
     │  (cont.)  │      (water)        │     (water)       │
     ├───────────┴─────────────────────┴───────────────────┤
@@ -503,7 +525,8 @@ The following outcomes will be tracked and measured:
     └─────────────────────────────────────────────────────┘
                             SOUTH
     
-    <─ 50' ─>   <──────────── 500 ft ────────────────────>
+    <─ 50' ─>   <──────────── 500 ft ──────────────────────>
+                <─50'─><──── 400 ft tree lines ────><─50'─>
        W                                                 E
 
 
@@ -538,40 +561,63 @@ The following outcomes will be tracked and measured:
 
 
     LEGEND:
-    ░░░  Wetland - 0.25 ac (50' wide, spans 3 paddock heights)
+    ░░░  Wetland - 0.25 ac (50' wide, spans paddocks 1-2 height)
     ▓▓▓  Contour swale + diverse tree line (water management + silvopasture)
-    ═══  Access road (runs full E/W width, just above barns)
     ≈≈≈  Irrigation ditch (south edge of property, full E/W length)
     
     WEST STRIP (50' wide, north to south):
-    - Wetland: 0.25 ac (NW corner, spans paddocks 1-2 height)
-    - Nursery: 0.125 ac (spans paddocks 3-4 height)
-    - Garden (no-till): 0.125 ac (spans paddocks 5-6 height, continues below access road)
+    - Wetland: 0.25 ac (NW corner, spans paddocks 6-7 height)
+    - Nursery: 0.125 ac (spans paddocks 4-5 height)
+    - Garden (no-till): 0.125 ac (spans paddocks 1-3 height, continues below road)
     - Total west strip: ~0.5 ac
     
-    SWALE SYSTEM:
-    - North swale runs along N edge (east of wetland only)
-    - 5 internal swales between paddocks
-    - All swales run E/W on contour
+    SWALE SYSTEM (8 water-catching features, numbered S→N in direction of water flow):
+    - Swale 0 / Access Road: Widest swale, compacted ATV surface (8-10 ft),
+      tree line on NORTH edge only (south side faces barns)
+    - Swales 1-6: Between paddocks, standard swale + tree line on berm
+    - Swale 7: North edge (east of wetland only), final overflow to wetland
+    - All swales run E/W on contour at ~50 ft spacing
     
-    PADDOCK AREA: 500 ft E/W x ~300 ft N/S (~3.5 acres)
-    - 6 paddocks (~0.55 ac each)
+    PADDOCK AREA: 500 ft E/W x 400 ft N/S (~4.6 acres)
+    - 7 paddocks (~0.45 ac each), numbered 1-7 from S to N
     - Each paddock ~50 ft N/S x 500 ft E/W
     
-    IRRIGATION INFRASTRUCTURE: 1 acre west of garden
-    - 550 ft E/W x 100 ft N/S
-    - Concrete box replacement/rehabilitation
+    TREE LINES: ~400 ft each (centered in paddock area)
+    - 50 ft access corridor on W end (aligns with 8" irrigation pipe, access to SW barn)
+    - 50 ft access corridor on E end (contour drops off, access to SE barn)
+    - Permanent N/S fencing at tree line ends with cattle panel gates
+    
+    ACCESS ROAD (Swale 0):
+    - First swale in system (closest to irrigation source)
+    - 8-10 ft compacted driving surface for ATV/UTV access
+    - Tree line on north edge only
+    - Needs to be built as part of earthwork scope
+    
+    IRRIGATION INFRASTRUCTURE: West of garden
+    - Two control boxes at water entry (500 ft W of garden)
+    - Concrete box replacement/rehabilitation needed
     
     SOUTH EDGE (left to right): Garden, SW Barn, SE Barn, irrigation ditch
 ```
 
 ### 7.2 Swale and Tree Line System Design
 
+**Earthwork Scope (Comprehensive):**
+
+| Component | Quantity | Description |
+|-----------|----------|-------------|
+| **Standard swales** | 7 (Swales 0-6) | Contour swales with berms, tree line zones |
+| **Access road/swale** | 1 (Swale 0) | Wide swale with 8-10 ft compacted ATV surface |
+| **Irrigation distribution** | 1 system | 4 gates, piping from 8" main to swales, HDPE overflows |
+| **Total swale linear feet** | ~4,000 ft | 8 swales x ~500 ft each |
+| **Total tree line linear feet** | ~3,200 ft | 8 tree lines x ~400 ft each (50 ft access corridors on E/W ends) |
+
 **Earthwork Specifications:**
 - **Swale Profile:** Shallow, wide swales (not deep ditches) to maximize infiltration
 - **Berm Location:** Downhill side of each swale
 - **Tree Planting Zone:** On and just below berm crest
 - **Swale Capacity:** Designed to handle flood irrigation overflow events
+- **Access Road (Swale 0):** Wider profile, compacted gravel or native soil surface, tree line on north edge only
 
 **Experimental Design Element: Notched Swale Edges**
 
@@ -615,14 +661,37 @@ NOTCHED SWALE (top view):
 
 **Status:** Experimental concept. This is an untested innovation that fits the pilot program's purpose of developing and documenting new approaches. Results - whether successful or not - will inform future silvopasture designs.
 
-**Tree Line Composition (per ~550 ft row):**
-| Layer | Species Examples | Function | Spacing |
-|-------|------------------|----------|---------|
-| **Canopy** | Oak, walnut, fruit trees | Long-term shade, nuts/fruit, wildlife | 30-40 ft |
-| **Sub-canopy** | Mulberry, persimmon, elderberry | Fruit, wildlife, partial shade | 15-20 ft |
-| **Nitrogen-fixers** | Black locust, alder, Siberian pea shrub | N-fixation, biomass, chop-and-drop | 10-15 ft |
-| **Shrub layer** | Hazelnut, currant, native shrubs | Nuts, wildlife, diversity | 8-10 ft |
-| **Herbaceous** | Comfrey, native wildflowers | Biomass, pollinators, soil biology | Understory |
+**Tree Line Composition (per ~400 ft row):**
+| Layer | Species Examples | Function | Initial Spacing | Long-term Spacing |
+|-------|------------------|----------|-----------------|-------------------|
+| **Emergent/Nurse** | Poplar | Fast shade while permanent canopy establishes | 15-20 ft | Remove/coppice as canopy matures |
+| **Canopy (permanent)** | Oak, chestnut, honey locust | Long-term shade, nuts, fodder | 40-50 ft | 40-50 ft (permanent) |
+| **Sub-canopy** | Mulberry, persimmon, fig, hazelnut, serviceberry | Fruit, nuts, wildlife | 15-20 ft | 15-20 ft (permanent) |
+| **Nitrogen-fixers** | Black locust, alder, Siberian pea shrub, goumi | N-fixation, biomass, chop-and-drop | 5-8 ft | Thin to 15-20 ft or coppice |
+| **Swale channel** | Willow | Dense coppice biomass, fodder (flood-tolerant) | 2-3 ft | Maintain dense, coppice regularly |
+| **Uphill edge of berm** | Sage, lavender, wormwood | Aromatics, pollinators, pest deterrent | 2 ft | Thin as needed |
+| **Herbaceous** | Comfrey, clover, native wildflowers | Biomass, pollinators, soil biology | Understory | Understory |
+
+**Dense-to-Thin Establishment Strategy:**
+
+Support species (poplars, nitrogen-fixers, willows, aromatics) are planted at higher initial density than their long-term spacing. This approach:
+
+| Benefit | How It Works |
+|---------|--------------|
+| **Faster canopy closure** | Dense planting shades out weeds and grasses quickly, reducing competition for permanent trees |
+| **Accelerated soil building** | More biomass production = more leaf litter, root turnover, and chop-and-drop material |
+| **Nitrogen front-loading** | Dense nitrogen-fixers pump fertility into the system during establishment years |
+| **Microclimate creation** | Dense plantings create humid, sheltered conditions that benefit slower-growing permanent species |
+| **Insurance against losses** | If some plants fail, others fill the gap; thin the healthiest performers |
+| **Management flexibility** | Remove, coppice, or retain support species based on observed performance |
+
+**Management Timeline:**
+- **Years 1-3:** Allow all species to establish; support species provide shade and fertility
+- **Years 4-7:** Begin thinning support species as permanent canopy develops; coppice willows and black locust for biomass
+- **Years 8-15:** Remove or heavily coppice nurse trees (poplars) as oaks/chestnuts reach functional size
+- **Ongoing:** Maintain willow coppice in swale channels; periodic coppice of nitrogen-fixers for biomass
+
+**Livestock Safety Note:** All species selected are livestock-safe. Elderberry confined to wetland buffer only (not grazed). Walnut and cherry excluded due to toxicity concerns.
 
 **Electric Fence Management:**
 - Single or double-strand portable electric wire runs parallel to tree lines
@@ -636,49 +705,58 @@ NOTCHED SWALE (top view):
 
 **Existing Infrastructure:** An 8" pipe already runs along the western edge of the paddocks (nursery/garden strip). This becomes the distribution backbone.
 
-**Solution: 3-Zone Gated Distribution with Passive Cascade Overflow**
+**Solution: 4-Zone Gated Distribution with Passive Cascade Overflow**
 
 ```
-                                NORTH
-                                  
-WETLAND ░░░░░░░░░░░░░░░░░░ 
-        ║
-        ║ 8" PIPE (existing)
-        ║
-        ╠════════════════▶ SWALE 1 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-        ║   GATE 1 ($100)       │
+                                NORTH (downhill - wetland)
+
+WETLAND ░░░░░░░░░░░░░░░░░░ (receives excess)
+        ▲                       ▲
+        ║                       ● final overflow
+        ║   GATE 4              │
+        ╠════════════════▶ SWALE 7 (NORTH) ▓▓▓▓▓▓▓▓▓▓
+        ║                       ▲
         ║                       ● riser overflow
         ║                       │
-        ║                       ▼
-        ║                  SWALE 2 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-        ║                       │
-        ║                       ● riser overflow
-        ║                       ▼
-        ╠════════════════▶ SWALE 3 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-        ║   GATE 2 ($100)       │
-        ║                       ● riser overflow
-        ║                       │
-        ║                       ▼
-        ║                  SWALE 4 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-        ║                       │
-        ║                       ● riser overflow
-        ║                       ▼
-        ╠════════════════▶ SWALE 5 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-        ║   GATE 3 ($100)       │
-        ║                       ● riser overflow
-        ║                       │
-        ║                       ▼
         ║                  SWALE 6 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+        ║                       ▲
+        ║                       ● riser overflow
         ║                       │
-        ▼                       ▼
-    IRRIGATION              ACCESS ROAD (final drainage)
-    SOURCE
+        ║   GATE 3              │
+        ╠════════════════▶ SWALE 5 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+        ║                       ▲
+        ║                       ● riser overflow
+        ║                       │
+        ║                  SWALE 4 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+        ║                       ▲
+        ║                       ● riser overflow
+        ║                       │
+        ║   GATE 2              │
+        ╠════════════════▶ SWALE 3 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+        ║                       ▲
+        ║                       ● riser overflow
+        ║                       │
+        ║                  SWALE 2 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+        ║                       ▲
+        ║                       ● riser overflow
+        ║                       │
+        ║   GATE 1              │
+        ╠════════════════▶ SWALE 1 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+        ║                       ▲
+        ║ 8" PIPE (existing)    │
+        ║                  SWALE 0 / ACCESS ROAD ▓▓▓▓
+        ║                       ▲
+    IRRIGATION              BARNS / IRRIGATION DITCH
+    SOURCE                        
+                                  
+                                SOUTH (uphill - irrigation source)
 ```
 
-**How It Works:**
+**How It Works (water flows north, downhill toward wetland):**
 1. Open Gate 1 → Water fills Swale 1 → Overflows to Swale 2 → Zone 1 complete
 2. Open Gate 2 → Water fills Swale 3 → Overflows to Swale 4 → Zone 2 complete  
 3. Open Gate 3 → Water fills Swale 5 → Overflows to Swale 6 → Zone 3 complete
+4. Open Gate 4 → Water fills Swale 7 → Excess overflows toward wetland → Zone 4 complete
 
 **Overflow System: 6" HDPE Riser Pipes**
 
@@ -712,10 +790,10 @@ RISER OVERFLOW DETAIL (Cross-Section):
 
 | Item | Quantity | Unit Cost | Total |
 |------|----------|-----------|-------|
-| Slide gates (8" pipe) | 3 | $100 | $300 |
-| 6" HDPE riser + elbow + horizontal | 5 | $40 | $200 |
-| Fittings, connections | misc | -- | $100 |
-| **Total irrigation distribution** | | | **~$600** |
+| Slide gates (8" pipe) | 4 | $100 | $400 |
+| 6" HDPE riser + elbow + horizontal | 7 | $40 | $280 |
+| Fittings, connections | misc | -- | $120 |
+| **Total irrigation distribution** | | | **~$800** |
 
 **Outcomes:**
 - Even water distribution to all swales via 3 zones
@@ -750,6 +828,19 @@ With 6-7 paddocks between swales, the rotation provides adequate rest periods:
 - **Multi-Species Rotation:** Sequential grazing maximizes forage utilization and parasite management
 - **Poultry Following Ruminants:** Chickens follow grazers to spread manure, consume parasites, add fertility
 
+**Livestock Partnership Model:**
+
+Rather than purchasing livestock outright, this project will utilize a **grazing partnership** arrangement - a common and practical approach for beginning farmers establishing new silvopasture systems:
+
+| Element | Approach |
+|---------|----------|
+| **Ruminants** | Partner with local livestock owner who provides animals; landowner provides pasture, water, infrastructure, and assists with rotational moves |
+| **Poultry** | Owner-managed flock following ruminants for pest/parasite control and additional fertility |
+| **Management** | Landowner implements rotational grazing schedule; animal owner handles veterinary care and animal husbandry |
+| **Benefits** | Reduces startup costs, shares risk, leverages existing animal expertise, achieves grazing management goals |
+
+This model is common in regenerative agriculture and allows the project to focus resources on permanent infrastructure (swales, tree lines, fencing, water systems) while still implementing the grazing management practice essential to the regenerative system.
+
 **Stocking Rate Considerations:**
 - Start conservative in Year 1 while system establishes
 - Tree lines reduce effective grazing area by ~15-20%
@@ -766,10 +857,11 @@ With 6-7 paddocks between swales, the rotation provides adequate rest periods:
 - Complete NRCS whole-farm assessment
 - Conduct baseline soil testing at established sampling points
 - Finalize swale layout with precise contour survey
+- **Blackberry removal in lower pasture** ($1,500 - must be done before earthwork)
 - Contract earthwork for swale installation
 
 **Quarter 2 (Spring)**
-- **CRITICAL: Swale earthwork completed** (7-8 contour swales)
+- **CRITICAL: Earthwork completed** - 5-6 contour swales + irrigation distribution (gates, piping, HDPE risers)
 - Seed swale channels and berms immediately after earthwork
 - Begin tree/shrub planting on swale berms (bare root season)
 - Install perimeter fencing upgrades
@@ -835,32 +927,47 @@ With 6-7 paddocks between swales, the rotation provides adequate rest periods:
 
 | Category | Components | Estimated Cost | Notes |
 |----------|------------|----------------|-------|
-| **Earthwork (Swales)** | 5-6 contour swales across pasture | $8,000 - $10,000 | *Quotes obtained* |
+| **Blackberry Removal** | Clear lower pasture before earthwork | $1,500 | Must be done first |
+| **Earthwork (Comprehensive)** | 8 swales (~4,000 linear ft), tree lines ~3,200 linear ft | $12,000 - $15,000 | *Requires an updated quote* |
+| **Irrigation Distribution** | 4 slide gates, 7 HDPE riser overflows, piping to swales | $800 - $1,000 | Integrated with earthwork |
 | **Irrigation Source Rehab** | Replace 2 degraded concrete control boxes at water entry | $5,000 - $15,000 | Needs assessment/quotes |
-| **Irrigation Distribution** | 3 slide gates + 5 HDPE riser overflows + fittings | $500 - $800 | Uses existing 8" pipe |
-| **Tree/Shrub Establishment** | Diverse species for 5-6 tree lines (~500 ft each) | $2,000 - $5,000 | Bare root stock, some nursery propagation |
+| **Tree/Shrub Establishment** | Diverse species for 8 tree lines (~400 ft each) | $2,000 - $5,000 | Bare root stock, some nursery propagation |
 | **Fencing** | Perimeter upgrade, paddock subdivision, electric for tree lines | $3,000 - $6,000 | Combination permanent/portable |
 | **Livestock Water System** | Water to paddocks (gravity from barns possible) | $1,000 - $3,000 | Existing water at both barns |
+| **Mobile Poultry Infrastructure** | Electronet fencing + mobile shelter for rotational poultry | $800 - $1,500 | Supports integrated pest management; confirm eligibility |
 | **Soil Testing** | Baseline + annual + final (comprehensive) | $500 - $1,500 | Multiple sampling points |
 | **Seed/Overseeding** | Cover crop mixes, pasture improvement, swale seeding | $1,000 - $2,500 | Multi-species mixes |
 | **Seeding Equipment** | Tow-behind broadcast spreader + drag harrow for zero-turn | $300 - $600 | Confirm eligibility with NRCS |
 | **Amendments** | Lime, minerals, compost (if indicated by soil tests) | $500 - $2,000 | Based on test results |
 | **Planning/TSP** | Technical service provider assistance | Variable | May be covered by program |
 
-### Budget Summary
+### Earthwork Scope Detail
+
+| Item | Quantity | Unit | Notes |
+|------|----------|------|-------|
+| Standard contour swales | 7 | ~500 ft each | Swales 0-6, with berms |
+| Access road/swale | 1 | ~500 ft | Swale 0, 8-10 ft compacted surface |
+| Tree lines | 8 | ~400 ft each | Centered, with 50 ft access corridors on E/W ends |
+| Slide gates (8" pipe) | 4 | each | Zones feeding swales 0+1, 2+3, 4+5, 6+7 |
+| HDPE riser overflows | 7 | each | Cascade connections between swales |
+| **Total linear feet** | ~4,000 | ft | All earthwork combined |
+
+### Budget Summary (Beginning Farmer Rates)
+
+This project is submitted under **beginning farmer status**, qualifying for enhanced 90% cost-share rates.
 
 | Item | Low Estimate | High Estimate |
 |------|--------------|---------------|
-| **Total Project Cost** | $22,000 | $46,000 |
-| **EQIP/CSP Cost-Share (75%)** | $16,500 | $34,500 |
-| **Producer Contribution (25%)** | $5,500 | $11,500 |
+| **Total Project Cost** | $29,000 | $55,000 |
+| **EQIP/CSP Cost-Share (90%)** | $26,100 | $49,500 |
+| **Producer Contribution (10%)** | $2,900 | $5,500 |
 
-*If qualifying as beginning farmer:*
+*For reference, standard rates (if beginning farmer status not approved):*
 
 | Item | Low Estimate | High Estimate |
 |------|--------------|---------------|
-| **EQIP/CSP Cost-Share (90%)** | $19,800 | $41,400 |
-| **Producer Contribution (10%)** | $2,200 | $4,600 |
+| EQIP/CSP Cost-Share (75%) | $21,750 | $41,250 |
+| Producer Contribution (25%) | $7,250 | $13,750 |
 
 ### Cost-Share Eligible Practices
 
@@ -872,6 +979,7 @@ The following practices are typically eligible for EQIP/CSP cost-share:
 | Irrigation infrastructure | 587, 443 | High - water control structures |
 | Tree/shrub establishment | 612, 422 | High - silvopasture, hedgerow planting |
 | Grazing infrastructure (fencing) | 382, 528 | High - standard grazing practice |
+| Mobile poultry infrastructure | 382, 472, 595 | Confirm - supports integrated pest management |
 | Cover crop seed | 340 | High - core regenerative practice |
 | Soil testing | -- | May be covered under planning |
 | Nutrient management planning | 590 | High - primary practice |
@@ -879,6 +987,25 @@ The following practices are typically eligible for EQIP/CSP cost-share:
 ---
 
 ## Part 10: Qualifications and Commitment
+
+### Beginning Farmer Status
+
+This application is submitted as a **beginning farmer** under USDA definitions, which qualifies for enhanced cost-share rates (90% vs. standard 75%).
+
+**Beginning Farmer Qualification Criteria:**
+
+| Criterion | Status |
+|-----------|--------|
+| Has not operated a farm or ranch for more than 10 years | Qualifies |
+| Does not have a farm number yet | Will obtain from FSA as part of application |
+| Substantially participates in farm operation | Owner-operator, primary decision-maker |
+| New agricultural enterprise on this property | Yes - silvopasture system built from scratch |
+
+**Why Beginning Farmer Status Matters for This Project:**
+
+The enhanced 90% cost-share rate is essential for project viability. A 25% producer contribution ($7,000-$13,000) would create a significant barrier to implementing this comprehensive regenerative system. The 10% contribution ($2,800-$5,300) makes the project feasible while still ensuring producer investment and commitment.
+
+This is exactly the type of project the beginning farmer provisions are designed to support: a new producer establishing a regenerative system from the ground up, contributing to program learning, and creating a replicable model for others.
 
 ### Producer Commitment
 
@@ -1047,6 +1174,56 @@ Beyond individual farm success, this project commits to producing:
 
 The answer will be: "Yes. Here's exactly how it was done."
 
+#### 6. Regional Source for Proven Silvopasture Genetics
+
+**The Problem:** Landowners interested in silvopasture struggle to find appropriate plant material. Conventional nurseries stock ornamentals and orchard trees. Native plant programs focus on restoration. Neither provides trees and shrubs selected for integration with livestock - species that tolerate grazing pressure, establish without intensive irrigation, fix nitrogen, produce fodder, and thrive in the specific conditions of a working pasture.
+
+**The Opportunity:** This project's on-site nursery (0.125 acres) and the silvopasture system itself become a living laboratory for identifying which species and varieties succeed in Rogue Valley conditions. The knowledge gained - and the plant material propagated from proven survivors - can then be shared with other landowners attempting similar systems.
+
+**What This Project Will Document and Share:**
+
+| Category | Species Examples | Knowledge Generated |
+|----------|------------------|---------------------|
+| **Nitrogen-Fixers** | Black locust, alder, Siberian pea shrub, goumi | Which establish without drip irrigation? Which tolerate periodic flooding? |
+| **Livestock-Safe Shade Trees** | Oak, honey locust, mulberry, chestnut | Growth rates, browse tolerance, time to functional shade |
+| **Fodder/Browse Species** | Willow, honey locust, mulberry | Palatability, regrowth after grazing, coppice response |
+| **Biomass Producers** | Poplar, willow | Establishment from cuttings, coppice yields, years to first harvest |
+| **Pollinator/Beneficial Habitat** | Serviceberry, native shrubs | Integration with grazing, wildlife response |
+
+**Why Provenance and Local Adaptation Matter:**
+
+A "black locust" from a humid Eastern nursery and one selected from dry-summer survivors may be the same species on paper, but perform dramatically differently when:
+- Subjected to 4+ months of summer drought
+- Irrigated via periodic flooding rather than drip
+- Integrated with grazing livestock
+- Expected to survive deer pressure during establishment
+
+This project will test multiple sources of key species, document which perform best, and propagate from the survivors. Over time, this creates a locally-adapted genetic resource that doesn't currently exist.
+
+**The Testing Approach:**
+
+| Element | Method | Knowledge Outcome |
+|---------|--------|-------------------|
+| **Provenance trials** | Plant multiple sources of key species, track survival and growth | Which seed sources perform best in Rogue Valley silvopasture? |
+| **Individual selection** | Mark exceptional performers in the swale system | Which specific trees should become mother stock? |
+| **Stress testing** | Minimal coddling - flood irrigation only, no drip, early livestock exposure | What actually survives real silvopasture conditions vs. nursery conditions? |
+| **Multi-generation observation** | Propagate from survivors, track next generation | Do adapted genetics pass to offspring? |
+
+**Sharing the Knowledge:**
+
+The goal is not commercial nursery production, but ensuring that other landowners can access:
+
+1. **Proven species recommendations** - Not generic lists, but specific guidance based on documented performance in this climate and management context
+2. **Adapted plant material** - Cuttings, seeds, or divisions from plants that have demonstrated success in silvopasture conditions
+3. **Establishment guidance** - What worked, what failed, and why - shared freely with anyone attempting similar systems
+4. **Ongoing learning exchange** - As other landowners install silvopasture, their observations feed back into collective understanding
+
+**Why This Matters for the Pilot Program:**
+
+The Regenerative Pilot Program aims to develop models that spread. Documenting species performance and sharing adapted genetics is a **force multiplier** - every plant shared carries embedded knowledge from this project's successes and failures. This is how regenerative agriculture scales: not through mandates, but through practitioner networks built on shared learning and proven, locally-adapted genetics.
+
+**Outcome:** A regional knowledge base and genetic resource that makes silvopasture adoption more accessible for subsequent landowners - because the trial-and-error of species selection has already been done and documented.
+
 ---
 
 ## Part 11: Appendices
@@ -1086,7 +1263,90 @@ The answer will be: "Yes. Here's exactly how it was done."
 
 ### Appendix D: Site Photos and Maps
 
-*To be added: Current site photos, aerial imagery, topographic information*
+All photos should be placed in a `photos/` directory relative to this document.
+
+#### D.1 Property Overview
+
+| Photo | Description | Filename |
+|-------|-------------|----------|
+| D.1.1 | Full property overview from SW barn or high point, looking N/NE | [overview-full-property.jpg](photos/overview-full-property.jpg) |
+| D.1.2 | North boundary looking south across pasture | [overview-north-boundary.jpg](photos/overview-north-boundary.jpg) |
+| D.1.3 | East boundary looking west | [overview-east-boundary.jpg](photos/overview-east-boundary.jpg) |
+| D.1.4 | South boundary looking north (future access road location) | [overview-south-boundary.jpg](photos/overview-south-boundary.jpg) |
+| D.1.5 | West boundary showing garden/nursery strip | [overview-west-boundary.jpg](photos/overview-west-boundary.jpg) |
+
+#### D.2 Wetland (NW Corner)
+
+| Photo | Description | Filename |
+|-------|-------------|----------|
+| D.2.1 | Wetland wide shot showing full extent | [wetland-overview.jpg](photos/wetland-overview.jpg) |
+| D.2.2 | Wetland vegetation close-up | [wetland-vegetation.jpg](photos/wetland-vegetation.jpg) |
+| D.2.3 | Standing water or saturated areas | [wetland-standing-water.jpg](photos/wetland-standing-water.jpg) |
+| D.2.4 | Seasonal wet areas in pasture (if present) | [wetland-seasonal-wet-areas.jpg](photos/wetland-seasonal-wet-areas.jpg) |
+
+#### D.3 Irrigation Control Boxes (500' W of Garden)
+
+| Photo | Description | Filename |
+|-------|-------------|----------|
+| D.3.1 | Wide shot showing both control boxes in context | [irrigation-boxes-overview.jpg](photos/irrigation-boxes-overview.jpg) |
+| D.3.2 | Control Box 1 - front/access side | [irrigation-box1-front.jpg](photos/irrigation-box1-front.jpg) |
+| D.3.3 | Control Box 1 - damage/cracks close-up | [irrigation-box1-damage.jpg](photos/irrigation-box1-damage.jpg) |
+| D.3.4 | Control Box 1 - interior from above | [irrigation-box1-interior.jpg](photos/irrigation-box1-interior.jpg) |
+| D.3.5 | Control Box 1 - inlet connection | [irrigation-box1-inlet.jpg](photos/irrigation-box1-inlet.jpg) |
+| D.3.6 | Control Box 1 - outlet connection | [irrigation-box1-outlet.jpg](photos/irrigation-box1-outlet.jpg) |
+| D.3.7 | Control Box 2 - front/access side | [irrigation-box2-front.jpg](photos/irrigation-box2-front.jpg) |
+| D.3.8 | Control Box 2 - damage close-up | [irrigation-box2-damage.jpg](photos/irrigation-box2-damage.jpg) |
+| D.3.9 | Control Box 2 - interior from above | [irrigation-box2-interior.jpg](photos/irrigation-box2-interior.jpg) |
+| D.3.10 | Control Box 2 - inlet connection | [irrigation-box2-inlet.jpg](photos/irrigation-box2-inlet.jpg) |
+| D.3.11 | Control Box 2 - outlet connection | [irrigation-box2-outlet.jpg](photos/irrigation-box2-outlet.jpg) |
+| D.3.12 | Connection/pipe between boxes | [irrigation-boxes-connection.jpg](photos/irrigation-boxes-connection.jpg) |
+| D.3.13 | Active leakage (if water running) | [irrigation-boxes-leakage.jpg](photos/irrigation-boxes-leakage.jpg) |
+
+#### D.4 Irrigation Trench
+
+| Photo | Description | Filename |
+|-------|-------------|----------|
+| D.4.1 | Main E/W trench looking east | [irrigation-trench-east.jpg](photos/irrigation-trench-east.jpg) |
+| D.4.2 | Main E/W trench looking west | [irrigation-trench-west.jpg](photos/irrigation-trench-west.jpg) |
+| D.4.3 | 8" distribution pipe (if visible) | [irrigation-pipe-8inch.jpg](photos/irrigation-pipe-8inch.jpg) |
+
+#### D.5 Pasture Conditions
+
+| Photo | Description | Filename |
+|-------|-------------|----------|
+| D.5.1 | Representative good condition area | [pasture-good-condition.jpg](photos/pasture-good-condition.jpg) |
+| D.5.2 | Problem areas (bare ground, erosion) | [pasture-problem-areas.jpg](photos/pasture-problem-areas.jpg) |
+| D.5.3 | Plant diversity close-up | [pasture-plant-diversity.jpg](photos/pasture-plant-diversity.jpg) |
+| D.5.4 | Blackberry extent - wide shot | [pasture-blackberry-extent.jpg](photos/pasture-blackberry-extent.jpg) |
+| D.5.5 | Blackberry close-up | [pasture-blackberry-closeup.jpg](photos/pasture-blackberry-closeup.jpg) |
+
+#### D.6 Barns and Infrastructure
+
+| Photo | Description | Filename |
+|-------|-------------|----------|
+| D.6.1 | SW Barn exterior | [barn-sw-exterior.jpg](photos/barn-sw-exterior.jpg) |
+| D.6.2 | SW Barn water connection | [barn-sw-water.jpg](photos/barn-sw-water.jpg) |
+| D.6.3 | SE Barn exterior | [barn-se-exterior.jpg](photos/barn-se-exterior.jpg) |
+| D.6.4 | SE Barn water connection | [barn-se-water.jpg](photos/barn-se-water.jpg) |
+| D.6.5 | Current access path (future Swale 0/road location) | [infrastructure-access-path.jpg](photos/infrastructure-access-path.jpg) |
+| D.6.6 | Existing fencing - representative sections | [infrastructure-fencing.jpg](photos/infrastructure-fencing.jpg) |
+
+#### D.7 Garden and Nursery
+
+| Photo | Description | Filename |
+|-------|-------------|----------|
+| D.7.1 | Garden overview | [garden-overview.jpg](photos/garden-overview.jpg) |
+| D.7.2 | Nursery overview | [nursery-overview.jpg](photos/nursery-overview.jpg) |
+| D.7.3 | West strip transition to pasture | [garden-pasture-transition.jpg](photos/garden-pasture-transition.jpg) |
+
+#### D.8 Maps and Aerial Imagery
+
+| Map | Description | Filename |
+|-----|-------------|----------|
+| D.8.1 | Aerial photo of property | [map-aerial.jpg](photos/map-aerial.jpg) |
+| D.8.2 | Property boundaries overlay | [map-boundaries.jpg](photos/map-boundaries.jpg) |
+| D.8.3 | Topographic/contour information | [map-contours.jpg](photos/map-contours.jpg) |
+| D.8.4 | Proposed swale layout overlay | [map-swale-layout.jpg](photos/map-swale-layout.jpg) |
 
 ---
 
