@@ -17,7 +17,7 @@ This proposal presents a comprehensive regenerative plan for the 5-acre back pro
 The project integrates:
 - **Contour swale system** (7 swales running E/W) for irrigation runoff management
 - **Diverse tree lines** on swale berms for biomass, shade, biodiversity, and soil biology
-- **6 grazing paddocks** between swales with adaptive multi-paddock management
+- **7 grazing paddocks** (6 between swales + 1 off-contour) with adaptive multi-paddock management
 - **Wetland buffer zone** (0.25 ac, NW corner) for wildlife habitat and water quality
 - **No-till garden and nursery** (0.25 ac) integrated into the silvopasture system
 - **Irrigation infrastructure rehabilitation** - replacement of degraded concrete distribution boxes to improve water efficiency at the source
