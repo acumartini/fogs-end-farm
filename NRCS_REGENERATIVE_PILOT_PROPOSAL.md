@@ -311,7 +311,7 @@ The following practices support the primary regenerative management system:
 
 ### 4.7 Irrigation Delivery System Redesign (Practices 587, 443, 388)
 
-**Rationale:** The entire irrigation delivery system - from water entry point to pasture distribution - needs comprehensive redesign. Currently, water enters the property and is immediately lost to leakage and uncontrolled flow due to failing infrastructure. Fixing this at the source is essential before the downstream swale system can function as designed. This represents true systems thinking: efficient delivery → controlled distribution → swale water harvesting → infiltration → soil health.
+**Rationale:** The entire irrigation delivery system - from water entry point to pasture distribution - needs comprehensive redesign. Currently, water enters the property and is immediately lost to leakage and uncontrolled flow due to failing infrastructure. Fixing this at the source is essential before the downstream swale system can function as designed.
 
 **Relevant NRCS Practices:**
 - **Structure for Water Control (587)** - Replacement of water control structures
