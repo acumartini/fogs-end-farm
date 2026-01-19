@@ -336,7 +336,7 @@ WATER ENTRY                                              PASTURES
    (wasted)     (wasted)    unintended areas
 ```
 
-**Current Condition:** *(See [Appendix D.3](#d3-irrigation-control-boxes-500-w-of-garden))*
+**Current Condition:** *(See [Appendix D.3](#d3-irrigation-control-boxes-250-w-of-garden))*
 - Two control boxes at water entry point, older than anyone can remember
 - Box 1: Leaking significantly
 - Box 2: In state of disrepair, also leaking
@@ -555,7 +555,7 @@ The following outcomes will be tracked and measured:
                           ▼
                     PASTURE DISTRIBUTION ──▶ Excess captured by SWALES
     
-    Distance: Water entry is ~500 ft west of garden area
+    Distance: Water entry is ~250 ft west of garden area
     
     Problem: Leaking boxes waste water to unintended areas before 
              it reaches pastures. System needs complete redesign.
@@ -610,7 +610,7 @@ The following outcomes will be tracked and measured:
     - Swale 7 (N): E/W access road, 8-10 ft compacted surface, willow+poplar buffer
     
     IRRIGATION INFRASTRUCTURE: West of garden
-    - Two control boxes at water entry (500 ft W of garden)
+    - Two control boxes at water entry (~250 ft W of garden)
     - Concrete box replacement/rehabilitation needed
 ```
 
@@ -1264,7 +1264,7 @@ All photos should be placed in a `photos/` directory relative to this document.
 | D.2.3 | Standing water or saturated areas | [wetland-standing-water.jpg](photos/wetland-standing-water.jpg) |
 | D.2.4 | Seasonal wet areas in pasture (if present) | [wetland-seasonal-wet-areas.jpg](photos/wetland-seasonal-wet-areas.jpg) |
 
-#### D.3 Irrigation Control Boxes (500' W of Garden)
+#### D.3 Irrigation Control Boxes (~250' W of Garden)
 
 | Photo | Description | Filename |
 |-------|-------------|----------|

@@ -428,7 +428,7 @@ Mark these locations permanently for quarterly documentation:
 Document the condition of irrigation source infrastructure for NRCS application and contractor quotes.
 
 ### Location
-- 500 feet west of garden area
+- ~250 feet west of garden area
 - Two control boxes at water entry point
 - Main E/W distribution trench begins here
 

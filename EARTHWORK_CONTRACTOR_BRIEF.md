@@ -57,7 +57,7 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
        W                                                   E
 
 
-    WATER ENTRY POINT (500' west of garden):
+    WATER ENTRY POINT (~250' west of garden):
     
     ════════════════════════════════════════════════════════▶
                          IRRIGATION DITCH
@@ -121,7 +121,7 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
 - **Photos:** #06 (north boundary), #10-12 (wetland)
 
 ### 5. Control Box Replacement (2 structures)
-- **Location:** Water entry point, ~500 ft west of garden
+- **Location:** Water entry point, ~250 ft west of garden
 - **Current condition:** 
   - Box 1: Leaking significantly
   - Box 2: In disrepair, also leaking
