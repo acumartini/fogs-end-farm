@@ -398,7 +398,9 @@ WATER ENTRY ──────────────────────�
 ### 4.9 Grazing Infrastructure
 
 Supporting infrastructure to enable grazing management:
-- **Permanent Fencing:** Perimeter plus N/S fence at E end of paddocks (separates Paddock 7 from contour system)
+- **Perimeter Fencing:** Existing N/S fencing on both sides (N side needs minor updates, S side good condition); new E/W fencing needed at N and S ends of paddock area to close off contour system
+- **Paddock Entry:** Removable cattle panels at E/W fence lines for livestock movement into paddocks
+- **Paddock 7 Separation:** N/S fence at E end of contour paddocks separates Paddock 7 from contour system
 - **Primary Paddock Access:** ~0.25 ac N/S corridor between garden and paddocks; provides livestock access from SW barn to all contour paddocks (1-6)
 - **Tree Line Protection:** Semi-permanent electric fencing along tree lines with zoned control (only active paddock energized); removable wire design allows tree line access for pruning and maintenance
 - **Water System (Paddocks 1-6):** Buried water line from SW barn through Primary Paddock Access corridor; frost-free hydrants at each swale berm
