@@ -624,8 +624,8 @@ The following outcomes will be tracked and measured:
 | **S Access road/swale** | 1 (Swale 1) | Wide swale with 8-10 ft compacted ATV surface, tree line on N edge |
 | **N Access road/swale** | 1 (Swale 7) | Final catchment swale, 8-10 ft compacted ATV surface, dense willow+poplar biomass buffer |
 | **Irrigation distribution** | 1 system | 3 gates, piping from 8" main to swales, HDPE overflows |
-| **Total swale linear feet** | ~3,500 ft | 7 swales x ~500 ft each |
-| **Total tree line linear feet** | ~2,800 ft | 7 tree lines x ~400 ft each (50 ft access corridors on E/W ends) |
+| **Total swale linear feet** | ~2,800 ft | 7 swales x ~400 ft each |
+| **Total tree line linear feet** | ~2,800 ft | 7 tree lines x ~400 ft each |
 
 **Earthwork Specifications:**
 - **Swale Profile:** Shallow, wide swales (not deep ditches) to maximize infiltration
@@ -929,8 +929,8 @@ This model is common in regenerative agriculture and allows the project to focus
 | Tree lines | 7 | ~400 ft each | Centered, with 50 ft access corridors on E/W ends |
 | Slide gates (8" pipe) | 3 | each | Gate 1→Swale 1 (→2), Gate 2→Swale 3 (→4), Gate 3→Swale 5 (→6→7) |
 | HDPE riser overflows | 6 | each | Cascade connections between swales |
-| **Total swale linear feet** | ~3,500 | ft | All 7 swales combined |
-| **Total tree line linear feet** | ~2,800 | ft | All 7 tree lines combined |
+| **Total swale linear feet** | ~2,800 | ft | 7 swales x ~400 ft each |
+| **Total tree line linear feet** | ~2,800 | ft | 7 tree lines x ~400 ft each |
 
 ### Budget Summary (Beginning Farmer Rates)
 
