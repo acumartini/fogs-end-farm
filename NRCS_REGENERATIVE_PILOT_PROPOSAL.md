@@ -400,10 +400,10 @@ WATER ENTRY ──────────────────────�
 ### 4.9 Grazing Infrastructure
 
 Supporting infrastructure to enable grazing management:
-- **Permanent Fencing:** Perimeter plus N/S fence lines at east and west ends of tree lines; N/S fence at E end separates Paddock 7 from contour system
-- **Paddock Access:** Cattle panels at tree line ends for animal movement between paddocks 1-6
+- **Permanent Fencing:** Perimeter plus N/S fence at E end of paddocks (separates Paddock 7 from contour system)
+- **Primary Paddock Access:** ~0.25 ac N/S corridor between garden and paddocks; provides livestock access from SW barn to all contour paddocks (1-6)
 - **Tree Line Protection:** Semi-permanent electric fencing along tree lines with zoned control (only active paddock energized); removable wire design allows tree line access for pruning and maintenance
-- **Water System (Paddocks 1-6):** Buried water line from SW barn to frost-free hydrants on berms; trench included in earthwork scope
+- **Water System (Paddocks 1-6):** Buried water line from SW barn through Primary Paddock Access corridor; frost-free hydrants at each swale berm
 - **Water System (Paddock 7):** Uses existing frost-free at SE barn
 - **Paddock 7:** Existing perimeter fencing in good condition; minor reconfiguration as needed
 
@@ -476,12 +476,14 @@ The following outcomes will be tracked and measured:
 *(See [Appendix D.1](#d1-property-overview), [Appendix D.8](#d8-maps-and-aerial-imagery))*
 
 **Total Dimensions:** 550 ft (E/W) x 400 ft (N/S)  
-**Western Strip:** 50 ft wide - Garden/Nursery (full N/S length), SW Barn, Wetland (NW corner)  
-**Paddock Area:** 500 ft (E/W) x 400 ft (N/S) = ~4.6 acres  
-**Tree Line Length:** ~400 ft each (centered), with 50 ft access corridors on both E and W ends for livestock movement to barns  
+**Western Strip:** ~75 ft wide - Garden/Nursery (0.25 ac), Wetland (0.25 ac in NW corner)  
+**Primary Paddock Access:** ~25 ft wide (~0.25 ac) - N/S corridor between garden and paddocks, provides access from SW Barn  
+**Contour Paddocks (1-6):** 400 ft (E/W) x ~57 ft each (N/S) = ~0.5 ac each, ~3.0 ac total  
+**Paddock 7:** ~50 ft wide (E side, off-contour) = ~0.5 ac  
+**Tree Line Length:** ~400 ft each (full width of paddock area)  
 **Contour Orientation:** E/W (swales run east-west across paddock area)  
 **Swale Spacing:** ~55-58 ft  
-**Number of Swales:** 7 (including access road/swale as Swale 1)  
+**Number of Swales:** 7 (including access road/swales as Swale 1 and Swale 7)  
 **Number of Paddocks:** 7 total (6 in contour system + 1 off-contour on E side)
 
 ```
@@ -492,32 +494,32 @@ The following outcomes will be tracked and measured:
     │░░░░░░░░░░░│           ║ ▓▓ SWALE 7 / N ACCESS ROAD ▓▓▓▓▓▓▓▓▓▓ │           │  ▲
     │░░░░░░░░░░░┤           ╠───────────────────────────────────────┤           │  │
     │░░░░░░░░░░░│           ║                                       │           │  │
-    │░░░░░░░░░░░│           ║         PADDOCK 6 (~0.76 ac)          │           │  │
+    │░░░░░░░░░░░│           ║         PADDOCK 6 (~0.5 ac)           │           │  │
     ├░ WETLAND ░┤           ╠───────────────────────────────────────┤           │  │
     │░ (0.25ac) │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 6 + TREE LINE ▓▓▓▓▓▓ │           │  │
     │░ UPHILL  ░┤           ╠───────────────────────────────────────┤           │  
     │░░░░░░░░░░░│           ║                                       │           │  4
-    │░░░░░░░░░░░│           ║         PADDOCK 5 (~0.76 ac)          │ PADDOCK 7 │  0
+    │░░░░░░░░░░░│           ║         PADDOCK 5 (~0.5 ac)           │ PADDOCK 7 │  0
     │░░░░░░░░░░░┤           ╠───────────────────────────────────────┤ (~0.5 ac) │  0
     │░░░░░░░░░░░│           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 5 + TREE LINE ▓▓▓▓▓▓ │           │  
     │───────────┤           ╠───────────────────────────────────────┤    E      │  f
     │           │ PRIMARY   ║                                       │   side    │  t
-    │           │ PADDOC    ║         PADDOCK 4 (~0.76 ac)          │   off-    │  
+    │           │ PADDOCK   ║         PADDOCK 4 (~0.5 ac)           │   off-    │  
     │           │ ACCESS    ╠───────────────────────────────────────┤  contour  │  │
     │  GARDEN   │ (~0.25 ac)║ ▓▓▓▓▓▓▓▓▓▓ SWALE 4 + TREE LINE ▓▓▓▓▓▓ │           │  │
     │     /     │           ╠───────────────────────────────────────┤  Access   │  │
     │  NURSERY  │           ║                                       │    via    │  │
-    │ (0.25 ac) │           ║         PADDOCK 3 (~0.76 ac)          │    SE     │  │
+    │ (0.25 ac) │           ║         PADDOCK 3 (~0.5 ac)           │    SE     │  │
     │           │           ╠───────────────────────────────────────┤   barn    │  │
     │           │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 3 + TREE LINE ▓▓▓▓▓▓ │           │  │
     │           │           ╠───────────────────────────────────────┤           │  │
     │───────────│           ║                                       │           │  │
-    │  MAIN     │           ║         PADDOCK 2 (~0.76 ac)          │           │  │
+    │  MAIN     │           ║         PADDOCK 2 (~0.5 ac)           │           │  │
     │  ACCESS   │           ╠───────────────────────────────────────┤           │  │
     │  ROAD     │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 2 + TREE LINE ▓▓▓▓▓▓ │           │  │
     │───────────┤───────────╠───────────────────────────────────────┤───────────│  │
     │           │           ║                                       │           │  │
-    │  GARDEN   │  SE BARN  ║         PADDOCK 1 (~0.76 ac)          │  SE BARN  │  │
+    │  GARDEN   │  SW BARN  ║         PADDOCK 1 (~0.5 ac)           │  SE BARN  │  │
     │  cont.    │  (water)  ╠───────────────────────────────────────┤  (water)  │  │
     │           │           ║ ▓▓▓ SWALE 1 / S ACCESS ROAD ▓▓▓▓▓▓▓▓▓ │           │  │
     ├───────────┴───────────╩───────────────────────────────────────┴───────────┤  │
@@ -565,10 +567,14 @@ The following outcomes will be tracked and measured:
     ≈≈≈  Irrigation ditch (south edge of property, full E/W length)
     ║    Access roads (N/S connector + main access from property)
     
-    WEST STRIP (50' wide, north to south):
-    - Wetland: 0.25 ac (NW corner, spans Paddock 6 height only - note: uphill from swales, overflow does NOT flow to wetland)
+    WEST STRIP (~75' wide, north to south):
+    - Wetland: 0.25 ac (NW corner, spans Paddock 5-6 height - note: uphill from swales)
     - Garden/Nursery: 0.25 ac (spans Paddocks 1-5 height)
-    - Total west strip: ~0.5 ac
+    
+    PRIMARY PADDOCK ACCESS (~25' wide, ~0.25 ac):
+    - N/S corridor between garden/nursery and contour paddocks
+    - Provides access from SW barn to all contour paddocks (1-6)
+    - Water line and frost-free hydrants located here
     
     SWALE SYSTEM (7 swales, numbered S→N in direction of water flow):
     - Swale 1 / S Access Road: Widest swale, compacted ATV surface (8-10 ft),
@@ -580,32 +586,32 @@ The following outcomes will be tracked and measured:
     - All swales run E/W on contour at ~57 ft spacing
     
     PADDOCK SYSTEM (7 paddocks total):
-    - Paddocks 1-6: Contour system between swales (~0.76 ac each)
-      - Access SW barn via W corridor
-      - Water via frost-free hydrants on tree line berms
+    - Paddocks 1-6: Contour system between swales (~0.5 ac each)
+      - 400 ft E/W x ~57 ft N/S
+      - Access via Primary Paddock Access corridor (W side)
+      - Water via frost-free hydrants in access corridor
     - Paddock 7: E side of property, off-contour (~0.5 ac)
-      - Runs along entire E edge of contour paddocks
+      - Runs along entire E edge of contour paddocks (50' wide)
       - Access SE barn directly
       - Water via SE barn frost-free
       - Existing fencing in good condition
     
-    TREE LINES: ~400 ft each (centered in paddock area)
-    - 50 ft access corridor on W end (aligns with 8" irrigation pipe, access to SW barn)
-    - 50 ft access corridor on E end (N/S fencing separates from Paddock 7)
-    - Permanent N/S fencing at tree line ends with cattle panel gates
+    TREE LINES: ~400 ft each (full paddock width)
+    - No access corridors needed within tree lines
+    - N/S fencing at E end separates from Paddock 7
+    
+    BARNS:
+    - SW Barn: Access to Primary Paddock Access corridor and Paddocks 1-6
+    - SE Barn: Direct access to Paddock 7
     
     ACCESS ROADS:
-    - Main Access: Entry to pasture area from rest of property (SW corner)
-    - Swale 1 (S): E/W access road, 8-10 ft compacted surface, tree line on N edge only
-    - Swale 7 (N): E/W access road, 8-10 ft compacted surface, dense willow+poplar biomass buffer
-    - N/S Connector: Runs along east edge of garden/nursery/wetland, links Swale 1 to Swale 7
-    - Together these form a connected ATV/UTV access loop
+    - Main Access Road: Entry from rest of property (SW corner)
+    - Swale 1 (S): E/W access road, 8-10 ft compacted surface, tree line on N edge
+    - Swale 7 (N): E/W access road, 8-10 ft compacted surface, willow+poplar buffer
     
     IRRIGATION INFRASTRUCTURE: West of garden
     - Two control boxes at water entry (500 ft W of garden)
     - Concrete box replacement/rehabilitation needed
-    
-    SOUTH EDGE (left to right): Garden, SW Barn, SE Barn, irrigation ditch
 ```
 
 ### 7.2 Swale and Tree Line System Design

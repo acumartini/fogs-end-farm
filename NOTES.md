@@ -193,7 +193,7 @@ The "3-day rule" is about parasite reinfection - larvae hatch and climb grass in
 
 | Paddock | Location | Size | Barn Access | Water |
 |---------|----------|------|-------------|-------|
-| 1-6 | Contour system | ~0.76 ac each | SW barn (W corridor) | Frost-free hydrants on berms |
+| 1-6 | Contour system | ~0.5 ac each | SW barn (via Primary Paddock Access) | Frost-free hydrants in access corridor |
 | 7 | E side, off-contour | ~0.5 ac | SE barn | SE barn frost-free |
 
 ### Rotation Summary

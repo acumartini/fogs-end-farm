@@ -199,7 +199,7 @@ IRRIGATION DISTRIBUTION DIAGRAM (water flows S→N, swales numbered in flow dire
 | S Access road/swale | 1 | each | Swale 1, ~500 ft, 8-10 ft compacted, tree line on N edge |
 | N Access road/swale | 1 | each | Swale 7, ~500 ft, 8-10 ft compacted, willow+poplar buffer |
 | Tree lines | 7 | each | ~400 ft each (50 ft access corridors on E/W ends) |
-| Paddocks (contour) | 6 | each | ~57 ft N/S x 500 ft E/W (Paddock 7 is off-contour, E side, existing fencing) |
+| Paddocks (contour) | 6 | each | ~57 ft N/S x 400 ft E/W, ~0.5 ac each (Paddock 7 is off-contour, E side, existing fencing) |
 | Control box replacement | 2 | structures | At water entry point |
 | Slide gates (8" pipe) | 3 | each | Owner can supply |
 | HDPE overflow assemblies | 6 | each | Owner can supply |
