@@ -122,51 +122,55 @@ Working notes and implementation details that don't belong in the NRCS proposal.
 
 ### Design Evolution
 
-Originally considered vertical riser pipes with adjustment mechanisms. Rejected due to:
-- Cost (240 risers with adjustment hardware)
-- Complexity (keeping 240 risers level)
-- Maintenance concerns
+Originally considered:
+1. Vertical riser pipes with adjustment mechanisms — rejected (complex, expensive)
+2. Horizontal pipes through berm notches — rejected (240 plastic pipes, over-engineered)
 
-### Final Design: Horizontal Pipe Spillways
+### Final Design: Graded Notches (No Pipe)
 
 **Approach:**
 - Contractor grades spillway notches into berm every 10 ft
 - All notches at same level (contractor uses laser level)
-- 3" black HDPE pipe (5 ft long) laid horizontally through each notch
-- Pipe maintains opening, prevents debris from filling notch
+- 40 notches per swale × 6 swales = 240 spillways total
 - 5 ft berm width allows planting on both uphill and downhill sides
+- No pipe or plastic — just earth
 
 **Why this works:**
-- Earthwork sets the rough grade (contractor responsibility)
-- Pipe keeps debris from clogging the spillway
-- If settling occurs, fine-tune with shovel — just move dirt, no parts to adjust
-- Black HDPE is UV stable for 25+ years
+- Flood irrigation only every 2 weeks (2.5 days on, 11-12 days dry)
+- Debris concern may be overblown — notches are dry most of the time
+- If debris accumulates, just rake it out
+- If settling occurs, fine-tune with shovel
 
-### Materials
-
-| Item | Quantity | Notes |
-|------|----------|-------|
-| 3" black HDPE pipe | 1,200 ft | 240 spillways × 5 ft each |
-| Pipe comes in 10 or 20 ft sticks | 120 or 60 sticks | 5 ft cuts evenly (2 or 4 per stick) |
-| **Estimated cost** | ~$1,800 | @ $1.50/ft |
+**If debris becomes a real problem:**
+Can retrofit with 3" black HDPE pipe through notches later. But start simple.
 
 ### Installation
 
 1. Contractor grades berm with spillway notches every 10 ft
 2. Contractor verifies notches are level with laser
-3. Lay 3" HDPE pipe through each notch
-4. First irrigation: observe water flow, note high/low spots
-5. Hand-grade any uneven spillways with shovel
+3. First irrigation: observe water flow, note high/low spots
+4. Hand-grade any uneven spillways with shovel
 
 ### Maintenance
 
-- Rake debris from pipe inlets periodically
-- Check for settling after first year, re-grade if needed
-- Pipe itself needs no maintenance
+- Observe after first few irrigations
+- Rake debris if needed
+- Re-grade notches if settling causes uneven flow
 
 ### Placement
 
 Spillways are on the berm within the tree line zone, protected by electric fence from cattle traffic.
+
+### Tree Crown Rot Concern (Addressed)
+
+Initial concern: trees getting too much water near crowns.
+
+**Not an issue because:**
+- Trees are on the berm, elevated above water level
+- Swales drain within a day or two
+- 11-12 days dry between irrigations
+- Roots grow down into moisture zone, crowns stay dry
+- Only willows are in the wet channel (and they love it)
 
 ---
 

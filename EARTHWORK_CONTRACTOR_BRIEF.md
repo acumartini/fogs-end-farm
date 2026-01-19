@@ -160,9 +160,8 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
 - **Spillway overflow system:** 
   - Grade spillway notches into each berm every 10 ft, all at same level
   - 40 spillways per swale × 6 swales = 240 spillways total
-  - Owner installs 3" black HDPE pipe (5 ft) horizontally through each notch
-  - Pipe maintains opening, prevents debris accumulation
   - Verify notch levels with laser during grading
+  - No pipe required — just graded notches
 - **Photos:** #09 (west boundary/pipe area), #29-31 (irrigation trench, 8" pipe)
 
 ```
@@ -208,7 +207,6 @@ IRRIGATION DISTRIBUTION DIAGRAM (water flows south to north, swales numbered in 
 | Control box replacement | 2 | structures | At water entry point |
 | Spillway notches per berm | 40 | each | Every 10 ft, graded level across full berm width |
 | Slide gates (8" pipe) | 3 | each | Owner can supply |
-| 3" HDPE spillway pipes | 240 | each | Owner supplies, 5 ft each, installed in notches |
 | Livestock water trench | ~350 | ft | Through Primary Paddock Access corridor, 18-24" deep, owner lays pipe |
 | **Total swale linear feet** | ~2,800 | ft | All 7 swales combined |
 | **Total tree line linear feet** | ~2,800 | ft | All 7 tree lines combined |
@@ -223,7 +221,7 @@ IRRIGATION DISTRIBUTION DIAGRAM (water flows south to north, swales numbered in 
 4. **Verify spillway levels** - Laser level to confirm all notches at same elevation per swale
 5. **Access roads** - Compact driving surfaces on Swale 1 (S) and Swale 7 (N)
 6. **Livestock water trench** - Dig N/S trench through Primary Paddock Access corridor while equipment on site
-7. **Owner lays water pipe + spillway pipes** - Before backfill / while contractor on site
+7. **Owner lays water pipe** - Before backfill
 8. **Backfill water trench** - After pipe is laid
 9. **Seeding** - Immediately after earthwork complete (owner responsibility)
 
