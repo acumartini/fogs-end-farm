@@ -757,7 +757,6 @@ RISER OVERFLOW DETAIL (Cross-Section):
 - Black HDPE = UV stable for 25+ years
 - No vegetation management (nothing grows on pipe)
 - No clogging (debris floats, doesn't enter)
-- Invisible in landscape (just top visible above water)
 - Adjustable (cut lower to change overflow height)
 - Cheap to replace if ever needed (~$30-50 each)
 
