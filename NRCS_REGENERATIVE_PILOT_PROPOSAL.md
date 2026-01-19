@@ -244,7 +244,7 @@ The following practices support the primary regenerative management system:
 **Implementation Approach:**
 - Maintain appropriate buffer from grazing activity
 - Enhance native wetland vegetation
-- Create wildlife corridor connecting wetland to tree lines
+- Enhance habitat connectivity between wetland and tree lines via west edge vegetation
 - Maintain as separate habitat feature (note: wetland is uphill from contour swales, not an overflow destination)
 - Monitor water quality as indicator of upstream management success
 
@@ -389,7 +389,7 @@ WATER ENTRY ──────────────────────�
 - Tree lines provide cover, nesting, and food sources
 - Native wildflower understory in tree lines for pollinators
 - Brush piles from clearing for small wildlife cover
-- Wildlife corridor connecting tree lines to wetland buffer
+- Habitat connectivity between tree lines and wetland buffer via west edge plantings
 - Diverse pasture provides foraging habitat
 
 **Measurable Outcomes:**
