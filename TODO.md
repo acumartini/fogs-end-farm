@@ -76,8 +76,8 @@
 
 **Distribution System (existing 8" pipe along west edge):**
 - [ ] Confirm 8" pipe condition and routing
-- [ ] Identify locations for 4 zone gates (feeding swales 0+1, 2+3, 4+5, 6+7)
-- [ ] Purchase: 4 slide gates @ $100 each = $400
+- [ ] Identify locations for 3 zone gates (Gate 1→Swale 1, Gate 2→Swale 3, Gate 3→Swale 5)
+- [ ] Purchase: 3 slide gates @ $100 each = $300 (Gate 1→Swale 1, Gate 2→Swale 3, Gate 3→Swale 5)
 - [ ] Purchase: 7 HDPE riser overflow assemblies @ ~$40 each = $280
 - [ ] Design swale inlet from gate to swale (T-fitting? open riser?)
 
@@ -223,7 +223,7 @@ I'm writing to inquire about the new NRCS Regenerative Pilot Program for my 9.5-
 
 **The Project:**
 
-The property currently has underutilized pasture with flood irrigation (2.5 days every two weeks via irrigation district). My plan is to install 8 contour swales running east-west across the pasture (7 standard swales plus an access road that functions as the southernmost swale), with diverse tree lines on the berms, creating 7 paddocks for managed rotational grazing. The swales would capture and infiltrate irrigation runoff that currently runs off unused, while the tree lines would add nitrogen fixation, shade, biomass, and biodiversity to what is now a simple grass pasture.
+The property currently has underutilized pasture with flood irrigation (2.5 days every two weeks via irrigation district). My plan is to install 7 contour swales running east-west across the pasture (5 standard swales plus 2 access roads - one on the south edge near the barns, one on the north edge before the wetland), with diverse tree lines on the berms, creating 6 paddocks for managed rotational grazing. The paddocks will be split E/W to create 12 grazing cells for adequate rest periods. The northern access road/swale will be densely planted with willow and poplar to capture any remaining runoff nutrients as biomass before overflow reaches the wetland. The swales would capture and infiltrate irrigation runoff that currently runs off unused, while the tree lines would add nitrogen fixation, shade, biomass, and biodiversity to what is now a simple grass pasture.
 
 I also have aging irrigation infrastructure at the water entry point (two old concrete control boxes that leak significantly) that needs rehabilitation.
 
@@ -717,7 +717,8 @@ Biomass, pollinators, beneficial insects, soil biology
 
 ### Tree Line Cross-Section
 
-**Water flows SOUTH → NORTH (downhill toward wetland in NW corner)**
+**Water flows SOUTH → NORTH (downhill toward N property edge)**
+**Note: Wetland (NW corner) is uphill from swales - overflow does NOT flow to wetland**
 
 ```
 SOUTH (uphill)                                   NORTH (downhill)
@@ -806,29 +807,29 @@ Since many species are deer-vulnerable when young:
 
 ### Quantities Estimate (Dense-to-Thin Strategy)
 
-For 8 tree lines x 400 ft each = 3,200 linear feet of tree line
-(7 full tree lines on swale berms + 1 partial on access road north edge)
+For 7 tree lines x 400 ft each = 2,800 linear feet of tree line
+(5 full tree lines on swale berms + 2 on access roads - Swale 1 S and Swale 7 N)
 
 **Strategy:** Plant support species (poplars, N-fixers, aromatics) at higher initial density, then thin/coppice as permanent canopy matures. This accelerates establishment, front-loads nitrogen, and provides insurance against losses.
 
 | Layer | Initial Spacing | Long-term Spacing | Initial Count | Species | Notes |
 |-------|-----------------|-------------------|---------------|---------|-------|
-| Emergent/Nurse | 15-20 ft | Remove as canopy matures | ~185 trees | Poplar | Fast shade; coppice/remove years 8-15 |
-| Canopy (permanent) | 45 ft | 45 ft | ~72 trees | Oak, chestnut, honey locust | Long-term anchors; don't thin |
-| Sub-canopy | 17 ft | 17 ft | ~188 trees | Mulberry, persimmon, serviceberry, fig, hazelnut | Permanent; fruit, wildlife, nuts |
-| N-fixers | 5-8 ft | 15-20 ft (thin) | ~450-640 | Black locust, alder, goumi, Siberian pea | Dense initial; thin/coppice years 4-7 |
-| Wet edge (willow) | 2-3 ft | 2-3 ft (maintain dense) | ~1,070-1,600 | Willow | Dense coppice; maintain permanently |
-| Dry edge (aromatic) | 2 ft | Thin as needed | ~1,600 | Sage, lavender, wormwood | Dense initial; thin to 3 ft as mature |
-| Herbaceous | Throughout | Throughout | 500+ | Comfrey, clover seed | Permanent understory |
+| Emergent/Nurse | 15-20 ft | Remove as canopy matures | ~160 trees | Poplar | Fast shade; coppice/remove years 8-15 |
+| Canopy (permanent) | 45 ft | 45 ft | ~63 trees | Oak, chestnut, honey locust | Long-term anchors; don't thin |
+| Sub-canopy | 17 ft | 17 ft | ~165 trees | Mulberry, persimmon, serviceberry, fig, hazelnut | Permanent; fruit, wildlife, nuts |
+| N-fixers | 5-8 ft | 15-20 ft (thin) | ~400-560 | Black locust, alder, goumi, Siberian pea | Dense initial; thin/coppice years 4-7 |
+| Wet edge (willow) | 2-3 ft | 2-3 ft (maintain dense) | ~935-1,400 | Willow | Dense coppice; maintain permanently |
+| Dry edge (aromatic) | 2 ft | Thin as needed | ~1,400 | Sage, lavender, wormwood | Dense initial; thin to 3 ft as mature |
+| Herbaceous | Throughout | Throughout | 450+ | Comfrey, clover seed | Permanent understory |
 
 **Initial totals (dense planting):**
-- **Berm trees/shrubs:** ~900-1,100 (poplars, canopy, sub-canopy, N-fixers)
-- **Edge plantings:** ~2,670-3,200 (dense willow + aromatics)
-- **Herbaceous:** 500+ (comfrey, clover)
+- **Berm trees/shrubs:** ~790-950 (poplars, canopy, sub-canopy, N-fixers)
+- **Edge plantings:** ~2,335-2,800 (dense willow + aromatics)
+- **Herbaceous:** 450+ (comfrey, clover)
 
 **Long-term totals (after thinning):**
-- **Berm trees/shrubs:** ~450-550 (permanent canopy, sub-canopy, retained N-fixers)
-- **Edge plantings:** ~2,000-2,500 (willow maintained, aromatics thinned)
+- **Berm trees/shrubs:** ~400-480 (permanent canopy, sub-canopy, retained N-fixers)
+- **Edge plantings:** ~1,750-2,200 (willow maintained, aromatics thinned)
 
 **Management timeline:**
 - Years 1-3: All species establish; support species provide shade/fertility
