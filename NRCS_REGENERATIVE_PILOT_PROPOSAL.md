@@ -114,9 +114,9 @@ Based on the approved practice list and the specific site conditions (flood irri
 **Rationale:** The cornerstone practice for pasture-based regenerative systems. Properly managed grazing is the most powerful tool for building soil health, cycling nutrients, and stimulating plant growth on pastureland.
 
 **Implementation Approach:**
-- **Adaptive Multi-Paddock (AMP) Grazing System:** 6 paddocks created between contour swales, with E/W subdivision for 12 grazing cells
+- **Adaptive Multi-Paddock (AMP) Grazing System:** 7 paddocks total (6 in contour system + 1 off-contour on E side)
 - **Paddock Size:** Approximately 0.5-0.65 acres each (based on ~50 ft spacing between swales)
-- **High Stock Density, Short Duration:** Animals concentrated for brief periods (1-3 days) followed by extended rest (30-90+ days depending on season)
+- **High Stock Density, Short Duration:** Animals concentrated for brief periods (5 days per paddock) followed by extended rest (30 days)
 - **Rest Period Management:** Recovery time based on plant growth stage, not calendar dates
 - **Tree Line Exclusion:** Electric fencing keeps animals out of swale tree lines, protecting trees while allowing biomass to accumulate
 - **Animal Impact as Tool:** Targeted trampling to incorporate residue, break soil caps, and stimulate biological activity
@@ -400,10 +400,12 @@ WATER ENTRY ──────────────────────�
 ### 4.9 Grazing Infrastructure
 
 Supporting infrastructure to enable grazing management:
-- **Permanent Fencing:** Perimeter plus N/S fence lines at east and west ends of tree lines
-- **Paddock Access:** Cattle panels at tree line ends for animal movement between paddocks
+- **Permanent Fencing:** Perimeter plus N/S fence lines at east and west ends of tree lines; N/S fence at E end separates Paddock 7 from contour system
+- **Paddock Access:** Cattle panels at tree line ends for animal movement between paddocks 1-6
 - **Tree Line Protection:** Semi-permanent electric fencing along tree lines with zoned control (only active paddock energized); removable wire design allows tree line access for pruning and maintenance
-- **Water System:** Buried water line from barn to frost-free hydrants on each berm; trench included in earthwork scope
+- **Water System (Paddocks 1-6):** Buried water line from SW barn to frost-free hydrants on berms; trench included in earthwork scope
+- **Water System (Paddock 7):** Uses existing frost-free at SE barn
+- **Paddock 7:** Existing perimeter fencing in good condition; minor reconfiguration as needed
 
 ---
 
@@ -480,55 +482,55 @@ The following outcomes will be tracked and measured:
 **Contour Orientation:** E/W (swales run east-west across paddock area)  
 **Swale Spacing:** ~55-58 ft  
 **Number of Swales:** 7 (including access road/swale as Swale 1)  
-**Number of Paddocks:** 6 (between swales), split E/W for 12 grazing cells
+**Number of Paddocks:** 7 total (6 in contour system + 1 off-contour on E side)
 
 ```
                             NORTH (downhill)
-        <──────────────── 550 ft ────────────────>
+        <──────────────── 550 ft ──────────────────────────────>
        
-    ┌───────────┬─────────────────────────────────────────┐  ▲
-    │░░░░░░░░░░░║ ▓▓ SWALE 7 / N ACCESS ROAD ▓▓▓▓▓▓▓▓▓▓▓▓ │◀── ATV access, willow+poplar biomass buffer
-    │░░░░░░░░░░░╠──────────────────┬──────────────────────┤  │   Final catchment before N property edge
-    │░░░░░░░░░░░║   PADDOCK 6-W    │    PADDOCK 6-E       │  │
-    │░░░░░░░░░░░║    (~0.38 ac)    │     (~0.38 ac)       │  │
-    ├░ WETLAND ░╠──────────────────┼──────────────────────┤  │
-    │░ (0.25ac) ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 6 + TREE LINE ▓▓▓▓▓▓▓▓ │  │
-    │░ UPHILL  ░╠──────────────────┼──────────────────────┤  │
-    │░░░░░░░░░░░║   PADDOCK 5-W    │    PADDOCK 5-E       │  4
-    │░░░░░░░░░░░║    (~0.38 ac)    │     (~0.38 ac)       │  0
-    │░░░░░░░░░░░╠──────────────────┼──────────────────────┤  0
-    │░░░░░░░░░░░║ ▓▓▓▓▓▓▓▓▓▓ SWALE 5 + TREE LINE ▓▓▓▓▓▓▓▓ │  
-    │───────────╠──────────────────┼──────────────────────┤  f
-    │           ║   PADDOCK 4-W    │    PADDOCK 4-E       │  t
-    │           ║    (~0.38 ac)    │     (~0.38 ac)       │  
-    │           ╠──────────────────┼──────────────────────┤  │
-    │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 4 + TREE LINE ▓▓▓▓▓▓▓▓ │  │
-    │           ╠──────────────────┼──────────────────────┤  │
-    │           ║   PADDOCK 3-W    │    PADDOCK 3-E       │  │
-    │           ║    (~0.38 ac)    │     (~0.38 ac)       │  │
-    │  GARDEN   ╠──────────────────┼──────────────────────┤  │
-    │     /     ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 3 + TREE LINE ▓▓▓▓▓▓▓▓ │  │
-    │  NURSERY  ╠──────────────────┼──────────────────────┤  │
-    │ (0.25 ac) ║   PADDOCK 2-W    │    PADDOCK 2-E       │  │
-    │           ║    (~0.38 ac)    │     (~0.38 ac)       │  │
-    │           ╠──────────────────┼──────────────────────┤  │
-    │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 2 + TREE LINE ▓▓▓▓▓▓▓▓ │  │
-    │───────────╠──────────────────┼──────────────────────┤  │
-    │ MAIN      ║   PADDOCK 1-W    │    PADDOCK 1-E       │  ▼
-    │ ACCESS    ║    (~0.38 ac)    │     (~0.38 ac)       │
-    ├───────────╬──────────────────┴──────────────────────┤
-    │           ║ ▓▓▓ SWALE 1 / S ACCESS ROAD + TREE LINE │◀── ATV access
-    │  GARDEN   ╠─────────────────────┬───────────────────┤
-    │  cont.    ║      SW BARN        │     SE BARN       │
-    │           ║      (water)        │     (water)       │
-    ├───────────╩─────────────────────┴───────────────────┤
-    │ ≈≈≈≈≈≈≈≈≈≈≈≈≈≈ IRRIGATION DITCH ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈  │
-    └─────────────────────────────────────────────────────┘
+    ┌───────────┬───────────────────────────────────────┬───────────┐  ▲
+    │░░░░░░░░░░░║ ▓▓ SWALE 7 / N ACCESS ROAD ▓▓▓▓▓▓▓▓▓▓ │           │◀── ATV access
+    │░░░░░░░░░░░╠───────────────────────────────────────┤           │  │
+    │░░░░░░░░░░░║                                       │           │  │
+    │░░░░░░░░░░░║         PADDOCK 6 (~0.76 ac)          │           │  │
+    ├░ WETLAND ░╠───────────────────────────────────────┤           │  │
+    │░ (0.25ac) ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 6 + TREE LINE ▓▓▓▓▓▓ │           │  │
+    │░ UPHILL  ░╠───────────────────────────────────────┤           │  │
+    │░░░░░░░░░░░║                                       │           │  4
+    │░░░░░░░░░░░║         PADDOCK 5 (~0.76 ac)          │ PADDOCK 7 │  0
+    │░░░░░░░░░░░╠───────────────────────────────────────┤ (~0.5 ac) │  0
+    │░░░░░░░░░░░║ ▓▓▓▓▓▓▓▓▓▓ SWALE 5 + TREE LINE ▓▓▓▓▓▓ │           │  
+    │───────────╠───────────────────────────────────────┤    E      │  f
+    │           ║                                       │   side    │  t
+    │           ║         PADDOCK 4 (~0.76 ac)          │   off-    │  
+    │           ╠───────────────────────────────────────┤  contour  │  │
+    │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 4 + TREE LINE ▓▓▓▓▓▓ │           │  │
+    │           ╠───────────────────────────────────────┤  Access   │  │
+    │           ║                                       │    via    │  │
+    │           ║         PADDOCK 3 (~0.76 ac)          │    SE     │  │
+    │  GARDEN   ╠───────────────────────────────────────┤   barn    │  │
+    │     /     ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 3 + TREE LINE ▓▓▓▓▓▓ │           │  │
+    │  NURSERY  ╠───────────────────────────────────────┤           │  │
+    │ (0.25 ac) ║                                       │           │  │
+    │           ║         PADDOCK 2 (~0.76 ac)          │           │  │
+    │           ╠───────────────────────────────────────┤           │  │
+    │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 2 + TREE LINE ▓▓▓▓▓▓ │           │  │
+    │───────────╠───────────────────────────────────────┤           │  │
+    │ MAIN      ║                                       │           │  ▼
+    │ ACCESS    ║         PADDOCK 1 (~0.76 ac)          │           │
+    ├───────────╬───────────────────────────────────────┼───────────┤
+    │           ║ ▓▓▓ SWALE 1 / S ACCESS ROAD ▓▓▓▓▓▓▓▓▓ │           │◀── ATV access
+    │  GARDEN   ╠───────────────────────────────────────┼───────────┤
+    │  cont.    ║           SW BARN                     │  SE BARN  │
+    │           ║           (water)                     │  (water)  │
+    ├───────────╩───────────────────────────────────────┴───────────┤
+    │ ≈≈≈≈≈≈≈≈≈≈≈≈≈≈ IRRIGATION DITCH ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈  │
+    └───────────────────────────────────────────────────────────────┘
                             SOUTH (uphill, irrigation source)
     
-    <─ 50' ─>   <──────────── 500 ft ──────────────────────>
+    <─ 50' ─>   <──────────── 500 ft ─────────────────────><─ 50' ─>
                 <─50'─><──── 400 ft tree lines ────><─50'─>
-       W                                                 E
+       W                                                          E
 
 
     IRRIGATION DELIVERY SYSTEM (water entry to pasture distribution):
@@ -566,7 +568,6 @@ The following outcomes will be tracked and measured:
     ▓▓▓  Contour swale + diverse tree line (water management + silvopasture)
     ≈≈≈  Irrigation ditch (south edge of property, full E/W length)
     ║    Access roads (N/S connector + main access from property)
-    │    E/W paddock split (cattle panels or temporary fence for grazing rotation)
     
     WEST STRIP (50' wide, north to south):
     - Wetland: 0.25 ac (NW corner, spans Paddock 6 height only - note: uphill from swales, overflow does NOT flow to wetland)
@@ -582,15 +583,19 @@ The following outcomes will be tracked and measured:
       before excess exits north property edge
     - All swales run E/W on contour at ~57 ft spacing
     
-    PADDOCK AREA: 500 ft E/W x 400 ft N/S (~4.6 acres)
-    - 6 paddocks (~0.76 ac each), numbered 1-6 from S to N
-    - E/W split creates 12 grazing cells (~0.38 ac each) for rotation
-    - Each paddock ~57 ft N/S x 500 ft E/W
-    - West cells access SW barn; East cells access SE barn
+    PADDOCK SYSTEM (7 paddocks total):
+    - Paddocks 1-6: Contour system between swales (~0.76 ac each)
+      - Access SW barn via W corridor
+      - Water via frost-free hydrants on tree line berms
+    - Paddock 7: E side of property, off-contour (~0.5 ac)
+      - Runs along entire E edge of contour paddocks
+      - Access SE barn directly
+      - Water via SE barn frost-free
+      - Existing fencing in good condition
     
     TREE LINES: ~400 ft each (centered in paddock area)
     - 50 ft access corridor on W end (aligns with 8" irrigation pipe, access to SW barn)
-    - 50 ft access corridor on E end (contour drops off, access to SE barn)
+    - 50 ft access corridor on E end (N/S fencing separates from Paddock 7)
     - Permanent N/S fencing at tree line ends with cattle panel gates
     
     ACCESS ROADS:
@@ -773,19 +778,19 @@ RISER OVERFLOW DETAIL (Cross-Section):
 
 ### 7.4 Grazing Calendar Framework
 
-With 6 paddocks split E/W into 12 grazing cells, the rotation provides adequate rest periods:
+With 7 paddocks and a 5-day rotation, the system provides adequate rest with minimal management complexity:
 
-| Season | Grazing Cells | Days per Cell | Rotation Length | Rest Period | Notes |
-|--------|---------------|---------------|-----------------|-------------|-------|
-| **Spring** (Mar-May) | All 12 | 2 days | 24 days | 22 days | Fast rotation during flush growth |
-| **Summer** (Jun-Aug) | All 12 | 3 days | 36 days | 33 days | Slower growth; irrigation helps |
-| **Fall** (Sep-Nov) | All 12 | 2-3 days | 24-36 days | 22-33 days | Moderate rotation |
-| **Winter** (Dec-Feb) | 4-6 (stockpiled) | 5-7 days | N/A | N/A | Graze stockpiled cells, hay supplement |
+| Season | Paddocks | Days per Paddock | Rotation Length | Rest Period | Notes |
+|--------|----------|------------------|-----------------|-------------|-------|
+| **Spring** (Mar-May) | All 7 | 4-5 days | 28-35 days | 24-30 days | May tighten rotation during flush growth |
+| **Summer** (Jun-Aug) | All 7 | 5 days | 35 days | 30 days | Standard rotation; irrigation supports regrowth |
+| **Fall** (Sep-Nov) | All 7 | 5 days | 35 days | 30 days | Standard rotation |
+| **Winter** (Dec-Feb) | 3-4 (stockpiled) | 7-10 days | N/A | N/A | Graze stockpiled paddocks, hay supplement |
 
-**E/W Split Management:**
-- Cattle panels or temporary fencing divide paddocks E/W as needed
-- West cells access SW barn; East cells access SE barn
-- Open panel or gate to swap sides after grazing each cell
+**Paddock Access:**
+- Paddocks 1-6 (contour system): Access SW barn via W corridor
+- Paddock 7 (E side, off-contour): Access SE barn directly
+- Animals move between paddocks every 5 days (6 moves per month)
 
 **Tree Line Integration:**
 - Electric fencing excludes animals from tree lines to protect understory plantings

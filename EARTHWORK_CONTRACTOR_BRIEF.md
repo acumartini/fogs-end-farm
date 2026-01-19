@@ -136,7 +136,7 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
   - Connections: #27 (between boxes), #28 (active leakage)
 
 ### 6. Livestock Water Line Trench
-- **Location:** N/S trench up center of paddock area (between E/W cells)
+- **Location:** N/S trench along W side of paddock area (near tree line W ends)
 - **Length:** ~400 ft (from barn connection to Swale 6)
 - **Depth:** 18-24" (below frost line)
 - **Purpose:** Buried water line to supply frost-free hydrants on berms
@@ -199,7 +199,7 @@ IRRIGATION DISTRIBUTION DIAGRAM (water flows S→N, swales numbered in flow dire
 | S Access road/swale | 1 | each | Swale 1, ~500 ft, 8-10 ft compacted, tree line on N edge |
 | N Access road/swale | 1 | each | Swale 7, ~500 ft, 8-10 ft compacted, willow+poplar buffer |
 | Tree lines | 7 | each | ~400 ft each (50 ft access corridors on E/W ends) |
-| Paddocks | 6 | each | ~57 ft N/S x 500 ft E/W |
+| Paddocks (contour) | 6 | each | ~57 ft N/S x 500 ft E/W (Paddock 7 is off-contour, E side, existing fencing) |
 | Control box replacement | 2 | structures | At water entry point |
 | Slide gates (8" pipe) | 3 | each | Owner can supply |
 | HDPE overflow assemblies | 6 | each | Owner can supply |

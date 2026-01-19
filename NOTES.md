@@ -16,7 +16,7 @@ Working notes and implementation details that don't belong in the NRCS proposal.
 
 | Component | Description |
 |-----------|-------------|
-| **Permanent** | Perimeter + N/S lines at tree line ends with cattle panels for access |
+| **Permanent** | Perimeter + N/S lines at tree line ends with cattle panels; N/S fence at E end separates Paddock 7 |
 | **Semi-permanent** | T-posts along tree lines (stay in place year-round) |
 | **Removable** | 2 aluminum wires on clips - drop for tree work, rehang after |
 | **Zoned** | Gate handle disconnects so only active paddock is hot |
@@ -65,7 +65,7 @@ Working notes and implementation details that don't belong in the NRCS proposal.
 ### Design Decisions
 
 - **Barns:** Both SW and SE barns have frost-free valves and animal shelter
-- **Approach:** Single buried line up center of paddocks with frost-free hydrants on each berm
+- **Approach:** Single buried line along W side of paddocks with frost-free hydrants on W end of each berm
 - **Troughs:** Hose from hydrant to trough in active cell (no permanent troughs needed, or add later)
 
 ### Layout
@@ -168,6 +168,40 @@ NOTCHED SWALE (top view):
 - Power available near wetland (NW corner)
 - Would need to run to paddocks (~400-500 ft)
 - **Decision:** Solar energizer avoids this entirely - place anywhere, no wiring
+
+---
+
+## Grazing Rotation
+
+### Design Decisions
+
+- **7 paddocks** (6 contour + 1 off-contour on E side)
+- **5 days per paddock** - balance between adequate grazing pressure and manageable workload
+- **35-day rotation cycle** - 30 days rest per paddock
+- **6 moves per month** - much simpler than 12-cell E/W split (10 moves/month)
+
+### Why 5 Days vs 3 Days
+
+The "3-day rule" is about parasite reinfection - larvae hatch and climb grass in 3-4 days. But:
+
+- Rogue Valley has hot, dry summers - larvae don't survive well
+- Poultry following breaks parasite cycle
+- Cattle are less susceptible than sheep/goats
+- 5 days still adequate with these factors
+
+### Paddock Layout
+
+| Paddock | Location | Size | Barn Access | Water |
+|---------|----------|------|-------------|-------|
+| 1-6 | Contour system | ~0.76 ac each | SW barn (W corridor) | Frost-free hydrants on berms |
+| 7 | E side, off-contour | ~0.5 ac | SE barn | SE barn frost-free |
+
+### Rotation Summary
+
+- 7 paddocks × 5 days = 35-day rotation
+- 30 days rest per paddock
+- 6 moves per month
+- Animals at SE barn (Paddock 7) only 5 days out of 35 (~14% of time)
 
 ---
 
