@@ -112,10 +112,10 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
 
 ### 4. N Access Road / Swale 7
 - **Location:** Northern edge, north of paddock 6
-- **Function:** Dual-purpose - final catchment swale + ATV access road
+- **Function:** Dual-purpose - swale + ATV access road
 - **Length:** ~400 ft (same as paddock width)
 - **Driving surface:** 8-10 ft wide, compacted (native soil or gravel)
-- **Tree line:** Dense willow + poplar biomass buffer to capture remaining runoff nutrients before excess exits north property edge
+- **Tree line:** South edge only (north side is property edge)
 - **Irrigation:** Receives overflow from Swale 6, excess exits north
 - **Note:** Wetland (NW corner) is uphill from swales - overflow does NOT flow to wetland
 - **Photos:** #06 (north boundary), #10-12 (wetland)
@@ -171,7 +171,7 @@ IRRIGATION DISTRIBUTION DIAGRAM (water flows south to north, swales numbered in 
         ║ 8" PIPE continues             ▲
         ║ to neighbor's TID             │
         ║                      SWALE 7 / N ACCESS ROAD ──overflow──▶ N property edge
-    ░░░░║░░░░░░                (willow+poplar biomass buffer)
+    ░░░░║░░░░░░                (tree line on south edge)
     ░ WETLAND ░                         ▲
     ░░░░░░░░░░░                    SWALE 6 ──┘ ─┐
     (NW corner,                         ▲       │ Paddocks 5-6
@@ -200,7 +200,7 @@ IRRIGATION DISTRIBUTION DIAGRAM (water flows south to north, swales numbered in 
 |------|----------|------|-------|
 | Standard contour swales | 5 | each | Swales 2-6, ~400 ft each, full tree lines |
 | S Access road/swale | 1 | each | Swale 1, ~400 ft, 8-10 ft compacted, tree line on N edge |
-| N Access road/swale | 1 | each | Swale 7, ~400 ft, 8-10 ft compacted, willow+poplar buffer |
+| N Access road/swale | 1 | each | Swale 7, ~400 ft, 8-10 ft compacted, tree line on south edge |
 | Tree lines | 7 | each | ~400 ft each (full paddock width) |
 | Paddocks (contour) | 6 | each | ~57 ft N/S x 400 ft E/W, ~0.5 ac each (Paddock 7 is off-contour, E side, existing fencing) |
 | Control box replacement | 2 | structures | At water entry point |

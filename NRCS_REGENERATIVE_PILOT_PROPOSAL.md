@@ -577,12 +577,9 @@ The following outcomes will be tracked and measured:
     - Water line and frost-free hydrants located here
     
     SWALE SYSTEM (7 swales, numbered south to north in direction of water flow):
-    - Swale 1 / S Access Road: Widest swale, compacted ATV surface (8-10 ft),
-      tree line on NORTH edge only (south side faces barns)
+    - Swale 1 / S Access Road: Compacted ATV surface (8-10 ft), tree line on north edge only (south side faces barns)
     - Swales 2-6: Standard swales with tree lines on berms
-    - Swale 7 / N Access Road: Final catchment swale, ATV access along N edge,
-      dense willow + poplar to capture/use all remaining runoff nutrients as biomass
-      before excess exits north property edge
+    - Swale 7 / N Access Road: Compacted ATV surface (8-10 ft), tree line on south edge only (north side is property edge)
     - All swales run E/W on contour at ~57 ft spacing
     
     PADDOCK SYSTEM (7 paddocks total):
@@ -607,7 +604,7 @@ The following outcomes will be tracked and measured:
     ACCESS ROADS:
     - Main Access Road: Entry from rest of property (SW corner)
     - Swale 1 (S): E/W access road, 8-10 ft compacted surface, tree line on N edge
-    - Swale 7 (N): E/W access road, 8-10 ft compacted surface, willow+poplar buffer
+    - Swale 7 (N): E/W access road, 8-10 ft compacted surface, tree line on south edge
     
     IRRIGATION INFRASTRUCTURE: West of garden
     - Two control boxes at water entry (~250 ft W of garden)
@@ -622,7 +619,7 @@ The following outcomes will be tracked and measured:
 |-----------|----------|-------------|
 | **Standard swales** | 5 (Swales 2-6) | Contour swales with berms, full tree lines |
 | **S Access road/swale** | 1 (Swale 1) | Wide swale with 8-10 ft compacted ATV surface, tree line on N edge |
-| **N Access road/swale** | 1 (Swale 7) | Final catchment swale, 8-10 ft compacted ATV surface, dense willow+poplar biomass buffer |
+| **N Access road/swale** | 1 (Swale 7) | 8-10 ft compacted ATV surface, tree line on south edge only |
 | **Irrigation distribution** | 1 system | 3 gates, piping from 8" main to swales, HDPE overflows |
 | **Total swale linear feet** | ~2,800 ft | 7 swales x ~400 ft each |
 | **Total tree line linear feet** | ~2,800 ft | 7 tree lines x ~400 ft each |
@@ -632,8 +629,8 @@ The following outcomes will be tracked and measured:
 - **Berm Location:** Downhill side of each swale
 - **Tree Planting Zone:** On and just below berm crest
 - **Swale Capacity:** Designed to handle flood irrigation overflow events
-- **S Access Road (Swale 1):** Wider swale profile, compacted ATV surface (8-10 ft), tree line on north edge only
-- **N Access Road (Swale 7):** Wider swale profile, compacted ATV surface (8-10 ft), dense willow+poplar biomass buffer to capture remaining runoff nutrients before excess exits north property edge
+- **S Access Road (Swale 1):** Wider swale profile, compacted ATV surface (8-10 ft), tree line on north edge only (south side faces barns)
+- **N Access Road (Swale 7):** Wider swale profile, compacted ATV surface (8-10 ft), tree line on south edge only (north side is property edge)
 
 **Tree Line Composition (per ~400 ft row):**
 | Layer | Species Examples | Function | Initial Spacing | Long-term Spacing |
@@ -689,8 +686,7 @@ Support species (poplars, nitrogen-fixers, willows, aromatics) are planted at hi
         ║ 8" PIPE continues             ▲
         ║ to neighbor's TID             │
         ║                      SWALE 7 / N ACCESS ROAD ▓▓▓▓▓▓▓▓▓▓
-        ║                      (willow+poplar biomass buffer - captures
-    ░░░░║░░░░░░                 remaining nutrients before runoff exits)
+    ░░░░║░░░░░░                 (tree line on south edge, excess exits north)
     ░ WETLAND ░                         ▲
     ░░░░░░░░░░░                         ● riser overflow
     (NW corner,                         │
@@ -925,7 +921,7 @@ This model is common in regenerative agriculture and allows the project to focus
 |------|----------|------|-------|
 | Standard contour swales | 5 | ~500 ft each | Swales 2-6, with berms and full tree lines |
 | S Access road/swale | 1 | ~500 ft | Swale 1, 8-10 ft compacted surface, tree line on N edge only |
-| N Access road/swale | 1 | ~500 ft | Swale 7, 8-10 ft compacted surface, dense willow+poplar biomass buffer, final catchment before N property edge |
+| N Access road/swale | 1 | ~400 ft | Swale 7, 8-10 ft compacted surface, tree line on south edge only |
 | Tree lines | 7 | ~400 ft each | Centered, with 50 ft access corridors on E/W ends |
 | Slide gates (8" pipe) | 3 | each | Gate 1→Swale 1 (→2), Gate 2→Swale 3 (→4), Gate 3→Swale 5 (→6→7) |
 | HDPE riser overflows | 6 | each | Cascade connections between swales |
