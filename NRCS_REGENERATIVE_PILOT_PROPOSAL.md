@@ -737,17 +737,19 @@ Each swale has a vertical riser pipe that sets the overflow height. When water r
 ```
 RISER OVERFLOW DETAIL (Cross-Section):
 
-         │ 6" HDPE │   ← top cut level = overflow height
-         │  RISER  │     (black HDPE = UV stable 25+ years)
-         │         │
+    SWALE (uphill)                          PADDOCK (downhill)
+    
     ~~~~~│~~~~~~~~~│~~~~  ← water level when full
-         │         │
-         │    ●────┼────▶ 90° elbow below grade
-         │         │      
-    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  berm
-                   │
-                   └────▶ daylights in paddock below,
-                          flows to next swale
+         │ 6" HDPE │   
+         │  RISER  │      ← top cut level = overflow height
+         │         │        (black HDPE = UV stable 25+ years)
+    ▓▓▓▓▓│▓▓▓▓▓▓▓▓▓│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         │    ●────┼────────────────────────────▶ horizontal pipe
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  BERM  ▓▓▓▓▓▓▓│  (below grade
+         90° elbow                              │   through berm)
+              (inside berm)                     │
+                                                └──▶ daylights in 
+                                                     paddock below
 ```
 
 **Why HDPE Riser Pipes:**
