@@ -732,7 +732,7 @@ Support species (poplars, nitrogen-fixers, willows, aromatics) are planted at hi
 
 Split schedule may benefit newly planted trees during establishment years.
 
-**Overflow System: 6" HDPE Riser Pipes**
+**Overflow System: Spillway Notches**
 
 Each berm has spillway notches every 10 ft. When water reaches the spillway level, it flows through the notches and sheets down the berm face into the paddock below.
 
