@@ -18,42 +18,43 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
                             NORTH (downhill)
         <──────────────── 550 ft ────────────────>
        
-    ┌───────────┬─────────────────────────────────────────┐  ▲
-    │░░WETLAND░░│ ▓▓ SWALE 7 / N ACCESS ROAD (ATV) ▓▓▓▓▓▓ │◀── Willow+poplar biomass buffer
-    │░░ 0.25ac ░├─────────────────────────────────────────┤  │   Final catchment before N property edge
-    │░░░░░░░░░░░│              PADDOCK 6                  │  │
-    │░░░░░░░░░░░├─────────────────────────────────────────┤  │
-    │           │ ▓▓▓▓▓▓▓▓▓▓▓▓ SWALE 6 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │  │
-    │           ├─────────────────────────────────────────┤  │
-    │           │              PADDOCK 5                  │  │
-    │           ├─────────────────────────────────────────┤  │
-    │  NURSERY  │ ▓▓▓▓▓▓▓▓▓▓▓▓ SWALE 5 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │  4
-    │           ├─────────────────────────────────────────┤  0
-    │           │              PADDOCK 4                  │  0
-    │           ├─────────────────────────────────────────┤  
-    │           │ ▓▓▓▓▓▓▓▓▓▓▓▓ SWALE 4 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │  f
-    ├───────────┼─────────────────────────────────────────┤  t
-    │           │              PADDOCK 3                  │  
-    │  GARDEN   ├─────────────────────────────────────────┤  │
-    │           │ ▓▓▓▓▓▓▓▓▓▓▓▓ SWALE 3 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │  │
-    │           ├─────────────────────────────────────────┤  │
-    │           │              PADDOCK 2                  │  │
-    │           ├─────────────────────────────────────────┤  │
-    │           │ ▓▓▓▓▓▓▓▓▓▓▓▓ SWALE 2 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │  │
-    │           ├─────────────────────────────────────────┤  │
-    │           │              PADDOCK 1                  │  ▼
-    ├───────────┼─────────────────────────────────────────┤
-    │           │ ▓▓▓ SWALE 1 / S ACCESS ROAD (ATV) ▓▓▓▓▓ │◀── Tree line on N edge only
-    ├───────────┼───────────────────┬─────────────────────┤
-    │  GARDEN   │     SW BARN       │      SE BARN        │
-    ├───────────┴───────────────────┴─────────────────────┤
-    │ ≈≈≈≈≈≈≈≈≈≈≈≈≈ IRRIGATION DITCH ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ │
-    └─────────────────────────────────────────────────────┘
+    ┌───────────┬───────────┬───────────────────────────────┬───────────┐  ▲
+    │░░WETLAND░░│           │ ▓▓ SWALE 7 / N ACCESS ROAD ▓▓ │           │  │
+    │░░ 0.25ac ░│           ├───────────────────────────────┤           │  │
+    │░░░░░░░░░░░│           │          PADDOCK 6            │           │  │
+    │░░░░░░░░░░░│           ├───────────────────────────────┤           │  │
+    │           │           │ ▓▓▓▓▓▓▓▓ SWALE 6 ▓▓▓▓▓▓▓▓▓▓▓▓ │           │  │
+    │           │           ├───────────────────────────────┤           │  │
+    │           │  PRIMARY  │          PADDOCK 5            │ PADDOCK 7 │  │
+    │           │  PADDOCK  ├───────────────────────────────┤ (off-     │  4
+    │  NURSERY  │  ACCESS   │ ▓▓▓▓▓▓▓▓ SWALE 5 ▓▓▓▓▓▓▓▓▓▓▓▓ │ contour,  │  0
+    │           │  CORRIDOR ├───────────────────────────────┤ existing  │  0
+    │           │           │          PADDOCK 4            │ fencing)  │  
+    │           │  (water   ├───────────────────────────────┤           │  f
+    │           │   line)   │ ▓▓▓▓▓▓▓▓ SWALE 4 ▓▓▓▓▓▓▓▓▓▓▓▓ │           │  t
+    ├───────────┤           ├───────────────────────────────┤           │  
+    │           │           │          PADDOCK 3            │           │  │
+    │  GARDEN   │           ├───────────────────────────────┤           │  │
+    │           │           │ ▓▓▓▓▓▓▓▓ SWALE 3 ▓▓▓▓▓▓▓▓▓▓▓▓ │           │  │
+    │           │           ├───────────────────────────────┤           │  │
+    │           │           │          PADDOCK 2            │           │  │
+    │           │           ├───────────────────────────────┤           │  │
+    │           │           │ ▓▓▓▓▓▓▓▓ SWALE 2 ▓▓▓▓▓▓▓▓▓▓▓▓ │           │  │
+    │           │           ├───────────────────────────────┤           │  │
+    │           │           │          PADDOCK 1            │           │  ▼
+    ├───────────┼───────────┼───────────────────────────────┼───────────┤
+    │           │           │ ▓▓ SWALE 1 / S ACCESS ROAD ▓▓ │           │
+    │  GARDEN   │  SW BARN  │     (tree line on N edge)     │  SE BARN  │
+    ├───────────┴───────────┴───────────────────────────────┴───────────┤
+    │ ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ IRRIGATION DITCH ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈ │
+    └───────────────────────────────────────────────────────────────────┘
                             SOUTH (uphill, irrigation source)
 
-    <─50'─>     <──────────── 500 ft ──────────────────────>
-                <─50'─><──── 400 ft tree lines ────><─50'─>
-       W           (access to SW barn)    (access to SE barn)    E
+    <─ 75' ─><25'><────────── 400 ft ──────────────><─ 50' ─>
+      West   Pri-     Contour Paddocks 1-6           Paddock
+     Strip   mary       (earthwork scope)              7
+             Acc.                                   (E side)
+       W                                                   E
 
 
     WATER ENTRY POINT (500' west of garden):
@@ -92,8 +93,8 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
 ### 2. Contour Swales (5 standard + 2 access roads)
 - **Swales 2-6:** Standard water-harvesting swales with full tree lines
 - **Orientation:** E/W on contour
-- **Swale length:** ~500 ft each (full paddock width)
-- **Tree line length:** ~400 ft each (centered, with 50 ft access corridors on E/W ends for livestock movement)
+- **Swale length:** ~400 ft each (paddock width)
+- **Tree line length:** ~400 ft each (full paddock width)
 - **Spacing:** ~57 ft between swales
 - **Profile:** Shallow and wide (maximize infiltration, not deep ditches)
 - **Berm:** Downhill side of each swale (tree planting zone)
@@ -103,6 +104,7 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
 ### 3. S Access Road / Swale 1
 - **Location:** Southern edge, between paddock 1 and barns
 - **Function:** Dual-purpose - first swale in system + ATV access road
+- **Length:** ~400 ft (same as paddock width)
 - **Driving surface:** 8-10 ft wide, compacted (native soil or gravel)
 - **Tree line:** North edge only (south side faces barns)
 - **Irrigation:** Receives water first, overflows north to Swale 2
@@ -111,6 +113,7 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
 ### 4. N Access Road / Swale 7
 - **Location:** Northern edge, north of paddock 6
 - **Function:** Dual-purpose - final catchment swale + ATV access road
+- **Length:** ~400 ft (same as paddock width)
 - **Driving surface:** 8-10 ft wide, compacted (native soil or gravel)
 - **Tree line:** Dense willow + poplar biomass buffer to capture remaining runoff nutrients before excess exits north property edge
 - **Irrigation:** Receives overflow from Swale 6, excess exits north
@@ -136,16 +139,16 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
   - Connections: #27 (between boxes), #28 (active leakage)
 
 ### 6. Livestock Water Line Trench
-- **Location:** N/S trench along W side of paddock area (near tree line W ends)
-- **Length:** ~400 ft (from barn connection to Swale 6)
+- **Location:** N/S trench through Primary Paddock Access corridor (between garden and paddocks)
+- **Length:** ~350 ft (from SW barn to Swale 6)
 - **Depth:** 18-24" (below frost line)
-- **Purpose:** Buried water line to supply frost-free hydrants on berms
+- **Purpose:** Buried water line to supply frost-free hydrants at each swale berm
 - **Scope:** 
   - Dig trench while equipment is on site
   - Owner lays 1" poly pipe in trench
   - Contractor backfills
-- **Hydrant locations:** 5 total, one on each berm (Swales 2-6) - owner installs later
-- **Connection:** Ties to SW or SE barn (frost-free valve already present)
+- **Hydrant locations:** 5 total, one at each berm (Swales 2-6) - owner installs later
+- **Connection:** Ties to SW barn frost-free valve
 
 ### 7. Irrigation Distribution System
 - **Backbone:** Existing 8" pipe along west edge (nursery/garden strip)
@@ -195,16 +198,16 @@ IRRIGATION DISTRIBUTION DIAGRAM (water flows S→N, swales numbered in flow dire
 
 | Item | Quantity | Unit | Notes |
 |------|----------|------|-------|
-| Standard contour swales | 5 | each | Swales 2-6, ~500 ft each, full tree lines |
-| S Access road/swale | 1 | each | Swale 1, ~500 ft, 8-10 ft compacted, tree line on N edge |
-| N Access road/swale | 1 | each | Swale 7, ~500 ft, 8-10 ft compacted, willow+poplar buffer |
-| Tree lines | 7 | each | ~400 ft each (50 ft access corridors on E/W ends) |
+| Standard contour swales | 5 | each | Swales 2-6, ~400 ft each, full tree lines |
+| S Access road/swale | 1 | each | Swale 1, ~400 ft, 8-10 ft compacted, tree line on N edge |
+| N Access road/swale | 1 | each | Swale 7, ~400 ft, 8-10 ft compacted, willow+poplar buffer |
+| Tree lines | 7 | each | ~400 ft each (full paddock width) |
 | Paddocks (contour) | 6 | each | ~57 ft N/S x 400 ft E/W, ~0.5 ac each (Paddock 7 is off-contour, E side, existing fencing) |
 | Control box replacement | 2 | structures | At water entry point |
 | Slide gates (8" pipe) | 3 | each | Owner can supply |
 | HDPE overflow assemblies | 6 | each | Owner can supply |
-| Livestock water trench | ~400 | ft | N/S up center, 18-24" deep, owner lays pipe |
-| **Total swale linear feet** | ~3,500 | ft | All 7 swales combined |
+| Livestock water trench | ~350 | ft | Through Primary Paddock Access corridor, 18-24" deep, owner lays pipe |
+| **Total swale linear feet** | ~2,800 | ft | All 7 swales combined |
 | **Total tree line linear feet** | ~2,800 | ft | All 7 tree lines combined |
 
 ---
@@ -267,4 +270,4 @@ IRRIGATION DISTRIBUTION DIAGRAM (water flows S→N, swales numbered in flow dire
 
 ---
 
-*Document prepared: January 17, 2026*
+*Document prepared: January 18, 2026*
