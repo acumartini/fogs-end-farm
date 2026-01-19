@@ -629,6 +629,7 @@ The following outcomes will be tracked and measured:
 - **Berm Location:** Downhill side of each swale
 - **Tree Planting Zone:** On and just below berm crest
 - **Swale Capacity:** Designed to handle flood irrigation overflow events
+- **Contour Precision:** Swales may be stepped if contour varies across the 400 ft width; within each section, risers must be perfectly level with each other to ensure even overflow. Paddocks below berms do not need to be stepped.
 - **S Access Road (Swale 1):** Wider swale profile, compacted ATV surface (8-10 ft), tree line on north edge only (south side faces barns)
 - **N Access Road (Swale 7):** Wider swale profile, compacted ATV surface (8-10 ft), tree line on south edge only (north side is property edge)
 
