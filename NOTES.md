@@ -118,39 +118,55 @@ Working notes and implementation details that don't belong in the NRCS proposal.
 
 ---
 
-## Swale Overflow Risers
+## Swale Overflow Spillways
 
-### Design Concern
+### Design Evolution
 
-Risers within each swale section must be perfectly level with each other for even overflow. Over time, berm settling, frost heave, or animal traffic could throw off levels.
+Originally considered vertical riser pipes with adjustment mechanisms. Rejected due to:
+- Cost (240 risers with adjustment hardware)
+- Complexity (keeping 240 risers level)
+- Maintenance concerns
 
-### Adjustable Riser Options Considered
+### Final Design: Horizontal Pipe Spillways
 
-| Option | Pros | Cons |
-|--------|------|------|
-| **Telescoping sleeve** (inner pipe slides in outer) | Simple concept | 6" in 8" too sloppy; need tight fit or friction collar |
-| **Bolt through both pipes** | Positive lock, cheap | Requires drilling, re-drilling to adjust |
-| **Hose clamp collar** | Easy to adjust on the fly | May slip under pressure |
-| **Threaded screw mechanism** | Fine adjustment, no slop | More expensive, more parts |
-| **Cut and couple** | Cheapest | Requires digging each time |
+**Approach:**
+- Contractor grades spillway notches into berm every 10 ft
+- All notches at same level (contractor uses laser level)
+- 3" black HDPE pipe (5 ft long) laid horizontally through each notch
+- Pipe maintains opening, prevents debris from filling notch
+- 5 ft berm width allows planting on both uphill and downhill sides
 
-### Decision
+**Why this works:**
+- Earthwork sets the rough grade (contractor responsibility)
+- Pipe keeps debris from clogging the spillway
+- If settling occurs, fine-tune with shovel — just move dirt, no parts to adjust
+- Black HDPE is UV stable for 25+ years
 
-Leaning toward **threaded screw mechanism** if cost-effective. Allows fine adjustment without digging or slop. Research specific products during implementation.
+### Materials
 
-### Placement
+| Item | Quantity | Notes |
+|------|----------|-------|
+| 3" black HDPE pipe | 1,200 ft | 240 spillways × 5 ft each |
+| Pipe comes in 10 or 20 ft sticks | 120 or 60 sticks | 5 ft cuts evenly (2 or 4 per stick) |
+| **Estimated cost** | ~$1,800 | @ $1.50/ft |
 
-Risers need to be close to the electric fence (hot wire) to prevent cattle from stepping on them. Locate risers on the berm near the tree line fence, inside the protected zone.
+### Installation
+
+1. Contractor grades berm with spillway notches every 10 ft
+2. Contractor verifies notches are level with laser
+3. Lay 3" HDPE pipe through each notch
+4. First irrigation: observe water flow, note high/low spots
+5. Hand-grade any uneven spillways with shovel
 
 ### Maintenance
 
-- Years 1-2: Check levels quarterly as berms settle
-- Years 3+: Check annually, adjust as needed
-- Keep spare parts on hand
+- Rake debris from pipe inlets periodically
+- Check for settling after first year, re-grade if needed
+- Pipe itself needs no maintenance
 
-### Fallback
+### Placement
 
-If a riser gets too low, water overflows there first and rest of swale doesn't fill as much. Annoying but not catastrophic — just uneven watering until fixed.
+Spillways are on the berm within the tree line zone, protected by electric fence from cattle traffic.
 
 ---
 

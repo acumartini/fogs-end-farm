@@ -157,10 +157,12 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
   - Gate 2 → Swale 3 (overflows to Swale 4) → Paddocks 3-4
   - Gate 3 → Swale 5 (overflows to Swale 6, then Swale 7) → Paddocks 5-6
 - **Swale inlets:** Connection from gate to swale (T-fitting or open riser)
-- **Overflow risers:** 6 HDPE riser pipes (6" diameter) through berms
-  - Sets overflow height for each swale
-  - Connects to next swale downhill via 90° elbow + horizontal pipe
-  - Passive system - no moving parts
+- **Spillway overflow system:** 
+  - Grade spillway notches into each berm every 10 ft, all at same level
+  - 40 spillways per swale × 6 swales = 240 spillways total
+  - Owner installs 3" black HDPE pipe (5 ft) horizontally through each notch
+  - Pipe maintains opening, prevents debris accumulation
+  - Verify notch levels with laser during grading
 - **Photos:** #09 (west boundary/pipe area), #29-31 (irrigation trench, 8" pipe)
 
 ```
@@ -204,8 +206,9 @@ IRRIGATION DISTRIBUTION DIAGRAM (water flows south to north, swales numbered in 
 | Tree lines | 7 | each | ~400 ft each (full paddock width) |
 | Paddocks (contour) | 6 | each | ~57 ft N/S x 400 ft E/W, ~0.5 ac each (Paddock 7 is off-contour, E side, existing fencing) |
 | Control box replacement | 2 | structures | At water entry point |
+| Spillway notches per berm | 40 | each | Every 10 ft, graded level across full berm width |
 | Slide gates (8" pipe) | 3 | each | Owner can supply |
-| HDPE overflow assemblies | 6 | each | Owner can supply |
+| 3" HDPE spillway pipes | 240 | each | Owner supplies, 5 ft each, installed in notches |
 | Livestock water trench | ~350 | ft | Through Primary Paddock Access corridor, 18-24" deep, owner lays pipe |
 | **Total swale linear feet** | ~2,800 | ft | All 7 swales combined |
 | **Total tree line linear feet** | ~2,800 | ft | All 7 tree lines combined |
@@ -216,11 +219,11 @@ IRRIGATION DISTRIBUTION DIAGRAM (water flows south to north, swales numbered in 
 
 1. **Blackberry removal** - Before any earthwork
 2. **Control box replacement** - Can happen early (upstream of pasture work)
-3. **Swale earthwork** - Main excavation, berms, grading
-4. **Access roads** - Compact driving surfaces on Swale 1 (S) and Swale 7 (N)
-5. **Livestock water trench** - Dig N/S trench up center while equipment on site
-6. **Irrigation distribution** - Gates, piping, overflow risers (can coordinate with earthwork)
-7. **Owner lays water pipe** - Before backfill
+3. **Swale earthwork** - Main excavation, berms with spillway notches every 10 ft, grading
+4. **Verify spillway levels** - Laser level to confirm all notches at same elevation per swale
+5. **Access roads** - Compact driving surfaces on Swale 1 (S) and Swale 7 (N)
+6. **Livestock water trench** - Dig N/S trench through Primary Paddock Access corridor while equipment on site
+7. **Owner lays water pipe + spillway pipes** - Before backfill / while contractor on site
 8. **Backfill water trench** - After pipe is laid
 9. **Seeding** - Immediately after earthwork complete (owner responsibility)
 

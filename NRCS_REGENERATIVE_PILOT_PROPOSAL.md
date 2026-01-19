@@ -733,48 +733,51 @@ Support species (poplars, nitrogen-fixers, willows, aromatics) are planted at hi
 
 **Overflow System: 6" HDPE Riser Pipes**
 
-Each swale has a vertical riser pipe that sets the overflow height. When water reaches the top of the riser, it drops in and exits through the berm to the next swale.
+Each berm has spillway notches every 10 ft with horizontal pipes to maintain the opening and prevent debris accumulation. When water reaches the spillway level, it flows through the pipes and sheets down the berm face into the paddock below.
 
 ```
-RISER OVERFLOW DETAIL (Cross-Section):
+SPILLWAY OVERFLOW DETAIL (Cross-Section):
 
-    SWALE (uphill)                          PADDOCK (downhill)
+    SWALE (uphill)                               PADDOCK (downhill)
     
-    ~~~~~│~~~~~~~~~│~~~~  ← water level when full
-         │ 6" HDPE │   
-         │  RISER  │      ← top cut level = overflow height
-         │         │        (black HDPE = UV stable 25+ years)
-    ▓▓▓▓▓│▓▓▓▓▓▓▓▓▓│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-         │    ●────┼────────────────────────────▶ horizontal pipe
-    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  BERM  ▓▓▓▓▓▓▓│  (below grade
-         90° elbow                              │   through berm)
-              (inside berm)                     │
-                                                └──▶ daylights in 
-                                                     paddock below
+    ~~~~~~~~~~~~~~~~~~~~~~~~  ← water level when full
+            ┌───────────────────────┐
+    ▓▓▓▓▓▓▓▓│  3" HDPE pipe (5 ft)  │▓▓▓▓▓▓▓▓
+    ▓▓▓▓▓▓▓▓│  through spillway     │▓▓▓▓▓▓▓▓  ← spillway notch in berm
+    ▓▓▓▓▓▓▓▓└───────────────────────┘▓▓▓▓▓▓▓▓    graded level by contractor
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓  5 ft BERM  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                                         └──▶ water sheets down 
+                                              berm face to paddock
 ```
 
-**Why HDPE Riser Pipes:**
-- Black HDPE = UV stable for 25+ years
-- No vegetation management (nothing grows on pipe)
-- No clogging (debris floats, doesn't enter)
-- Adjustable (cut lower to change overflow height)
-- Cheap to replace if ever needed (~$30-50 each)
+**Spillway Design:**
+- Contractor grades spillway notches into berm every 10 ft, all at same level
+- 3" black HDPE pipe (5 ft long) laid horizontally through each notch
+- Pipe maintains opening, prevents debris from filling notch
+- Fine-tune spillway levels with hand grading if needed after first irrigation
+- UV-stable pipe lasts 25+ years
+
+**Quantities:**
+- 40 spillways per swale × 6 swales = 240 spillways
+- 240 pipes × 5 ft = 1,200 ft of 3" black HDPE
+- Pipe comes in 10 ft or 20 ft sticks (5 ft cuts evenly: 2 or 4 per stick)
 
 **Infrastructure Cost:**
 
 | Item | Quantity | Unit Cost | Total |
 |------|----------|-----------|-------|
 | Slide gates (8" pipe) | 3 | $100 | $300 |
-| 6" HDPE riser + elbow + horizontal | 6 | $40 | $240 |
-| Fittings, connections | misc | -- | $160 |
-| **Total irrigation distribution** | | | **~$700** |
+| 3" black HDPE pipe | 1,200 ft | $1.50/ft | $1,800 |
+| Fittings, connections | misc | -- | $100 |
+| **Total irrigation distribution** | | | **~$2,200** |
 
 **Outcomes:**
-- Even water distribution to all swales via 3 zones
+- Even water distribution across full 400 ft swale width
 - Passive overflow = minimal management
-- No vegetation/debris concerns with riser design
-- Low-tech, low-cost, long-lasting
-- "Just works" - open gate, walk away, water distributes itself
+- Debris accumulates at pipe inlet, easy to rake off
+- Low-tech, UV-stable, long-lasting
+- Fine-tune spillway levels by hand if settling occurs
 
 ### 7.4 Grazing Calendar Framework
 
