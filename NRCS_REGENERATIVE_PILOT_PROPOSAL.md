@@ -632,8 +632,8 @@ The following outcomes will be tracked and measured:
 - **Berm Location:** Downhill side of each swale
 - **Tree Planting Zone:** On and just below berm crest
 - **Swale Capacity:** Designed to handle flood irrigation overflow events
-- **S Access Road (Swale 1):** Wider profile, compacted gravel or native soil surface, tree line on north edge only
-- **N Access Road (Swale 7):** Final catchment before north property edge, compacted ATV surface, dense willow+poplar biomass buffer to capture remaining runoff nutrients before excess exits property
+- **S Access Road (Swale 1):** Wider swale profile, compacted ATV surface (8-10 ft), tree line on north edge only
+- **N Access Road (Swale 7):** Wider swale profile, compacted ATV surface (8-10 ft), dense willow+poplar biomass buffer to capture remaining runoff nutrients before excess exits north property edge
 
 **Tree Line Composition (per ~400 ft row):**
 | Layer | Species Examples | Function | Initial Spacing | Long-term Spacing |
