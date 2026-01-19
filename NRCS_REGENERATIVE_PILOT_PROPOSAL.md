@@ -565,7 +565,7 @@ The following outcomes will be tracked and measured:
     ░░░  Wetland - 0.25 ac (NW corner, UPHILL from contour swales)
     ▓▓▓  Contour swale + diverse tree line (water management + silvopasture)
     ≈≈≈  Irrigation ditch (south edge of property, full E/W length)
-    ║    Access roads (N/S connector + main access from property)
+    ║    Primary Paddock Access corridor (livestock + vehicle access from property)
     
     WEST STRIP (~75' wide, north to south):
     - Wetland: 0.25 ac (NW corner, spans Paddock 5-6 height - note: uphill from swales)
