@@ -138,6 +138,10 @@ Risers within each swale section must be perfectly level with each other for eve
 
 Leaning toward **threaded screw mechanism** if cost-effective. Allows fine adjustment without digging or slop. Research specific products during implementation.
 
+### Placement
+
+Risers need to be close to the electric fence (hot wire) to prevent cattle from stepping on them. Locate risers on the berm near the tree line fence, inside the protected zone.
+
 ### Maintenance
 
 - Years 1-2: Check levels quarterly as berms settle
