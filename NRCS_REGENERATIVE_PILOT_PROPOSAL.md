@@ -239,19 +239,17 @@ The following practices support the primary regenerative management system:
 
 **Location:** NW corner, approximately 0.25 acres *(See [Appendix D.2](#d2-wetland-nw-corner))*
 
-**Rationale:** The existing wetland is a significant ecological asset. Proper management enhances wildlife habitat, water quality, and biodiversity while integrating with the overall farm system.
+**Rationale:** The existing wetland is a significant ecological asset. Enhancing native vegetation improves wildlife habitat and biodiversity. Note: wetland is uphill from contour swales and not part of the irrigation/grazing system.
 
 **Implementation Approach:**
-- Maintain appropriate buffer from grazing activity
-- Enhance native wetland vegetation
+- Maintain appropriate buffer from grazing activity (permanent exclusion fencing)
+- Plant water-loving native species (elderberry, willow, sedges, rushes)
 - Enhance habitat connectivity between wetland and tree lines via west edge vegetation
-- Maintain as separate habitat feature (note: wetland is uphill from contour swales, not an overflow destination)
-- Monitor water quality as indicator of upstream management success
+- Maintain as separate habitat feature, not integrated with pasture management
 
 **Measurable Outcomes:**
 - Wildlife species diversity (birds, amphibians, beneficial insects)
-- Water quality maintenance
-- Native plant establishment in buffer zone
+- Native plant establishment and survival
 
 ### 4.2 Soil Carbon Amendment (Practice 336) - IF INDICATED
 
