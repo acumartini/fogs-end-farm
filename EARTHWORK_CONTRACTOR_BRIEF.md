@@ -152,10 +152,9 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
 
 ### 7. Irrigation Distribution System
 - **Backbone:** Existing 8" pipe along west edge (nursery/garden strip)
-- **Zone gates:** 3 slide gates to control flow to swales
-  - Gate 1 → Swale 1 (overflows to Swale 2) → Paddocks 1-2
-  - Gate 2 → Swale 3 (overflows to Swale 4) → Paddocks 3-4
-  - Gate 3 → Swale 5 (overflows to Swale 6, then Swale 7) → Paddocks 5-6
+- **Zone gates:** 6 slide gates to control flow to swales (one per swale, Swales 1-6)
+  - Allows independent control of each swale for even distribution
+  - Swale 7 receives overflow only (no dedicated gate)
 - **Swale inlets:** Connection from gate to swale (T-fitting or open riser)
 - **Spillway overflow system:** 
   - Grade spillway notches into each berm every 10 ft, all at same level

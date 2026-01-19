@@ -174,6 +174,46 @@ Initial concern: trees getting too much water near crowns.
 
 ---
 
+## Tree Establishment Without Drip Irrigation
+
+### The Critical Unknown
+
+Most silvopasture guides assume either:
+- Regular rainfall
+- Drip irrigation for tree establishment
+
+We have neither — just flood irrigation via district.
+
+### Irrigation Schedule Options
+
+**Standard:** 2.5 days every 2 weeks
+- One deep soak
+- 11-12 days dry between waterings
+- May stress newly planted trees in hot summer months
+
+**Split schedule:** 1 day + 1.5 days alternating weeks
+- More frequent watering (weekly instead of biweekly)
+- Better for shallow-rooted new transplants
+- More management (twice as many irrigation events)
+
+### The Fall Gap Risk
+
+Irrigation season ends in early fall, but rains may not start for weeks. New trees with small root systems are most vulnerable during this gap.
+
+### Mitigations
+
+1. **Heavy mulch** — 12"+ around trees to retain moisture
+2. **Swale water storage** — Swales hold extra water that continues seeping after irrigation
+3. **Plant timing** — Plant in late winter so trees have maximum time to establish roots before first dry season
+4. **Species selection** — Prioritize drought-tolerant species that can handle the gap
+5. **Accept some losses** — Plan for 10-20% replacement planting in Year 2
+
+### Decision
+
+Start with split irrigation schedule during tree establishment years (Years 1-2). Revert to standard schedule once trees are established and can handle longer dry periods.
+
+---
+
 ## Pond Consideration (Deferred)
 
 ### NE Corner Low Spot

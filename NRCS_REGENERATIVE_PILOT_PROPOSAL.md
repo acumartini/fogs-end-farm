@@ -620,7 +620,7 @@ The following outcomes will be tracked and measured:
 | **Standard swales** | 5 (Swales 2-6) | Contour swales with berms, full tree lines |
 | **S Access road/swale** | 1 (Swale 1) | Wide swale with 8-10 ft compacted ATV surface, tree line on N edge |
 | **N Access road/swale** | 1 (Swale 7) | 8-10 ft compacted ATV surface, tree line on south edge only |
-| **Irrigation distribution** | 1 system | 3 gates, piping from 8" main to swales, HDPE overflows |
+| **Irrigation distribution** | 1 system | 6 gates (one per swale), piping from 8" main to swales |
 | **Total swale linear feet** | ~2,800 ft | 7 swales x ~400 ft each |
 | **Total tree line linear feet** | ~2,800 ft | 7 tree lines x ~400 ft each |
 
@@ -722,14 +722,15 @@ Support species (poplars, nitrogen-fixers, willows, aromatics) are planted at hi
 ```
 
 **How It Works (water flows north, downhill):**
-1. Open Gate 1 → Water fills Swale 1 → Overflows to Swale 2 → Paddocks 1-2 watered
-2. Open Gate 2 → Water fills Swale 3 → Overflows to Swale 4 → Paddocks 3-4 watered
-3. Open Gate 3 → Water fills Swale 5 → Overflows to Swale 6 → Overflows to Swale 7 → Paddocks 5-6 watered → Excess exits north edge
+1. Open gates for Swales 1-2 → Paddocks 1-2 watered
+2. Open gates for Swales 3-4 → Paddocks 3-4 watered
+3. Open gates for Swales 5-7 → Paddocks 5-6 watered → Excess exits north edge
 
-**Watering Schedule (48 hours / 2 days):**
-- Gate 1: 16 hours (Paddocks 1-2)
-- Gate 2: 16 hours (Paddocks 3-4)
-- Gate 3: 16 hours (Paddocks 5-6)
+**Watering Schedule Options:**
+- **Standard:** 2.5 days every 2 weeks (one deep soak)
+- **Split for tree establishment:** 1 day + 1.5 days alternating weeks (more frequent, lighter soaks)
+
+Split schedule may benefit newly planted trees during establishment years.
 
 **Overflow System: 6" HDPE Riser Pipes**
 
@@ -760,9 +761,9 @@ SPILLWAY OVERFLOW DETAIL (Cross-Section):
 
 | Item | Quantity | Unit Cost | Total |
 |------|----------|-----------|-------|
-| Slide gates (8" pipe) | 3 | $100 | $300 |
+| Slide gates (8" pipe) | 6 | $100 | $600 |
 | Fittings, connections | misc | -- | $100 |
-| **Total irrigation distribution** | | | **~$400** |
+| **Total irrigation distribution** | | | **~$700** |
 
 **Outcomes:**
 - Even water distribution across full 400 ft swale width
@@ -899,7 +900,7 @@ This model is common in regenerative agriculture and allows the project to focus
 |----------|------------|----------------|-------|
 | **Blackberry Removal** | Clear lower pasture before earthwork | $1,500 | Must be done first |
 | **Earthwork (Comprehensive)** | 7 swales (~3,500 linear ft), tree lines ~2,800 linear ft | $10,000 - $13,000 | *Requires an updated quote* |
-| **Irrigation Distribution** | 3 slide gates, 6 HDPE riser overflows, piping to swales | $700 - $900 | Integrated with earthwork |
+| **Irrigation Distribution** | 6 slide gates, piping to swales | $700 - $900 | Integrated with earthwork |
 | **Irrigation Source Rehab** | Replace 2 degraded concrete control boxes at water entry | $5,000 - $15,000 | Needs assessment/quotes |
 | **Tree/Shrub Establishment** | Diverse species for 7 tree lines (~400 ft each) | $2,000 - $5,000 | Bare root stock, some nursery propagation |
 | **Fencing** | Perimeter upgrade, paddock subdivision, electric for tree lines | $3,000 - $6,000 | Permanent perimeter, semi-permanent electric |
@@ -919,7 +920,7 @@ This model is common in regenerative agriculture and allows the project to focus
 | S Access road/swale | 1 | ~500 ft | Swale 1, 8-10 ft compacted surface, tree line on N edge only |
 | N Access road/swale | 1 | ~400 ft | Swale 7, 8-10 ft compacted surface, tree line on south edge only |
 | Tree lines | 7 | ~400 ft each | Centered, with 50 ft access corridors on E/W ends |
-| Slide gates (8" pipe) | 3 | each | Gate 1→Swale 1 (→2), Gate 2→Swale 3 (→4), Gate 3→Swale 5 (→6→7) |
+| Slide gates (8" pipe) | 6 | each | One per swale (Swales 1-6); Swale 7 receives overflow only |
 | HDPE riser overflows | 6 | each | Cascade connections between swales |
 | **Total swale linear feet** | ~2,800 | ft | 7 swales x ~400 ft each |
 | **Total tree line linear feet** | ~2,800 | ft | 7 tree lines x ~400 ft each |
