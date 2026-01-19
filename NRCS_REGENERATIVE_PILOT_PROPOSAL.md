@@ -576,7 +576,7 @@ The following outcomes will be tracked and measured:
     - Provides access from SW barn to all contour paddocks (1-6)
     - Water line and frost-free hydrants located here
     
-    SWALE SYSTEM (7 swales, numbered S→N in direction of water flow):
+    SWALE SYSTEM (7 swales, numbered south to north in direction of water flow):
     - Swale 1 / S Access Road: Widest swale, compacted ATV surface (8-10 ft),
       tree line on NORTH edge only (south side faces barns)
     - Swales 2-6: Standard swales with tree lines on berms

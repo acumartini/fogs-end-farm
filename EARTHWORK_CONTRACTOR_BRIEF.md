@@ -164,7 +164,7 @@ Convert 5-acre pasture into silvopasture system using contour swales for water h
 - **Photos:** #09 (west boundary/pipe area), #29-31 (irrigation trench, 8" pipe)
 
 ```
-IRRIGATION DISTRIBUTION DIAGRAM (water flows S→N, swales numbered in flow direction):
+IRRIGATION DISTRIBUTION DIAGRAM (water flows south to north, swales numbered in flow direction):
 
                             NORTH (downhill)
 
