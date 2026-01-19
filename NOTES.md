@@ -118,6 +118,38 @@ Working notes and implementation details that don't belong in the NRCS proposal.
 
 ---
 
+## Swale Overflow Risers
+
+### Design Concern
+
+Risers within each swale section must be perfectly level with each other for even overflow. Over time, berm settling, frost heave, or animal traffic could throw off levels.
+
+### Adjustable Riser Options Considered
+
+| Option | Pros | Cons |
+|--------|------|------|
+| **Telescoping sleeve** (inner pipe slides in outer) | Simple concept | 6" in 8" too sloppy; need tight fit or friction collar |
+| **Bolt through both pipes** | Positive lock, cheap | Requires drilling, re-drilling to adjust |
+| **Hose clamp collar** | Easy to adjust on the fly | May slip under pressure |
+| **Threaded screw mechanism** | Fine adjustment, no slop | More expensive, more parts |
+| **Cut and couple** | Cheapest | Requires digging each time |
+
+### Decision
+
+Leaning toward **threaded screw mechanism** if cost-effective. Allows fine adjustment without digging or slop. Research specific products during implementation.
+
+### Maintenance
+
+- Years 1-2: Check levels quarterly as berms settle
+- Years 3+: Check annually, adjust as needed
+- Keep spare parts on hand
+
+### Fallback
+
+If a riser gets too low, water overflows there first and rest of swale doesn't fill as much. Annoying but not catastrophic — just uneven watering until fixed.
+
+---
+
 ## Pond Consideration (Deferred)
 
 ### NE Corner Low Spot
