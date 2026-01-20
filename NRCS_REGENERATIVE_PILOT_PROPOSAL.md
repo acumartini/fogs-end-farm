@@ -996,9 +996,9 @@ While basic regenerative grazing resources are increasingly available, **practic
 
 The tree lines are not an add-on; they are the innovation that multiplies the impact of every other practice.
 
-#### 1. Silvopasture Tree Line Innovation
+#### 1. Silvopasture Tree Line Integration
 
-**The Gap:** Most pasture-based regenerative systems operate in two dimensions - grass and grazing. This project transforms a 2D pasture into a **3D photosynthesis and biodiversity powerhouse** through integrated tree lines on contour swales.
+This project transforms a 2D pasture into a **3D silvopasture system** through integrated tree lines on contour swales.
 
 **Why This Matters:**
 Trees in a pasture system aren't just "nice to have" - they fundamentally change what's possible:
@@ -1022,9 +1022,7 @@ Trees in a pasture system aren't just "nice to have" - they fundamentally change
 
 #### 2. Low-Tech Flood Irrigation + Contour Swale Integration
 
-**The Gap:** Conventional advice for irrigation efficiency assumes high-tech solutions (drip systems, sprinklers, sensors) or dismisses flood irrigation as hopelessly inefficient. But flood irrigation infrastructure already exists on millions of acres across the American West. Ripping it out for expensive alternatives isn't realistic for most small landowners.
-
-**The Innovation:** This project keeps flood irrigation but redesigns the system to work *with* the landscape:
+This project demonstrates how to maximize flood irrigation efficiency using contour swales — working *with* existing infrastructure rather than replacing it with expensive alternatives.
 
 ```
 CONVENTIONAL FLOOD                    THIS PROJECT
@@ -1098,7 +1096,7 @@ While the practices are proven, this project provides valuable regional document
 
 #### 3. Whole-Systems Integration
 
-**The Gap:** Conservation programs often fund isolated practices. The Regenerative Pilot Program explicitly calls for bundled, whole-farm approaches - but the interactions between practices are rarely documented.
+This project demonstrates true systems integration where every element serves multiple functions:
 
 **This Project Delivers:**
 - True systems integration where every element serves multiple functions:
@@ -1113,9 +1111,9 @@ While the practices are proven, this project provides valuable regional document
 - Documented interactions and synergies: swales water trees → trees shade pastures → shade improves animal welfare → animals fertilize trees → deep tree roots access subsoil water → leaf drop builds organic matter → organic matter holds water → reduced irrigation needs
 - Proof that regenerative practices compound, not just add
 
-#### 4. Contribution to MAHA Goals
+#### 4. Small-Scale Model for Local Food Production
 
-**The Gap:** The Regenerative Pilot Program explicitly connects to "Make America Healthy Again" by supporting access to American-grown whole foods. Most program materials focus on large commodity operations.
+This project provides a model for small-scale, regenerative food production aligned with program goals for healthy, American-grown whole foods.
 
 **This Project Delivers:**
 - Model for small-scale, local food production on regeneratively-managed land
