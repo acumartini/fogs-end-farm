@@ -399,7 +399,7 @@ WATER ENTRY ──────────────────────�
 
 Supporting infrastructure to enable grazing management:
 - **Perimeter Fencing:** Existing N/S fencing on both sides (N side needs minor updates, S side good condition); new E/W fencing needed at N and S ends of paddock area to close off contour system
-- **Paddock Entry:** Removable cattle panels at E/W fence lines for livestock movement into paddocks
+- **Paddock Entry:** Removable panels at E/W fence lines for livestock movement into paddocks
 - **Paddock 7 Separation:** N/S fence at E end of contour paddocks separates Paddock 7 from contour system
 - **Primary Paddock Access:** ~0.25 ac N/S corridor between garden and paddocks; provides livestock access from SW barn to all contour paddocks (1-6)
 - **Tree Line Protection:** Semi-permanent electric fencing along tree lines with zoned control (only active paddock energized); removable wire design allows tree line access for pruning and maintenance
@@ -794,29 +794,15 @@ With 7 paddocks and a 5-day rotation, the system provides adequate rest with min
 
 ### 7.5 Animal Integration Options
 
-*The fencing infrastructure is designed for cattle, which simplifies management and aligns with the grazing partnership model:*
+**Grazing Animals:**
 
-- **Cattle (small herd):** Primary option; highest impact for soil stimulation; 2-4 head appropriate for ~4 acres effective grazing; two-strand electric fencing provides effective containment for cow-calf pairs
-- **Poultry Following Ruminants:** Chickens follow cattle to spread manure, consume parasites, add fertility
+Rotational grazing with ruminants (cattle, sheep, or goats) is essential to the regenerative system. The specific animals and management arrangement will be determined based on availability and circumstances — the infrastructure (fencing, water, paddocks) is designed to accommodate any common grazing livestock.
 
-**Livestock Partnership Model:**
+- **Poultry integration:** Chickens following ruminants to spread manure, consume parasites, and add fertility
 
-Rather than purchasing livestock outright, this project will utilize a **grazing partnership** arrangement - a common and practical approach for beginning farmers establishing new silvopasture systems:
-
-| Element | Approach |
-|---------|----------|
-| **Ruminants** | Partner with local livestock owner who provides animals; landowner provides pasture, water, infrastructure, and assists with rotational moves |
-| **Poultry** | Owner-managed flock following ruminants for pest/parasite control and additional fertility |
-| **Management** | Landowner implements rotational grazing schedule; animal owner handles veterinary care and animal husbandry |
-| **Benefits** | Reduces startup costs, shares risk, leverages existing animal expertise, achieves grazing management goals |
-
-This model is common in regenerative agriculture and allows the project to focus resources on permanent infrastructure (swales, tree lines, fencing, water systems) while still implementing the grazing management practice essential to the regenerative system.
-
-**Stocking Rate Considerations:**
+**Stocking Rate:**
 - Start conservative in Year 1 while system establishes
-- Tree lines reduce effective grazing area by ~15-20%
-- Increase stocking as soil health and forage production improve
-- Target: 1 Animal Unit per 1-1.5 acres by Year 3-5
+- Adjust stocking as soil health and forage production improve
 
 ---
 
