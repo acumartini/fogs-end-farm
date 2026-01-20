@@ -1140,7 +1140,7 @@ When landowners ask: "How do I add trees to my pasture without the animals destr
 
 **The Problem:** Landowners interested in silvopasture struggle to find appropriate plant material. Conventional nurseries stock ornamentals and orchard trees. Native plant programs focus on restoration. Neither provides trees and shrubs selected for integration with livestock - species that tolerate grazing pressure, establish without intensive irrigation, fix nitrogen, produce fodder, and thrive in the specific conditions of a working pasture.
 
-**The Opportunity:** This project's on-site nursery (0.125 acres) and the silvopasture system itself become a living laboratory for identifying which species and varieties succeed in Rogue Valley conditions. The knowledge gained - and the plant material propagated from proven survivors - can then be shared with other landowners attempting similar systems.
+**The Opportunity:** This project's garden/nursery area (0.25 acres) and the silvopasture system itself become a source for identifying which species and varieties succeed in Rogue Valley conditions. The knowledge gained — and the plant material propagated from proven survivors — can then be shared with other landowners attempting similar systems.
 
 **What This Project Will Document and Share:**
 
