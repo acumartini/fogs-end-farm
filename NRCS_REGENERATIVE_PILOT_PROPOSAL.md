@@ -1064,35 +1064,27 @@ CURRENT STATE                         GOAL STATE
 
 This is the true measure of success: not using *less* water, but being able to *hold more*.
 
-**The Design Challenge (Why This is a True Pilot):**
+**A Proven Approach Applied to Local Conditions:**
 
-Establishing trees without drip irrigation is the critical unknown. Most silvopasture guides assume either:
-- Drip irrigation during establishment, or
-- Rainfall-dependent climates where flood irrigation isn't needed
+The core practices in this proposal — contour swales, silvopasture, managed grazing — are well-established with decades of successful implementation worldwide. The design applies these proven techniques to the specific conditions of the Rogue Valley: Mediterranean climate, flood irrigation infrastructure, and small-scale acreage.
 
-This project will document the design process and outcomes of establishing trees using *only* flood irrigation and swale water harvesting in a Mediterranean climate with dry summers. 
+**Why This Design Works:**
 
-**Design Variables to Test:**
+| Design Element | How It Addresses the Challenge |
+|----------------|-------------------------------|
+| **Contour swales** | Capture and hold flood irrigation water that currently runs off unused |
+| **Trees on berms** | Elevated above waterlogging, roots access moisture stored below |
+| **Heavy mulch (12"+)** | Retains moisture between irrigation events, reduces evaporation |
+| **Drought-tolerant species** | Selected specifically for Mediterranean dry summers |
+| **Flood-tolerant species in channels** | Willows thrive in wet/dry cycles, provide coppice biomass |
+| **Split irrigation option** | More frequent watering during tree establishment if needed |
 
-| Variable | Options | What We'll Learn |
-|----------|---------|------------------|
-| **Swale dimensions** | Width, depth, profile | Storage capacity vs. earthwork cost |
-| **Berm planting position** | Top of berm vs. swale edge | Moisture access for young trees |
-| **Mulch depth** | 6" vs. 12" wood chips | Moisture retention between floods |
-| **Species selection** | Drought-tolerant pioneers first | Which trees establish on flood-only? |
-| **Irrigation timing** | Frequent short floods vs. long soaks | Infiltration vs. runoff tradeoff |
-| **Soil amendments** | Compost, biochar in planting holes | Do amendments improve establishment? |
+**Documentation Value:**
 
-**Key Questions to Answer:**
-
-- What swale dimensions provide adequate water retention for tree establishment?
-- How does mulch depth affect moisture availability between flood events?
-- Which tree species establish successfully without drip?
-- What irrigation frequency is needed in Year 1 vs. Year 3?
-- Can passive systems fully replace drip, or is supplemental watering needed in extreme conditions?
-- How does water-holding capacity change as organic matter increases over the 5-year contract?
-
-**Honest Assessment:** The final design is not yet complete. This project will develop, test, and document the approach - exactly what a pilot program should fund. Success means a replicable template; challenges encountered will be documented for others to learn from.
+While the practices are proven, this project provides valuable regional documentation:
+- Performance data for specific species in Rogue Valley conditions
+- Practical guidance for small-acreage flood irrigation silvopasture
+- Replicable template for similar properties in the region
 
 **Why Low-Tech Matters:**
 - No pumps, timers, filters, or emitters to maintain
