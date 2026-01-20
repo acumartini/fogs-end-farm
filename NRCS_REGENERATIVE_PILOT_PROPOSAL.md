@@ -1108,14 +1108,16 @@ This project demonstrates true systems integration where every element serves mu
 - Documented interactions and synergies: swales water trees → trees shade pastures → shade improves animal welfare → animals fertilize trees → deep tree roots access subsoil water → leaf drop builds organic matter → organic matter holds water → reduced irrigation needs
 - Proof that regenerative practices compound, not just add
 
-#### 4. Small-Scale Model for Local Food Production
+#### 4. Soil and Habitat Regeneration Model
 
-This project provides a model for small-scale, regenerative food production aligned with program goals for healthy, American-grown whole foods.
+This project demonstrates how integrated pasture and tree management transforms degraded land into a functioning ecosystem.
 
 **This Project Delivers:**
-- Model for small-scale, local food production on regeneratively-managed land
-- Demonstration that healthy soil → healthy pastures → healthy animals → healthy food
-- Template applicable to the growing number of Americans seeking to produce food on small acreages
+- Documented soil health improvements: organic matter, water-holding capacity, biological activity
+- Habitat creation through multi-layer tree lines: canopy, understory, shrub, and herbaceous layers
+- Wildlife corridor connecting wetland to tree lines via west edge plantings
+- Transition from low-diversity grass monoculture to diverse silvopasture with 30+ plant species
+- Template for small-acreage landowners seeking to regenerate marginal or underutilized pasture
 
 #### 5. Concrete Deliverables
 
@@ -1144,7 +1146,7 @@ When landowners ask: "How do I add trees to my pasture without the animals destr
 
 | Category | Species Examples | Knowledge Generated |
 |----------|------------------|---------------------|
-| **Nitrogen-Fixers** | Black locust, alder, Siberian pea shrub, goumi | Which establish without drip irrigation? Which tolerate both periodic flooding and summer drought? |
+| **Nitrogen-Fixers** | Black locust, alder, Siberian pea shrub, goumi | Which establish without drip irrigation? Which tolerate both periodic flooding and late summer drought? |
 | **Livestock-Safe Shade Trees** | Oak, honey locust, mulberry, chestnut | Growth rates, browse tolerance, time to functional shade |
 | **Fodder/Browse Species** | Willow, honey locust, mulberry | Palatability, regrowth after grazing, coppice response |
 | **Biomass Producers** | Poplar, willow | Establishment from cuttings, coppice frequency (1-2x/year?), regrowth rates |
