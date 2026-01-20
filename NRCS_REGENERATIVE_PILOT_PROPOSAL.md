@@ -154,7 +154,7 @@ Based on the approved practice list and the specific site conditions (flood irri
 - **Swale Function:** Capture, slow, spread, and infiltrate irrigation runoff
 - **Tree Line Planting:** Diverse species on swale berms (north/downhill side of each swale channel)
 - **Species Selection Goals:**
-  - Nitrogen-fixing trees (black locust, alder, Siberian pea shrub)
+  - Nitrogen-fixing trees (alder, Siberian pea shrub, goumi)
   - Biomass/mulch production (willow, poplar - dense coppice on wet swale edge)
   - Shade canopy development (oak, chestnut, honey locust)
   - Fruit/nut production (fig, hazelnut, persimmon, mulberry)
@@ -646,21 +646,16 @@ The tree line follows a dense establishment phase that transitions to a producti
        SWALE CHANNEL - Dense willow (2-3 ft)
     ══════════════════════════════════════════
                       │
-    ──────────────────────────────────────────
-       S EDGE - Sage + Comfrey (2 ft spacing)
-    ──────────────────────────────────────────
-                      │
     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-    ▓  BERM (5 ft wide) - Trees & Shrubs     ▓
-    ▓  High: Oak, Chestnut, Honey locust     ▓
-    ▓  Med: Pear, Persimmon, Fig, Mulberry   ▓
-    ▓  Low: Hazelnut, Serviceberry, Goumi,   ▓
-    ▓       Currant, Gooseberry              ▓
+    ▓                                        ▓
+    ▓  BERM (5 ft wide)                      ▓
+    ▓  ┌──────────────────────────────────┐  ▓
+    ▓  │ S Edge: Sage + Comfrey           │  ▓
+    ▓  │ Trees: High, Med, Low intermixed │  ▓
+    ▓  │ N Edge: Lavender + Comfrey       │  ▓
+    ▓  └──────────────────────────────────┘  ▓
+    ▓                                        ▓
     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-                      │
-    ──────────────────────────────────────────
-       N EDGE - Lavender + Comfrey (2 ft)
-    ──────────────────────────────────────────
                       │
                       ▼
               PADDOCK (water sheets down
@@ -675,8 +670,8 @@ The tree line follows a dense establishment phase that transitions to a producti
 
 | Layer | Species | Spacing | Purpose | Fate by Year 5-7 |
 |-------|---------|---------|---------|------------------|
-| **Nurse/Emergent** | Poplar | 10-15 ft | Fast shade, windbreak | Coppice or remove |
-| **N-fixers (dense)** | Black locust, Alder, Siberian pea shrub, Goumi | 5-8 ft | Nitrogen, biomass, soil building | Thin to 15-20 ft or coppice |
+| **Nurse/Emergent** | Poplar | 10-15 ft | Fast shade, windbreak | Pollard at Year 5, remove by Year 10 |
+| **N-fixers (dense)** | Alder, Siberian pea shrub, Goumi | 5-8 ft | Nitrogen, biomass, soil building | Thin to 15-20 ft or remove |
 | **Swale channel** | Willow | 2-3 ft | Coppice biomass, water uptake | Maintain dense permanently |
 | **S edge (uphill)** | Sage, Comfrey | 2 ft | Aromatics, biomass, pollinators | Permanent |
 | **N edge (downhill)** | Lavender, Comfrey | 2 ft | Aromatics, biomass, pollinators | Permanent |
@@ -711,11 +706,11 @@ One "Unit" = 40-50 ft (spacing between canopy trees)
 
 **Management Timeline:**
 - **Years 1-3:** Allow all species to establish; support species provide shade and fertility
-- **Years 4-7:** Begin thinning support species as permanent canopy develops; coppice willows and black locust for biomass
-- **Years 8-10+:** Remove or heavily coppice nurse trees (poplars) as oaks/chestnuts reach functional size; mature system emerges
-- **Ongoing:** Maintain willow coppice in swale channels (1-2x/year); periodic coppice of nitrogen-fixers for biomass
+- **Years 4-7:** Begin thinning support species as permanent canopy develops; coppice willows for biomass
+- **Years 8-10+:** Remove pollarded nurse trees (poplars) as oaks/chestnuts reach functional size; mature system emerges
+- **Ongoing:** Maintain willow coppice in swale channels (1-2x/year)
 
-**Livestock Safety Note:** All species selected are livestock-safe. Elderberry confined to wetland buffer only (not grazed). Walnut and cherry excluded due to toxicity concerns.
+**Livestock Safety Note:** All species selected are livestock-safe. Elderberry confined to wetland buffer only (not grazed).
 
 **Electric Fence Management:**
 - Two-strand electric fence runs parallel to tree lines (both sides of tree row)
@@ -789,18 +784,20 @@ Split schedule may benefit newly planted trees during establishment years.
 Each berm has spillway notches every 10 ft. When water reaches the spillway level, it flows through the notches and sheets down the berm face into the paddock below.
 
 ```
-SPILLWAY OVERFLOW DETAIL (Cross-Section):
+SPILLWAY OVERFLOW (Top-Down View):
 
-    SWALE (uphill)                               PADDOCK (downhill)
+    S (uphill)
     
-    ~~~~~~~~~~~~~~~~~~~~~~~~  ← water level when full
-    ▓▓▓▓▓▓▓▓            ▓▓▓▓▓▓▓▓
-    ▓▓▓▓▓▓▓▓  notch     ▓▓▓▓▓▓▓▓  ← spillway notch in berm
-    ▓▓▓▓▓▓▓▓            ▓▓▓▓▓▓▓▓    graded level by contractor
-    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-    ▓▓▓▓▓▓▓▓  5 ft BERM  ▓▓▓▓▓▓▓
-                                └──▶ water sheets down 
-                                     berm face to paddock
+    ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈  SWALE (water)
+    
+    ▓▓▓▓▓▓▓▓▓▓    ▓▓▓▓▓▓▓▓▓▓    ▓▓▓▓▓▓▓▓▓▓    ▓▓▓▓▓▓▓▓  BERM
+              ↓              ↓              ↓           (notches every 10 ft)
+           notch          notch          notch
+              ↓              ↓              ↓           water flows S → N
+    
+    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  PADDOCK
+    
+    N (downhill)
 ```
 
 **Spillway Design:**
@@ -1184,7 +1181,7 @@ Landowners interested in silvopasture often struggle to find appropriate plant m
 
 | Category | Species Examples | Knowledge Generated |
 |----------|------------------|---------------------|
-| **Nitrogen-Fixers** | Black locust, alder, Siberian pea shrub, goumi | Which establish without drip irrigation? Which tolerate both periodic flooding and late summer drought? |
+| **Nitrogen-Fixers** | Alder, Siberian pea shrub, goumi | Which establish without drip irrigation? Which tolerate both periodic flooding and summer drought? |
 | **Livestock-Safe Shade Trees** | Oak, honey locust, mulberry, chestnut, pear | Growth rates, browse tolerance, time to functional shade |
 | **Fodder/Browse Species** | Willow, honey locust, mulberry | Palatability, regrowth after grazing, coppice response |
 | **Biomass Producers** | Poplar, willow | Establishment from cuttings, coppice frequency (1-2x/year?), regrowth rates |
@@ -1192,7 +1189,7 @@ Landowners interested in silvopasture often struggle to find appropriate plant m
 
 **Why Provenance and Local Adaptation Matter:**
 
-A "black locust" from a humid Eastern nursery and one selected from dry-summer survivors may be the same species on paper, but perform dramatically differently when:
+An "alder" from a humid coastal nursery and one selected from dry-summer survivors may be the same species on paper, but perform dramatically differently when:
 - Subjected to 4+ months of summer drought
 - Irrigated via periodic flooding rather than drip
 - Integrated with grazing livestock
