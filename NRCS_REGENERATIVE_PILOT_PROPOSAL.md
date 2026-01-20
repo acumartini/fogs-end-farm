@@ -1098,9 +1098,6 @@ While the practices are proven, this project provides valuable regional document
 
 This project demonstrates true systems integration where every element serves multiple functions:
 
-**This Project Delivers:**
-- True systems integration where every element serves multiple functions:
-
 | Element | Functions Served |
 |---------|-----------------|
 | **Swales** | Water capture, irrigation efficiency, tree establishment zones, paddock boundaries |
