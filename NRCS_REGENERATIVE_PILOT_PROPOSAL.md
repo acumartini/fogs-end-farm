@@ -633,35 +633,87 @@ The following outcomes will be tracked and measured:
 - **S Access Road (Swale 1):** Wider swale profile, compacted ATV surface (8-10 ft), tree line on north edge only (south side faces barns)
 - **N Access Road (Swale 7):** Wider swale profile, compacted ATV surface (8-10 ft), tree line on south edge only (north side is property edge)
 
-**Tree Line Composition (per ~400 ft row):**
-| Layer | Species Examples | Function | Initial Spacing | Long-term Spacing |
-|-------|------------------|----------|-----------------|-------------------|
-| **Emergent/Nurse** | Poplar | Fast shade while permanent canopy establishes | 15-20 ft | Remove/coppice as canopy matures |
-| **Canopy (permanent)** | Oak, chestnut, honey locust | Long-term shade, nuts, fodder | 40-50 ft | 40-50 ft (permanent) |
-| **Sub-canopy** | Mulberry, persimmon, pear, fig, hazelnut, serviceberry | Fruit, nuts, wildlife | 15-20 ft | 15-20 ft (permanent) |
-| **Nitrogen-fixers** | Black locust, alder, Siberian pea shrub, goumi | N-fixation, biomass, chop-and-drop | 5-8 ft | Thin to 15-20 ft or coppice |
-| **Swale channel** | Willow | Dense coppice biomass, fodder (flood-tolerant) | 2-3 ft | Maintain dense, coppice regularly |
-| **Uphill edge of berm** | Sage, lavender, wormwood | Aromatics, pollinators, pest deterrent | 2 ft | Thin as needed |
-| **Herbaceous** | Comfrey, clover, native wildflowers | Biomass, pollinators, soil biology | Understory | Understory |
+**Tree Line Design - Two-Phase Approach:**
 
-**Dense-to-Thin Establishment Strategy:**
+The tree line follows a dense establishment phase that transitions to a productive mature system over 10 years.
 
-Support species (poplars, nitrogen-fixers, willows, aromatics) are planted at higher initial density than their long-term spacing. This approach:
+**Cross-Section (S to N, uphill to downhill):**
 
-| Benefit | How It Works |
-|---------|--------------|
-| **Faster canopy closure** | Dense planting shades out weeds and grasses quickly, reducing competition for permanent trees |
-| **Accelerated soil building** | More biomass production = more leaf litter, root turnover, and chop-and-drop material |
-| **Nitrogen front-loading** | Dense nitrogen-fixers pump fertility into the system during establishment years |
-| **Microclimate creation** | Dense plantings create humid, sheltered conditions that benefit slower-growing permanent species |
-| **Insurance against losses** | If some plants fail, others fill the gap; thin the healthiest performers |
-| **Management flexibility** | Remove, coppice, or retain support species based on observed performance |
+```
+         S (uphill)
+         
+    ══════════════════════════════════════════
+       SWALE CHANNEL - Dense willow (2-3 ft)
+    ══════════════════════════════════════════
+                      │
+    ──────────────────────────────────────────
+       S EDGE - Sage + Comfrey (2 ft spacing)
+    ──────────────────────────────────────────
+                      │
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+    ▓  BERM (5 ft wide) - Trees & Shrubs     ▓
+    ▓  High: Oak, Chestnut, Honey locust     ▓
+    ▓  Med: Pear, Persimmon, Fig, Mulberry   ▓
+    ▓  Low: Hazelnut, Serviceberry, Goumi,   ▓
+    ▓       Currant, Gooseberry              ▓
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                      │
+    ──────────────────────────────────────────
+       N EDGE - Lavender + Comfrey (2 ft)
+    ──────────────────────────────────────────
+                      │
+                      ▼
+              PADDOCK (water sheets down
+              via spillway notches in berm)
+         
+         N (downhill)
+```
+
+**PHASE 1: ESTABLISHMENT PLANTING (Year 1)**
+
+*Goal: Create microclimate, build soil, suppress weeds, provide fast shade*
+
+| Layer | Species | Spacing | Purpose | Fate by Year 5-7 |
+|-------|---------|---------|---------|------------------|
+| **Nurse/Emergent** | Poplar | 10-15 ft | Fast shade, windbreak | Coppice or remove |
+| **N-fixers (dense)** | Black locust, Alder, Siberian pea shrub, Goumi | 5-8 ft | Nitrogen, biomass, soil building | Thin to 15-20 ft or coppice |
+| **Swale channel** | Willow | 2-3 ft | Coppice biomass, water uptake | Maintain dense permanently |
+| **S edge (uphill)** | Sage, Comfrey | 2 ft | Aromatics, biomass, pollinators | Permanent |
+| **N edge (downhill)** | Lavender, Comfrey | 2 ft | Aromatics, biomass, pollinators | Permanent |
+
+**PHASE 2: MATURE SYSTEM (Year 10+)**
+
+*Goal: Productive silvopasture with staggered fodder, fruit, nuts, shade*
+
+One "Unit" = 40-50 ft (spacing between canopy trees)
+
+| Layer | Species | Final Spacing | Qty per Unit | Primary Function | Production Timing |
+|-------|---------|---------------|--------------|------------------|-------------------|
+| **Canopy (High)** | Oak, Chestnut, Honey locust | 40-50 ft | 1 | Shade, nuts, fodder pods | Fall (pods, nuts) |
+| **Sub-canopy (Med)** | Pear, Persimmon, Fig, Mulberry | 15-20 ft | 2-3 | Fruit, fodder leaves | Summer-Fall |
+| **Shrub (Low)** | Hazelnut, Serviceberry, Goumi, Currant, Gooseberry | 8-10 ft | 4-5 | Nuts, berries, N-fixation | Summer-Fall |
+| **S edge** | Sage, Comfrey | 2 ft | many | Aromatics, biomass chop-drop | Spring-Fall |
+| **N edge** | Lavender, Comfrey | 2 ft | many | Aromatics, biomass, pollinators | Spring-Fall |
+| **Swale channel** | Willow | 2-3 ft | dense | Coppice biomass, browse | Year-round coppice |
+
+**FODDER/PRODUCTION CALENDAR:**
+
+| Month | Available Production |
+|-------|---------------------|
+| **Early Spring** | Willow browse, comfrey (first chop) |
+| **Late Spring** | Comfrey, goumi flowers (pollinators) |
+| **Early Summer** | Mulberry leaves + fruit, gooseberry, currant |
+| **Mid Summer** | Fig fruit, comfrey (second chop), serviceberry |
+| **Late Summer** | Pear fruit drop |
+| **Early Fall** | Honey locust pods, hazelnuts |
+| **Late Fall** | Persimmon (post-frost), chestnuts, oak acorns |
+| **Winter** | Willow browse (limited), stockpiled pasture |
 
 **Management Timeline:**
 - **Years 1-3:** Allow all species to establish; support species provide shade and fertility
 - **Years 4-7:** Begin thinning support species as permanent canopy develops; coppice willows and black locust for biomass
-- **Years 8-15:** Remove or heavily coppice nurse trees (poplars) as oaks/chestnuts reach functional size
-- **Ongoing:** Maintain willow coppice in swale channels; periodic coppice of nitrogen-fixers for biomass
+- **Years 8-10+:** Remove or heavily coppice nurse trees (poplars) as oaks/chestnuts reach functional size; mature system emerges
+- **Ongoing:** Maintain willow coppice in swale channels (1-2x/year); periodic coppice of nitrogen-fixers for biomass
 
 **Livestock Safety Note:** All species selected are livestock-safe. Elderberry confined to wetland buffer only (not grazed). Walnut and cherry excluded due to toxicity concerns.
 
