@@ -1144,7 +1144,7 @@ When landowners ask: "How do I add trees to my pasture without the animals destr
 
 | Category | Species Examples | Knowledge Generated |
 |----------|------------------|---------------------|
-| **Nitrogen-Fixers** | Black locust, alder, Siberian pea shrub, goumi | Which establish without drip irrigation? Which tolerate periodic flooding? |
+| **Nitrogen-Fixers** | Black locust, alder, Siberian pea shrub, goumi | Which establish without drip irrigation? Which tolerate both periodic flooding and summer drought? |
 | **Livestock-Safe Shade Trees** | Oak, honey locust, mulberry, chestnut | Growth rates, browse tolerance, time to functional shade |
 | **Fodder/Browse Species** | Willow, honey locust, mulberry | Palatability, regrowth after grazing, coppice response |
 | **Biomass Producers** | Poplar, willow | Establishment from cuttings, coppice yields, years to first harvest |
