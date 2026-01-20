@@ -1130,9 +1130,9 @@ Beyond individual farm success, this project commits to producing:
 | Final case study document | Year 5 | NRCS educational library |
 | Consent for NRCS photography and publication | Ongoing | Program promotion |
 
-**Outcome:** A complete, documented, replicable model that NRCS can point to when the next small landowner asks: "Can regenerative agriculture work on my 10 acres?"
+**Outcome:** A documented model for integrating silvopasture tree lines with managed grazing — applicable to any small-acreage pasture system regardless of irrigation method. The tree line design, species selection, grazing integration, and establishment techniques are broadly replicable.
 
-The answer will be: "Yes. Here's exactly how it was done."
+When landowners ask: "How do I add trees to my pasture without the animals destroying them?" — this project provides the answer.
 
 #### 6. Regional Source for Proven Silvopasture Genetics
 
