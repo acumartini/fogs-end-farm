@@ -638,7 +638,7 @@ The following outcomes will be tracked and measured:
 |-------|------------------|----------|-----------------|-------------------|
 | **Emergent/Nurse** | Poplar | Fast shade while permanent canopy establishes | 15-20 ft | Remove/coppice as canopy matures |
 | **Canopy (permanent)** | Oak, chestnut, honey locust | Long-term shade, nuts, fodder | 40-50 ft | 40-50 ft (permanent) |
-| **Sub-canopy** | Mulberry, persimmon, fig, hazelnut, serviceberry | Fruit, nuts, wildlife | 15-20 ft | 15-20 ft (permanent) |
+| **Sub-canopy** | Mulberry, persimmon, pear, fig, hazelnut, serviceberry | Fruit, nuts, wildlife | 15-20 ft | 15-20 ft (permanent) |
 | **Nitrogen-fixers** | Black locust, alder, Siberian pea shrub, goumi | N-fixation, biomass, chop-and-drop | 5-8 ft | Thin to 15-20 ft or coppice |
 | **Swale channel** | Willow | Dense coppice biomass, fodder (flood-tolerant) | 2-3 ft | Maintain dense, coppice regularly |
 | **Uphill edge of berm** | Sage, lavender, wormwood | Aromatics, pollinators, pest deterrent | 2 ft | Thin as needed |
@@ -1147,7 +1147,7 @@ When landowners ask: "How do I add trees to my pasture without the animals destr
 | Category | Species Examples | Knowledge Generated |
 |----------|------------------|---------------------|
 | **Nitrogen-Fixers** | Black locust, alder, Siberian pea shrub, goumi | Which establish without drip irrigation? Which tolerate both periodic flooding and late summer drought? |
-| **Livestock-Safe Shade Trees** | Oak, honey locust, mulberry, chestnut | Growth rates, browse tolerance, time to functional shade |
+| **Livestock-Safe Shade Trees** | Oak, honey locust, mulberry, chestnut, pear | Growth rates, browse tolerance, time to functional shade |
 | **Fodder/Browse Species** | Willow, honey locust, mulberry | Palatability, regrowth after grazing, coppice response |
 | **Biomass Producers** | Poplar, willow | Establishment from cuttings, coppice frequency (1-2x/year?), regrowth rates |
 | **Pollinator/Beneficial Habitat** | Serviceberry, native shrubs | Integration with grazing, wildlife response |
