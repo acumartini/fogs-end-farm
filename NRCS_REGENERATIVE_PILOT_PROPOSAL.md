@@ -323,7 +323,7 @@ The following practices support the primary regenerative management system:
 
 ```
 WATER ENTRY                                              PASTURES
-(500' W of garden)                                       
+(~250' W of garden)                                       
       │                                                  
       ▼                                                  
   ┌───────┐     ┌───────┐                               
@@ -362,7 +362,7 @@ WATER ENTRY                                              PASTURES
       ▲                                                │
       │                                                │
 WATER ENTRY ───────────────────────────────────────────┘
-(500' W of garden)                                       
+(~250' W of garden)                                       
 ```
 
 **Implementation Approach:**
@@ -990,7 +990,7 @@ This is exactly the type of project the beginning farmer provisions are designed
 
 ### Model Farm Objectives
 
-This project is designed as a **model integrated silvopasture system** that addresses a significant gap: transforming conventional 2D pasture into a 3D regenerative powerhouse through tree line integration on contour swales.
+This project is designed as a **model integrated silvopasture system** that demonstrates how to transform conventional pasture into productive silvopasture through tree line integration on contour swales.
 
 While basic regenerative grazing resources are increasingly available, **practical models for integrating trees into pasture systems remain rare**. Everyone who hears about this project asks the same question: "How does the tree line system actually work?" This project will document exactly that - from swale construction through tree establishment to eventual integration with grazing.
 
@@ -1138,9 +1138,9 @@ When landowners ask: "How do I add trees to my pasture without the animals destr
 
 #### 6. Regional Source for Proven Silvopasture Genetics
 
-**The Problem:** Landowners interested in silvopasture struggle to find appropriate plant material. Conventional nurseries stock ornamentals and orchard trees. Native plant programs focus on restoration. Neither provides trees and shrubs selected for integration with livestock - species that tolerate grazing pressure, establish without intensive irrigation, fix nitrogen, produce fodder, and thrive in the specific conditions of a working pasture.
+Landowners interested in silvopasture often struggle to find appropriate plant material. This project addresses that by testing and propagating species suited to integration with livestock — trees and shrubs that tolerate grazing pressure, establish without intensive irrigation, and thrive in working pasture conditions.
 
-**The Opportunity:** This project's garden/nursery area (0.25 acres) and the silvopasture system itself become a source for identifying which species and varieties succeed in Rogue Valley conditions. The knowledge gained — and the plant material propagated from proven survivors — can then be shared with other landowners attempting similar systems.
+**This Project Provides:** This project's garden/nursery area (0.25 acres) and the silvopasture system itself become a source for identifying which species and varieties succeed in Rogue Valley conditions. The knowledge gained — and the plant material propagated from proven survivors — can then be shared with other landowners attempting similar systems.
 
 **What This Project Will Document and Share:**
 
