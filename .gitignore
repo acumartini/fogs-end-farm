@@ -1,4 +1,8 @@
+# Python virtual environment
+.venv/
 
+# Generated PDFs
+pdf/
 
-#Ignore vscode AI rules
+# Ignore vscode AI rules
 .github/instructions/codacy.instructions.md
