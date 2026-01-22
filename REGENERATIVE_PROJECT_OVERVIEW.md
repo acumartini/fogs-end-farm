@@ -112,6 +112,8 @@ Soil organic matter is the primary indicator of soil health and directly affects
 
 ## Timeline
 
+The project rolls out in three phases, with major infrastructure in Year 1, system establishment in Years 2-3, and maturation ongoing after Year 5.
+
 **Year 1:** Site preparation and infrastructure
 - Blackberry removal in lower pasture
 - Earthwork: 7 contour swales, access roads, subsoiling
@@ -138,6 +140,8 @@ Soil organic matter is the primary indicator of soil health and directly affects
 
 ## Estimated Costs
 
+The following estimates cover the full project scope.
+
 | Category | Estimate |
 |----------|----------|
 | Blackberry removal | $1,500 |
@@ -147,9 +151,7 @@ Soil organic matter is the primary indicator of soil health and directly affects
 | Fencing (perimeter + paddock) | $3,000 - $6,000 |
 | Livestock water system | $1,200 - $2,200 |
 | Soil testing + amendments | $1,000 - $3,500 |
-| Seed + seeding equipment | $1,300 - $3,100 |
-| **Total*** | **$28,000 - $54,000** |
-
-*Eligible for NRCS cost-share (75-90% depending on beginning farmer status).
+| Pasture seed + seeding equipment | $1,300 - $3,100 |
+| **Total** | **$28,000 - $54,000** |
 
 *Full species lists, practice details, and implementation specifications available in the detailed reference document.*
