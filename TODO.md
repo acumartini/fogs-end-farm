@@ -212,53 +212,32 @@
 
 ## Initial Email to NRCS
 
-**To:** peter.winnick@usda.gov  
-**Subject:** Regenerative Pilot Program Inquiry - 9.5-acre Silvopasture Project, Jackson County
+To: peter.winnick@usda.gov
+Subject: Regenerative Pilot Program Inquiry - Jackson County
 
 ---
 
 Hi Peter,
 
-I'm writing to inquire about the new NRCS Regenerative Pilot Program for my 9.5-acre property in Jackson County. I have approximately 5 acres of pasture that I'd like to convert to an integrated silvopasture system, and the program's emphasis on bundled, whole-farm regenerative practices seems like an excellent fit.
+I am writing to inquire about the new NRCS Regenerative Pilot Program. I have a 9.5-acre property in Jackson County with about 5 acres of flood-irrigated pasture that I want like to convert to an integrated silvopasture system.
 
-**The Project:**
+The pasture currently has low organic matter and limited biodiversity. I am working on a detailed proposal to add contour swales with tree lines on the berms to divide the pasture into paddocks for rotational grazing. The goal is to build soil health, sequester carbon, add habitat, and make better use of our irrigation water. I believe this aligns well with the integrated approach the pilot program emphasizes.
 
-The property currently has underutilized pasture with flood irrigation (2.5 days every two weeks via irrigation district). My plan is to install 7 contour swales running east-west across the pasture (5 standard swales plus 2 access roads - one on the south edge near the barns, one on the north edge before runoff exits the property), with diverse tree lines on the berms, creating 7 paddocks for managed rotational grazing (6 in the contour system plus 1 off-contour paddock on the east side). The 5-day rotation through 7 paddocks provides 30 days rest for each paddock with only 6 moves per month. The northern access road/swale will be densely planted with willow and poplar to capture any remaining runoff nutrients as biomass. The swales would capture and infiltrate irrigation runoff that currently runs off unused, while the tree lines would add nitrogen fixation, shade, biomass, and biodiversity to what is now a simple grass pasture.
+I know I missed the January 15 deadline, but I understand applications are accepted year-round. I would like to start the planning process now so I am ready for the next ranking period.
 
-I also have aging irrigation infrastructure at the water entry point (two old concrete control boxes that leak significantly) that needs rehabilitation.
+A few questions:
+- When is the next ranking period, and what timeline should I plan for?
+- What are the next steps to begin working with your office on a conservation plan?
+- Do I need a farm number from FSA first, or can that happen in parallel?
 
-**Resource Concerns the Project Addresses:**
-- Low soil organic matter and poor water-holding capacity
-- Uncontrolled irrigation runoff
-- Low plant diversity and limited wildlife habitat
-- Degraded irrigation infrastructure
-
-**Why I'm Reaching Out Now:**
-
-I know I missed the January 15 national deadline, but I understand applications are accepted year-round for subsequent ranking periods. I'd like to start the assessment and planning process now so I'm well-prepared for the next deadline.
-
-**Questions:**
-
-1. When is the next ranking period, and what timeline should I plan for?
-2. How do I schedule a whole-farm assessment?
-3. I have a small wetland (~0.25 acres) in the NW corner of the property. What's the process for wetland delineation and determining buffer requirements for earthwork?
-4. Do I need to obtain a farm number from FSA before working with NRCS, or can that happen in parallel?
-
-I've drafted a detailed project proposal and would be happy to share it if helpful. I'm also available for a site visit at your convenience.
-
-Thank you for your time. I look forward to hearing from you.
+Happy to meet at your office and/or the property if that would be helpful.
 
 Best,
 
-[Your name]  
-[Phone]  
-[Property address]
-
----
-
-**Notes:**
-- [ ] Attach property overview photo? (optional - may be better to wait for site visit)
-- [ ] Customize closing with actual contact info before sending
+Adam Martini
+541-625-8684
+1390 Tolman Cr Rd
+Ashland, OR 97520
 
 ---
 

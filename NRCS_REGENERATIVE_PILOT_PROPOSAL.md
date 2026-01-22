@@ -12,15 +12,21 @@
 
 ## Executive Summary
 
-This proposal presents a comprehensive regenerative plan for the 5-acre back production area of a 9.5-acre property, featuring an integrated silvopasture system with contour swales, diverse tree lines, and managed grazing paddocks. The design directly addresses a critical water management challenge: controlling runoff from existing flood-style irrigation through earthworks that capture, slow, and infiltrate water while creating productive agroforestry zones.
+This proposal presents a comprehensive regenerative plan for the 5-acre back production area of a 9.5-acre property. The current pasture suffers from low soil organic matter, poor water-holding capacity, and limited biological activity. This project transforms a grass monoculture into a diverse, climate-resilient silvopasture system.
 
-The project integrates:
-- **Contour swale system** (7 swales running E/W) for irrigation runoff management
-- **Diverse tree lines** on swale berms for biomass, shade, biodiversity, and soil biology
+**Resource Concerns Addressed:**
+- **Soil health:** Building organic matter, water-holding capacity, and biological activity
+- **Water management:** Maximizing infiltration and retention of existing irrigation allocation
+- **Biodiversity:** Transitioning from grass monoculture to diverse silvopasture with 30+ species
+- **Carbon sequestration:** Building soil carbon through managed grazing and integrating trees for above- and below-ground storage
+- **Climate resilience:** Deep-rooted trees, increased soil moisture retention, drought-tolerant species
+
+**The project integrates:**
+- **Contour swale system** (7 swales running E/W) to capture, slow, and infiltrate irrigation water
+- **Diverse tree lines** (30+ species) on swale berms for biomass, shade, nitrogen fixation, and habitat
 - **7 grazing paddocks** (6 between swales + 1 off-contour) with adaptive multi-paddock management
-- **Wetland buffer zone** (0.25 ac, NW corner) for wildlife habitat and water quality
-- **No-till garden and nursery** (0.25 ac) integrated into the silvopasture system
-- **Irrigation infrastructure rehabilitation** - replacement of degraded concrete distribution boxes to improve water efficiency at the source
+- **Wetland buffer zone** (0.25 ac, NW corner) for wildlife habitat
+- **Garden/nursery area** (0.25 ac) for propagation of proven silvopasture genetics
 
 This proposal prioritizes the regenerative system itself as a replicable model for small-scale integrated silvopasture, with production as a secondary outcome of healthy land function.
 
@@ -59,8 +65,18 @@ The whole-farm assessment will address all NRCS resource concern categories:
 
 #### Natural Vitality (Biodiversity) Concerns
 - **Habitat Diversity:** Multi-species pasture system supporting pollinators, beneficial insects, and wildlife
-- **Plant Community Health:** Diverse perennial and annual species integration
+- **Plant Community Health:** Diverse perennial and annual species integration (30+ species in tree lines alone)
 - **Ecosystem Function:** Carbon cycling, nutrient cycling, and water cycling as integrated system
+
+#### Carbon Sequestration
+- **Soil Carbon (PRIMARY):** Managed grazing builds soil carbon through root exudates, trampled residue, and manure incorporation; healthy pasture is a significant carbon sink independent of trees
+- **Above-Ground Carbon:** Tree integration adds woody biomass storage; silvopasture stores 2-5x more carbon than grass-only systems
+- **Below-Ground Carbon:** Deep-rooted perennial grasses and trees (oaks, chestnuts, persimmon) stabilize carbon in lower soil horizons
+
+#### Climate Resilience
+- **Drought Tolerance:** Deep-rooted trees access water during dry periods; increased soil organic matter improves water-holding capacity
+- **Variable Conditions:** Diverse species mix provides insurance against climate variability; some species thrive in wet years, others in dry
+- **Temperature Moderation:** Tree shade reduces heat stress on pasture and livestock; moderates soil temperature extremes
 
 ### 2.2 Site Characterization
 
