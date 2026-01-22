@@ -701,10 +701,10 @@ One "Unit" = 40-50 ft (spacing between canopy trees)
 | Layer | Species | Final Spacing | Qty per Unit | Primary Function | Production Timing |
 |-------|---------|---------------|--------------|------------------|-------------------|
 | **Canopy (High)** | Oak, Chestnut, Honey locust | 40-50 ft | 1 | Shade, nuts, fodder pods | Fall (pods, nuts) |
-| **Sub-canopy (Med)** | Pear, Persimmon, Fig, Mulberry | 15-20 ft | 2-3 | Fruit, fodder leaves | Summer-Fall |
-| **Shrub (Low)** | Hazelnut, Serviceberry, Goumi, Currant, Gooseberry | 8-10 ft | 4-5 | Nuts, berries, N-fixation | Summer-Fall |
-| **S edge** | Sage, Comfrey | 2 ft | many | Aromatics, biomass chop-drop | Spring-Fall |
-| **N edge** | Lavender, Comfrey | 2 ft | many | Aromatics, biomass, pollinators | Spring-Fall |
+| **Sub-canopy (Med)** | Pear, Persimmon, Fig, Mulberry, Pomegranate | 15-20 ft | 2-3 | Fruit, fodder leaves | Summer-Fall |
+| **Shrub (Low)** | Hazelnut, Serviceberry, Goumi, Currant, Gooseberry, Strawberry tree | 8-10 ft | 4-5 | Nuts, berries, N-fixation, evergreen | Summer-Fall |
+| **S edge** | Sage, Comfrey, Artemisia | 2 ft | many | Aromatics, biomass chop-drop | Spring-Fall |
+| **N edge** | Lavender, Comfrey, Artemisia | 2 ft | many | Aromatics, biomass, pollinators | Spring-Fall |
 | **Swale channel** | Willow | 2-3 ft | dense | Coppice biomass, browse | Year-round coppice |
 
 **FODDER/PRODUCTION CALENDAR:**
@@ -715,8 +715,8 @@ One "Unit" = 40-50 ft (spacing between canopy trees)
 | **Late Spring** | Comfrey, goumi flowers (pollinators) |
 | **Early Summer** | Mulberry leaves + fruit, gooseberry, currant |
 | **Mid Summer** | Fig fruit, comfrey (second chop), serviceberry |
-| **Late Summer** | Pear fruit drop |
-| **Early Fall** | Honey locust pods, hazelnuts |
+| **Late Summer** | Pear fruit drop, pomegranate |
+| **Early Fall** | Honey locust pods, hazelnuts, strawberry tree fruit |
 | **Late Fall** | Persimmon (post-frost), chestnuts, oak acorns |
 | **Winter** | Willow browse (limited), stockpiled pasture |
 

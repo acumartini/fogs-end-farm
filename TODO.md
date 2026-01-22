@@ -795,10 +795,10 @@ For 7 tree lines x 400 ft each = 2,800 linear feet of tree line
 |-------|-----------------|-------------------|---------------|---------|-------|
 | Emergent/Nurse | 15-20 ft | Remove as canopy matures | ~160 trees | Poplar | Fast shade; coppice/remove years 8-15 |
 | Canopy (permanent) | 45 ft | 45 ft | ~63 trees | Oak, chestnut, honey locust | Long-term anchors; don't thin |
-| Sub-canopy | 17 ft | 17 ft | ~165 trees | Mulberry, persimmon, serviceberry, fig, hazelnut | Permanent; fruit, wildlife, nuts |
+| Sub-canopy | 17 ft | 17 ft | ~165 trees | Mulberry, persimmon, serviceberry, fig, hazelnut, pomegranate, strawberry tree | Permanent; fruit, wildlife, nuts, evergreen |
 | N-fixers | 5-8 ft | 15-20 ft (thin) | ~400-560 | Black locust, alder, goumi, Siberian pea | Dense initial; thin/coppice years 4-7 |
 | Wet edge (willow) | 2-3 ft | 2-3 ft (maintain dense) | ~935-1,400 | Willow | Dense coppice; maintain permanently |
-| Dry edge (aromatic) | 2 ft | Thin as needed | ~1,400 | Sage, lavender, wormwood | Dense initial; thin to 3 ft as mature |
+| Dry edge (aromatic) | 2 ft | Thin as needed | ~1,400 | Sage, lavender, wormwood, artemisia | Dense initial; thin to 3 ft as mature |
 | Herbaceous | Throughout | Throughout | 450+ | Comfrey, clover seed | Permanent understory |
 
 **Initial totals (dense planting):**
