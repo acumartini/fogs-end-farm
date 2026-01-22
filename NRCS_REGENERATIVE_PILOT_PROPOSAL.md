@@ -961,6 +961,7 @@ Rotational grazing with ruminants (cattle, sheep, or goats) is essential to the 
 | **Seed/Overseeding** | Cover crop mixes, pasture improvement, swale seeding | $1,000 - $2,500 | Multi-species mixes |
 | **Seeding Equipment** | Tow-behind broadcast spreader + drag harrow for zero-turn | $300 - $600 | Confirm eligibility with NRCS |
 | **Amendments** | Lime, minerals, compost (if indicated by soil tests) | $500 - $2,000 | Based on test results |
+| **Subsoiling/Keyline** | Deep ripping to break compaction, improve infiltration | $750 - $2,500 | Initial pass + 2-4 follow-up passes over Years 1-5 |
 | **Planning/TSP** | Technical service provider assistance | Variable | May be covered by program |
 
 ### Earthwork Scope Detail
@@ -982,16 +983,16 @@ This project is submitted under **beginning farmer status**, qualifying for enha
 
 | Item | Low Estimate | High Estimate |
 |------|--------------|---------------|
-| **Total Project Cost** | $27,000 | $51,000 |
-| **EQIP/CSP Cost-Share (90%)** | $24,300 | $45,900 |
-| **Producer Contribution (10%)** | $2,700 | $5,100 |
+| **Total Project Cost** | $28,000 | $54,000 |
+| **EQIP/CSP Cost-Share (90%)** | $25,200 | $48,600 |
+| **Producer Contribution (10%)** | $2,800 | $5,400 |
 
 *For reference, standard rates (if beginning farmer status not approved):*
 
 | Item | Low Estimate | High Estimate |
 |------|--------------|---------------|
-| EQIP/CSP Cost-Share (75%) | $20,250 | $38,250 |
-| Producer Contribution (25%) | $6,750 | $12,750 |
+| EQIP/CSP Cost-Share (75%) | $21,000 | $40,500 |
+| Producer Contribution (25%) | $7,000 | $13,500 |
 
 ### Cost-Share Eligible Practices
 
