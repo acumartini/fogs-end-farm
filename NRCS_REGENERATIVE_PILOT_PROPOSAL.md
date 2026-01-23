@@ -508,15 +508,15 @@ The following outcomes will be tracked and measured:
        
     ┌───────────┬───────────┬───────────────────────────────────────┬───────────┐  
     │░░░░░░░░░░░│           ║ ▓▓ SWALE 7 / N ACCESS ROAD ▓▓▓▓▓▓▓▓▓▓ │           │  ▲
-    │░░░░░░░░░░░┤           ╠───────────────────────────────────────┤           │  │
+    │░░░░░░░░░░░│           ╠───────────────────────────────────────┤           │  │
     │░░░░░░░░░░░│           ║                                       │           │  │
     │░░░░░░░░░░░│           ║         PADDOCK 6 (~0.5 ac)           │           │  │
-    ├░ WETLAND ░┤           ╠───────────────────────────────────────┤           │  │
+    ├░ WETLAND ░│           ╠───────────────────────────────────────┤           │  │
     │░ (0.25ac) │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 6 + TREE LINE ▓▓▓▓▓▓ │           │  │
-    │░ UPHILL  ░┤           ╠───────────────────────────────────────┤           │  
+    │░ UPHILL  ░│           ╠───────────────────────────────────────┤           │  
     │░░░░░░░░░░░│           ║                                       │           │  4
     │░░░░░░░░░░░│           ║         PADDOCK 5 (~0.5 ac)           │ PADDOCK 7 │  0
-    │░░░░░░░░░░░┤           ╠───────────────────────────────────────┤ (~0.5 ac) │  0
+    │░░░░░░░░░░░│           ╠───────────────────────────────────────┤ (~0.5 ac) │  0
     │░░░░░░░░░░░│           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 5 + TREE LINE ▓▓▓▓▓▓ │           │  
     │───────────┤           ╠───────────────────────────────────────┤    E      │  f
     │           │ PRIMARY   ║                                       │   side    │  t
@@ -581,7 +581,7 @@ The following outcomes will be tracked and measured:
     ░░░  Wetland - 0.25 ac (NW corner, UPHILL from contour swales)
     ▓▓▓  Contour swale + diverse tree line (water management + silvopasture)
     ≈≈≈  Irrigation ditch (south edge of property, full E/W length)
-    ║    Primary Paddock Access corridor (livestock + vehicle access from property)
+    ║    Irrigation pipe to neighboring property
     
     WEST STRIP (~75' wide, north to south):
     - Wetland: 0.25 ac (NW corner, spans Paddock 5-6 height - note: uphill from swales)

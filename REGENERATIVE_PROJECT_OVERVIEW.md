@@ -18,58 +18,9 @@ An eventual goal of this project is to give back to the community by documenting
 
 The back 5 acres sits on a gentle north-facing slope, roughly 550 ft (E/W) by 400 ft (N/S). Contours run east-west, with water flowing north. An irrigation ditch lines the southern border with a pipe running north to feed the neighboring property. Two barns provide shelter for overwintering animals and enable access to specific paddocks. Deep bedding from winter housing is composted and returned to the pasture, closing the nutrient loop.
 
-The diagram below shows the proposed layout with seven contour swales dividing the pasture into paddocks:
+The site plan below shows the proposed layout with seven contour swales dividing the pasture into paddocks:
 
-```
-                            NORTH (downhill)
-        <──────────────── 550 ft ───────────────────────────────────────────>
-       
-    ┌───────────┬───────────┬───────────────────────────────────────┬───────────┐  
-    │░░░░░░░░░░░│           ║ ▓▓ SWALE 7 / N ACCESS ROAD ▓▓▓▓▓▓▓▓▓▓ │           │  ▲
-    │░░░░░░░░░░░│           ╠───────────────────────────────────────┤           │  │
-    │░░░░░░░░░░░│           ║                                       │           │  │
-    │░░░░░░░░░░░│           ║         PADDOCK 6 (~0.5 ac)           │           │  │
-    │░ WETLAND ░│           ╠───────────────────────────────────────┤           │  │
-    │░ (0.25ac) │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 6 + TREE LINE ▓▓▓▓▓▓ │           │  │
-    │░░░░░░░░░░░│           ╠───────────────────────────────────────┤           │  
-    │░░░░░░░░░░░│           ║                                       │           │  4
-    │░░░░░░░░░░░│           ║         PADDOCK 5 (~0.5 ac)           │ PADDOCK 7 │  0
-    │░░░░░░░░░░░│           ╠───────────────────────────────────────┤ (~0.5 ac) │  0
-    │░░░░░░░░░░░│           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 5 + TREE LINE ▓▓▓▓▓▓ │           │  
-    │───────────┤           ╠───────────────────────────────────────┤    E      │  f
-    │           │ PRIMARY   ║                                       │   side    │  t
-    │           │ PADDOCK   ║         PADDOCK 4 (~0.5 ac)           │   off-    │  
-    │           │ ACCESS    ╠───────────────────────────────────────┤  contour  │  │
-    │  GARDEN   │ (~0.25 ac)║ ▓▓▓▓▓▓▓▓▓▓ SWALE 4 + TREE LINE ▓▓▓▓▓▓ │           │  │
-    │     /     │           ╠───────────────────────────────────────┤  Access   │  │
-    │  NURSERY  │           ║                                       │    via    │  │
-    │ (0.25 ac) │           ║         PADDOCK 3 (~0.5 ac)           │    SE     │  │
-    │           │           ╠───────────────────────────────────────┤   barn    │  │
-    │           │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 3 + TREE LINE ▓▓▓▓▓▓ │           │  │
-    │           │           ╠───────────────────────────────────────┤           │  │
-    │───────────│           ║                                       │           │  │
-    │  MAIN     │           ║         PADDOCK 2 (~0.5 ac)           │           │  │
-    │  ACCESS   │           ╠───────────────────────────────────────┤           │  │
-    │  ROAD     │           ║ ▓▓▓▓▓▓▓▓▓▓ SWALE 2 + TREE LINE ▓▓▓▓▓▓ │           │  │
-    │───────────┤───────────╠───────────────────────────────────────┤───────────│  │
-    │           │           ║                                       │           │  │
-    │  GARDEN   │  SW BARN  ║         PADDOCK 1 (~0.5 ac)           │  SE BARN  │  │
-    │  cont.    │  (water)  ╠───────────────────────────────────────┤  (water)  │  │
-    │           │           ║ ▓▓▓ SWALE 1 / S ACCESS ROAD ▓▓▓▓▓▓▓▓▓ │           │  │
-    ├───────────┴───────────╩───────────────────────────────────────┴───────────┤  │
-    │ ≈≈≈≈≈≈≈≈≈≈≈≈≈≈ IRRIGATION DITCH ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈  │  ▼
-    └───────────────────────────────────────────────────────────────────────────┘
-                            SOUTH (uphill, irrigation source)
-    
-     <── 75' ──> <── 25' ──> <──────────── 400 ft ──────────────────> <─- 50' -─>
-     WEST                                                                    EAST
-
-LEGEND:
-░░░  Wetland
-▓▓▓  Contour swale + tree line
-≈≈≈  Irrigation ditch
-║    Irrigation pipe to neighboring property
-```
+![Fogs End Farm Site Plan](overview-ascii.png)
 
 ---
 
@@ -81,7 +32,7 @@ Seven contour swales (~400 ft each) run east-west across the pasture. Water ente
 
 | Layer | Species | Spacing |
 |-------|---------|---------|
-| Emergent* | Poplar | 15-20 ft |
+| Emergent* | Poplar | 30 ft |
 | Canopy | Oak, chestnut, honey locust | 40-50 ft |
 | Sub-canopy | Pear, persimmon, mulberry, fig, pomegranate | 15-20 ft |
 | Shrub | Hazelnut, serviceberry, currant, strawberry tree | 8-10 ft |
@@ -89,7 +40,7 @@ Seven contour swales (~400 ft each) run east-west across the pasture. Water ente
 | Swale channel | Willow (coppiced for biomass) | 2-3 ft |
 | Edges | Sage, lavender, comfrey, artemisia | 1-2 ft |
 
-*Emergent trees establish quickly to provide shade and microclimate, then are thinned as the permanent canopy matures (10-15 years).
+*Emergent trees establish quickly to provide shade and microclimate, then are thinned as the permanent canopy matures (5-10 years).
 
 ---
 
@@ -104,7 +55,7 @@ Success will be tracked through the following metrics:
 | Plant species count | ~5 (grass monoculture) | 30+ perennial species |
 | Tree survival rate | N/A | 80%+ establishment |
 | Pasture rest days | 0 (continuous) | 30+ days between grazing |
-| Carrying capacity | Establish baseline | Measurable increase |
+| Carrying capacity | Establish baseline | 25-50% increase |
 
 Soil organic matter is the primary indicator of soil health and directly affects water retention. Water infiltration rate measures how effectively the swales capture and hold irrigation. Plant species count tracks biodiversity across the tree lines and overseeded pasture. Tree survival rate validates that species selection and establishment methods are working. Pasture rest days confirm the grazing rotation is being maintained. Carrying capacity is the ultimate indicator of pasture productivity. If the system is working as intended, the land will support more animals over time.
 
@@ -153,5 +104,3 @@ The following estimates cover the full project scope.
 | Soil testing + amendments | $1,000 - $3,500 |
 | Pasture seed + seeding equipment | $1,300 - $3,100 |
 | **Total** | **$28,000 - $54,000** |
-
-*Full species lists, practice details, and implementation specifications available in the detailed reference document.*
