@@ -18,7 +18,7 @@ An eventual goal of this project is to give back to the community by documenting
 
 The back 5 acres sits on a gentle north-facing slope, roughly 550 ft (E/W) by 400 ft (N/S). Contours run east-west, with water flowing north. An irrigation ditch lines the southern border with a pipe running north to feed the neighboring property. Two barns provide shelter for overwintering animals and enable access to specific paddocks. Deep bedding from winter housing is composted and returned to the pasture, closing the nutrient loop.
 
-The site plan below shows the proposed layout with seven contour swales dividing the pasture into paddocks:
+The schematic overlay below shows the proposed layout with seven contour swales dividing the pasture into paddocks:
 
 ![Fogs End Farm Site Plan](overview-ascii.png)
 
