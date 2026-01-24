@@ -6,17 +6,17 @@
 
 ## The Opportunity
 
-The back 5 acres of this 9.5-acre property is a flood-irrigated pasture with low soil organic matter, poor water-holding capacity, and limited biological activity. Irrigation water arrives every two weeks, but the soil lacks holding capacity and the water runs off the property underutilized. This project transforms the property into an integrated silvopasture system that addresses soil health, water management, biodiversity, carbon sequestration, and climate resilience as interconnected outcomes of a regenerative design.
+The back 5 acres of this 9.5-acre property is a flood-irrigated pasture that underperforms due to low organic matter and limited water retention. During irrigation, significant runoff leaves the property underutilized. This project transforms the property into an integrated silvopasture system that addresses soil health, water management, biodiversity, carbon sequestration, and climate resilience as interconnected outcomes of a regenerative design.
 
 The system integrates three core practices: contour swales for water management, diverse tree lines for silvopasture, and rotational grazing for soil health. The swales capture and infiltrate irrigation water, which supports the tree lines. The trees drop organic matter which feeds the pasture, and provide shade and windbreak for animals. Rotational grazing invigorates the pasture, builds soil structure, and cycles nutrients back into the soil. Together these components create a regenerative feedback loop.
 
-An eventual goal of this project is to give back to the community by documenting what works (and what doesn't), hosting site visits, and propagating proven genetics for regional distribution.
+An eventual goal of this project is to give back to the community by documenting methods and results, hosting site visits, and propagating proven genetics for regional distribution.
 
 ---
 
 ## The Land
 
-The back 5 acres sits on a gentle north-facing slope, roughly 550 ft (E/W) by 400 ft (N/S). Contours run east-west, with water flowing north. An irrigation ditch lines the southern border with a pipe running north to feed the neighboring property. Two barns provide shelter for overwintering animals and enable access to specific paddocks. Deep bedding from winter housing is composted and returned to the pasture, closing the nutrient loop.
+The back 5 acres sits on a gentle north-facing slope, roughly 550 ft (E/W on contour) by 400 ft (N/S). An irrigation ditch lines the southern border and is the source of flood irrigation. Two barns provide shelter and storage.
 
 The schematic overlay below shows the proposed layout with seven contour swales dividing the pasture into paddocks:
 
@@ -26,21 +26,21 @@ The schematic overlay below shows the proposed layout with seven contour swales 
 
 ## The System
 
-Seven contour swales (~400 ft each) run east-west across the pasture. Water enters from the south and flows north by gravity, passing through six opportunities for infiltration before leaving the property. Each swale berm carries a diverse tree line — over 30 species selected for drought tolerance, nitrogen fixation, and livestock compatibility. Between the swales, seven paddocks (~0.5 acres each) support rotational grazing. Short grazing periods, followed by 30+ days of rest, build soil biology through the graze-trample-rest cycle.
+Seven contour swales (~400 ft each) run east-west across the pasture. Water enters from the south and flows north by gravity, passing through six opportunities for infiltration before leaving the property. Each swale berm carries a diverse tree line — over 30 species selected for drought tolerance, nitrogen fixation, and livestock compatibility. Between the swales, seven paddocks (~0.5 acres each) support rotational grazing. Short grazing periods, followed by 30+ days of rest, build soil biology through the graze-trample-rest cycle. Deep bedding from winter housing is composted and returned to the pasture, feeding soil biology.
 
-**Tree line structure (30+ species):**
+### Tree Line Structure
+
+Each swale berm supports a multi-layer tree line designed for long-term productivity and resilience. Over 30 species are selected for drought tolerance, nitrogen fixation, and livestock compatibility. Fast-growing emergent trees establish shade and microclimate early, then are thinned as the permanent canopy matures.
 
 | Layer | Species | Spacing |
 |-------|---------|---------|
-| Emergent* | Poplar | 30 ft |
+| Emergent | Poplar | 30 ft |
 | Canopy | Oak, chestnut, honey locust | 40-50 ft |
 | Sub-canopy | Pear, persimmon, mulberry, fig, pomegranate | 15-20 ft |
 | Shrub | Hazelnut, serviceberry, currant, strawberry tree | 8-10 ft |
 | Nitrogen-fixers | Alder, Siberian pea shrub, goumi | Interplanted |
 | Swale channel | Willow (coppiced for biomass) | 2-3 ft |
 | Edges | Sage, lavender, comfrey, artemisia | 1-2 ft |
-
-*Emergent trees establish quickly to provide shade and microclimate, then are thinned as the permanent canopy matures (5-10 years).
 
 ---
 
@@ -50,14 +50,14 @@ Success will be tracked through the following metrics:
 
 | Metric | Baseline (Year 1) | Target (Year 5) |
 |--------|-------------------|-----------------|
-| Soil organic matter | Establish baseline | 1% increase |
-| Water infiltration rate | Establish baseline | Measurable improvement |
+| Soil health | Establish baseline | Measurable improvement |
+| Surface runoff | Establish baseline | Full capture |
 | Plant species count | ~5 (grass monoculture) | 30+ perennial species |
 | Tree survival rate | N/A | 80%+ establishment |
 | Pasture rest days | 0 (continuous) | 30+ days between grazing |
 | Carrying capacity | Establish baseline | 25-50% increase |
 
-Soil organic matter is the primary indicator of soil health and directly affects water retention. Water infiltration rate measures how effectively the swales capture and hold irrigation. Plant species count tracks biodiversity across the tree lines and overseeded pasture. Tree survival rate validates that species selection and establishment methods are working. Pasture rest days confirm the grazing rotation is being maintained. Carrying capacity is the ultimate indicator of pasture productivity. If the system is working as intended, the land will support more animals over time.
+Soil health testing will establish baseline physical, chemical, and biological indicators. Surface runoff measures how effectively the swales capture irrigation. Plant species count tracks biodiversity across the tree lines and overseeded pasture. Tree survival rate validates that species selection and establishment methods are working. Pasture rest days confirm the grazing rotation is being maintained. Carrying capacity is the ultimate indicator of pasture productivity.
 
 ---
 
