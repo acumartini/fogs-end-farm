@@ -6,9 +6,9 @@
 
 ## The Opportunity
 
-The back 5 acres of this 9.5-acre property is a flood-irrigated pasture that underperforms due to low organic matter and limited water retention. During irrigation, significant runoff leaves the property underutilized. This project transforms the property into an integrated silvopasture system that addresses soil health, water management, biodiversity, carbon sequestration, and climate resilience as interconnected outcomes of a regenerative design.
+The back 5 acres of this 9.5-acre property is a flood-irrigated pasture that underperforms due to low organic matter and limited water retention. During irrigation, significant runoff leaves the property underutilized. Continuous grazing has degraded pasture productivity and limited plant diversity. This project transforms the property into an integrated silvopasture system that addresses soil health, water management, biodiversity, carbon sequestration, and climate resilience as interconnected outcomes of a regenerative design.
 
-The system integrates three core practices: contour swales for water management, diverse tree lines for silvopasture, and rotational grazing for soil health. The swales capture and infiltrate irrigation water, which supports the tree lines. The trees drop organic matter which feeds the pasture, and provide shade and windbreak for animals. Rotational grazing invigorates the pasture, builds soil structure, and cycles nutrients back into the soil. Together these components create a regenerative feedback loop.
+The system integrates contour swales for water management, diverse tree lines for silvopasture, and rotational grazing for soil health. The swales capture and infiltrate irrigation water, which supports the tree lines. The trees drop organic matter which feeds the pasture and provide shade and forage for animals. Rotational grazing invigorates the pasture, builds soil structure, and cycles nutrients back into the soil. Together these components create a regenerative feedback loop.
 
 An eventual goal of this project is to give back to the community by documenting methods and results, hosting site visits, and propagating proven genetics for regional distribution.
 
@@ -26,11 +26,11 @@ The schematic overlay below shows the proposed layout with seven contour swales 
 
 ## The System
 
-Seven contour swales (~400 ft each) run east-west across the pasture. Water enters from the south and flows north by gravity, passing through six opportunities for infiltration before leaving the property. Each swale berm carries a diverse tree line — over 30 species selected for drought tolerance, nitrogen fixation, and livestock compatibility. Between the swales, seven paddocks (~0.5 acres each) support rotational grazing. Short grazing periods, followed by 30+ days of rest, build soil biology through the graze-trample-rest cycle. Deep bedding from winter housing is composted and returned to the pasture, feeding soil biology.
+Seven contour swales (~400 ft each) run east-west across the pasture. Water enters from the south and flows north by gravity, passing through six opportunities for infiltration before leaving the property. Each swale berm carries a diverse tree line — over 30 species selected for drought tolerance, nitrogen fixation, and livestock compatibility. Between the swales, seven paddocks (~0.5 acres each) support rotational grazing. Short grazing periods, followed by 30+ days of rest, build soil biology through the graze-trample-rest cycle. Deep bedding from winter housing is composted and returned to the pasture, feeding soil biology. Poultry follow ruminant grazing, breaking parasite cycles and adding concentrated nutrients.
 
 ### Tree Line Structure
 
-Each swale berm supports a multi-layer tree line designed for long-term productivity and resilience. Over 30 species are selected for drought tolerance, nitrogen fixation, and livestock compatibility. Fast-growing emergent trees establish shade and microclimate early, then are thinned as the permanent canopy matures.
+Each swale berm supports a multi-layer tree line designed for long-term productivity and resilience. Fast-growing emergent trees establish shade and microclimate early, then are thinned as the permanent canopy matures.
 
 | Layer | Species | Spacing |
 |-------|---------|---------|
@@ -57,7 +57,7 @@ Success will be tracked through the following metrics:
 | Pasture rest days | 0 (continuous) | 30+ days between grazing |
 | Carrying capacity | Establish baseline | 25-50% increase |
 
-Soil health testing will establish baseline physical, chemical, and biological indicators. Surface runoff measures how effectively the swales capture irrigation. Plant species count tracks biodiversity across the tree lines and overseeded pasture. Tree survival rate validates that species selection and establishment methods are working. Pasture rest days confirm the grazing rotation is being maintained. Carrying capacity is the ultimate indicator of pasture productivity.
+Soil health testing will establish baseline physical, chemical, and biological indicators. Surface runoff measures how effectively the swales capture irrigation. Plant species count tracks biodiversity across the tree lines and overseeded pasture. Tree survival rate validates that species selection and establishment methods are working. Pasture rest days ensure proper grazing rotation. Carrying capacity is the ultimate indicator of pasture productivity.
 
 ---
 
@@ -81,9 +81,11 @@ The project rolls out in three phases, with major infrastructure in Year 1, syst
 - Follow-up subsoiling passes
 - Annual soil monitoring
 - First coppice of willows for biomass
+- Begin deep bedding composting and distribution
 
 **Years 5+:** Maturation
 - Thin emergent trees (poplar) as permanent canopy develops
+- Ongoing rotational grazing and deep bedding composting
 - System increasingly self-reinforcing
 - Comprehensive soil testing to document outcomes
 
@@ -102,5 +104,10 @@ The following estimates cover the full project scope.
 | Fencing (perimeter + paddock) | $3,000 - $6,000 |
 | Livestock water system | $1,200 - $2,200 |
 | Soil testing + amendments | $1,000 - $3,500 |
-| Pasture seed + seeding equipment | $1,300 - $3,100 |
-| **Total** | **$28,000 - $54,000** |
+| Pasture seed | $800 - $1,500 |
+| Compact tractor (4x4 w/ loader) | $12,000 - $20,000 |
+| PTO spreader (compost/manure) | $2,000 - $4,000 |
+| Broadcast seeder | $500 - $1,500 |
+| Cultipacker | $1,000 - $2,000 |
+| Mobile poultry housing | $1,500 - $3,500 |
+| **Total** | **$44,000 - $83,000** |

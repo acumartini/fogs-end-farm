@@ -12,7 +12,7 @@
 
 ## Executive Summary
 
-This proposal presents a comprehensive regenerative plan for the 5-acre back production area of a 9.5-acre property. The current pasture suffers from low soil organic matter, poor water-holding capacity, and limited biological activity. This project transforms a grass monoculture into a diverse, climate-resilient silvopasture system.
+This proposal presents a comprehensive regenerative plan for the 5-acre back production area of a 9.5-acre property. The current pasture underperforms due to low organic matter and limited water retention. During irrigation, significant runoff leaves the property underutilized. Continuous grazing has degraded pasture productivity and limited plant diversity. This project transforms the property into a diverse, climate-resilient silvopasture system.
 
 **Resource Concerns Addressed:**
 - **Soil health:** Building organic matter, water-holding capacity, and biological activity
@@ -52,7 +52,7 @@ This proposal prioritizes the regenerative system itself as a replicable model f
 The whole-farm assessment will address all NRCS resource concern categories:
 
 #### Soil Resource Concerns
-- **Soil Organic Matter Depletion (PRIMARY CONCERN):** Current pasture has low organic matter content resulting in poor water-holding capacity. Baseline testing will establish starting levels; target 1% increase over contract period. Every component of this system addresses organic matter building.
+- **Soil Organic Matter Depletion (PRIMARY CONCERN):** Current pasture has low organic matter content resulting in limited water retention. Baseline testing will establish starting levels. Every component of this system addresses organic matter building.
 - **Water-Holding Capacity:** Directly linked to organic matter - soil currently drains quickly and does not retain moisture between irrigation events. Improved through organic matter building, living roots, and swale water harvesting.
 - **Aggregate Stability:** Measured through soil health testing; improved via root systems and fungal networks from diverse plantings
 - **Soil Biology:** Baseline biological activity assessment; enhanced through diverse plantings, reduced disturbance, and increased organic inputs from tree lines and managed grazing
@@ -199,14 +199,14 @@ Based on the approved practice list and the specific site conditions (flood irri
 - **Seasonal Strategy:** Cool-season covers for fall/winter/spring; warm-season annuals if needed for summer gaps
 - **Integration with Grazing:** Covers grazed as part of rotation, maximizing nutrient cycling
 
-**Seeding Methods (low-tech, appropriate scale):**
-- **Tow-behind broadcast spreader:** Pulled by zero-turn mower for efficient coverage
-- **Drag harrow:** Light chain or harrow drag to scratch seed into soil surface
+**Seeding Methods:**
+- **PTO broadcast seeder:** Mounted on compact tractor for efficient coverage
+- **Cultipacker:** Presses seed into soil contact after broadcast
 - **Animal trampling:** Move livestock through seeded area to press seed into soil
 - **Frost seeding:** Broadcast on frozen ground in late winter; freeze-thaw cycles work seed in
 - **Post-grazing overseed:** Seed immediately after grazing when residue is short and soil exposed
 
-Equipment needs are minimal - tow-behind spreader and light drag harrow suitable for zero-turn mower (~$300-600 total, confirm eligibility with NRCS).
+Equipment includes compact 4x4 tractor with loader, PTO spreader for compost/manure distribution, broadcast seeder, and cultipacker.
 
 **Measurable Outcomes:**
 - Year-round living root presence
@@ -397,7 +397,7 @@ WATER ENTRY ──────────────────────�
 
 ### 4.8 Upland Wildlife Habitat Management (Practice 645)
 
-**Rationale:** Current pasture provides poor wildlife habitat due to low plant diversity and lack of cover. The integrated system creates connected habitat throughout the property.
+**Rationale:** Current pasture provides limited wildlife habitat due to low plant diversity and lack of cover. The integrated system creates connected habitat throughout the property.
 
 **Implementation Approach:**
 - Tree lines provide cover, nesting, and food sources
@@ -477,11 +477,12 @@ The following outcomes will be tracked and measured:
 
 | Metric | Baseline Target | Year 3 Target | Year 5 Target |
 |--------|-----------------|---------------|---------------|
-| Soil Organic Matter (%) | Establish | +0.3-0.5% | +0.5-1.0% |
-| Water Infiltration (in/hr) | Establish | +25% improvement | +50% improvement |
-| Bare Ground (%) | Establish | <10% | <5% |
-| Plant Species Diversity | Establish | +30% | +50% |
-| Living Root Days/Year | Establish | 300+ | 330+ |
+| Soil Health (physical, chemical, biological) | Establish baseline | Measurable improvement | Measurable improvement |
+| Surface Runoff | Establish baseline | Significant reduction | Full capture |
+| Plant Species Count | ~5 (grass monoculture) | 20+ perennial species | 30+ perennial species |
+| Tree Survival Rate | N/A | 80%+ establishment | 80%+ establishment |
+| Pasture Rest Days | 0 (continuous) | 30+ days between grazing | 30+ days between grazing |
+| Carrying Capacity | Establish baseline | Measurable increase | 25-50% increase |
 
 ---
 
@@ -909,32 +910,40 @@ Rotational grazing with ruminants (cattle, sheep, or goats) is essential to the 
 - Introduce livestock to paddock system
 - Begin adaptive multi-paddock rotation
 - Monitor swale function through wet season
+- Begin deep bedding composting from winter housing
 
 **Quarter 3-4 (Summer/Fall)**
 - Refine grazing timing based on forage recovery
 - Continue tree line development and protection
+- Introduce poultry rotation following ruminant grazing
 - Annual soil testing
 - Overseed thin areas in pastures
+- Distribute composted deep bedding to paddocks
 
 ### Years 3-4: System Maturation
 
 - Trees beginning to provide meaningful shade and biomass
 - Evaluate potential for limited tree line grazing (larger trees)
 - Refine grazing calendar based on 2 years of data
+- Ongoing rotational grazing and poultry rotation
+- Ongoing deep bedding composting and distribution
 - Expand plant diversity through targeted overseeding
 - Annual soil testing and trend analysis
 - Document canopy cover progression
 - Photograph documentation of system development
 
-### Year 5: Outcomes Documentation
+### Year 5+: Maturation and Outcomes Documentation
 
+- Thin emergent trees (poplar) as permanent canopy develops
+- Ongoing rotational grazing and deep bedding composting
+- System increasingly self-reinforcing
 - Comprehensive final soil testing (all original sampling points)
 - Full comparison to baseline metrics:
-  - Soil organic matter change
-  - Infiltration rate improvement
+  - Soil health indicators
+  - Surface runoff reduction
   - Plant diversity increase
   - Tree survival and canopy development
-  - Forage productivity trends
+  - Carrying capacity trends
 - Prepare outcomes report for NRCS
 - Document lessons learned for model farm replication
 - Assess potential for continued CSP contract or graduation
@@ -950,16 +959,19 @@ Rotational grazing with ruminants (cattle, sheep, or goats) is essential to the 
 | Category | Components | Estimated Cost | Notes |
 |----------|------------|----------------|-------|
 | **Blackberry Removal** | Clear lower pasture before earthwork | $1,500 | Must be done first |
-| **Earthwork (Comprehensive)** | 7 swales (~3,500 linear ft), tree lines ~2,800 linear ft | $10,000 - $13,000 | *Requires an updated quote* |
+| **Earthwork (Comprehensive)** | 7 swales (~3,500 linear ft), access roads, subsoiling | $11,000 - $16,000 | *Requires an updated quote* |
 | **Irrigation Distribution** | 6 slide gates, piping to swales | $700 - $900 | Integrated with earthwork |
 | **Irrigation Source Rehab** | Replace 2 degraded concrete control boxes at water entry | $5,000 - $15,000 | Needs assessment/quotes |
 | **Tree/Shrub Establishment** | Diverse species for 7 tree lines (~400 ft each) | $2,000 - $5,000 | Bare root stock, some nursery propagation |
 | **Fencing** | Perimeter upgrade, paddock subdivision, electric for tree lines | $3,000 - $6,000 | Permanent perimeter, semi-permanent electric |
 | **Livestock Water System** | Buried line, 5 frost-free hydrants on berms (Swales 2-6) | $1,200 - $2,200 | Trench dug during earthwork; existing frost-free at both barns |
-| **Mobile Poultry Infrastructure** | Electronet fencing + mobile shelter for rotational poultry | $800 - $1,500 | Supports integrated pest management; confirm eligibility |
+| **Compact Tractor (4x4 w/ loader)** | Essential for compost handling, spreading, and pasture management | $12,000 - $20,000 | Kubota or similar; enables PTO attachments |
+| **PTO Spreader (compost/manure)** | Distributes compost and manure across paddocks | $2,000 - $4,000 | Critical for nutrient cycling |
+| **Mobile Poultry Housing** | Electronet fencing + mobile shelter for rotational poultry | $1,500 - $3,500 | Supports integrated pest management; confirm eligibility |
 | **Soil Testing** | Baseline + annual + final (comprehensive) | $500 - $1,500 | Multiple sampling points |
-| **Seed/Overseeding** | Cover crop mixes, pasture improvement, swale seeding | $1,000 - $2,500 | Multi-species mixes |
-| **Seeding Equipment** | Tow-behind broadcast spreader + drag harrow for zero-turn | $300 - $600 | Confirm eligibility with NRCS |
+| **Pasture Seed** | Cover crop mixes, pasture improvement, swale seeding | $800 - $1,500 | Multi-species mixes |
+| **Broadcast Seeder** | PTO-driven broadcast seeder | $500 - $1,500 | Confirm eligibility with NRCS |
+| **Cultipacker** | Presses seed into soil contact | $1,000 - $2,000 | Confirm eligibility with NRCS |
 | **Amendments** | Lime, minerals, compost (if indicated by soil tests) | $500 - $2,000 | Based on test results |
 | **Subsoiling/Keyline** | Deep ripping to break compaction, improve infiltration | $750 - $2,500 | Initial pass + 2-4 follow-up passes over Years 1-5 |
 | **Planning/TSP** | Technical service provider assistance | Variable | May be covered by program |
@@ -983,16 +995,16 @@ This project is submitted under **beginning farmer status**, qualifying for enha
 
 | Item | Low Estimate | High Estimate |
 |------|--------------|---------------|
-| **Total Project Cost** | $28,000 | $54,000 |
-| **EQIP/CSP Cost-Share (90%)** | $25,200 | $48,600 |
-| **Producer Contribution (10%)** | $2,800 | $5,400 |
+| **Total Project Cost** | $44,000 | $83,000 |
+| **EQIP/CSP Cost-Share (90%)** | $39,600 | $74,700 |
+| **Producer Contribution (10%)** | $4,400 | $8,300 |
 
 *For reference, standard rates (if beginning farmer status not approved):*
 
 | Item | Low Estimate | High Estimate |
 |------|--------------|---------------|
-| EQIP/CSP Cost-Share (75%) | $21,000 | $40,500 |
-| Producer Contribution (25%) | $7,000 | $13,500 |
+| EQIP/CSP Cost-Share (75%) | $33,000 | $62,250 |
+| Producer Contribution (25%) | $11,000 | $20,750 |
 
 ### Cost-Share Eligible Practices
 
