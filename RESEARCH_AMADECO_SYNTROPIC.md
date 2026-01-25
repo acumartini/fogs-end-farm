@@ -110,7 +110,7 @@ This climate profile has similarities to Rogue Valley Zone 7b-8a: hot dry summer
 ## Design Insights Relevant to Our Project
 
 ### Spacing Comparison
-| Amadeco | Fogs End |
+| Amadeco | Fog's End |
 |---------|----------|
 | Tree lines at 5.2m (~17 ft) | Swales at ~55 ft, tree lines on berms |
 | Dense aromatics between | Aromatics on berm edges |
@@ -143,7 +143,7 @@ This climate profile has similarities to Rogue Valley Zone 7b-8a: hot dry summer
 
 ---
 
-## Action Items for Fogs End
+## Action Items for Fog's End
 
 - [ ] Consider adding pomegranate to sub-canopy layer
 - [ ] Consider adding strawberry tree (Arbutus unedo) for evergreen structure

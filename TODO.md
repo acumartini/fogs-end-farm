@@ -1,4 +1,4 @@
-# Fogs End Farm - Project TODO
+# Fog's End Farm - Project TODO
 
 ## NRCS Regenerative Pilot Program Application
 

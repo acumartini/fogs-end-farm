@@ -1,6 +1,6 @@
 # NRCS Regenerative Pilot Program Proposal
 
-## Fogs End Farm - Small-Scale Regenerative Model Farm
+## Fog's End Farm - Small-Scale Regenerative Model Farm
 
 **Total Property Size:** 9.5 acres  
 **Active Production Area:** 5 acres (back portion of property)  
@@ -1397,4 +1397,4 @@ All photos should be placed in a `photos/` directory relative to this document.
 ---
 
 *Document prepared for NRCS Regenerative Pilot Program application, FY2026*
-*Fogs End Farm*
+*Fog's End Farm*

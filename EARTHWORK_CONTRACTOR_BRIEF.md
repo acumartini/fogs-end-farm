@@ -1,4 +1,4 @@
-# Fogs End Farm - Earthwork & Irrigation Infrastructure Brief
+# Fog's End Farm - Earthwork & Irrigation Infrastructure Brief
 
 **Project:** Integrated silvopasture system with contour swales and irrigation rehabilitation  
 **Location:** Jackson County, OR  

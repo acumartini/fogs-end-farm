@@ -1,4 +1,4 @@
-# Fogs End Farm - Implementation Notes
+# Fog's End Farm - Implementation Notes
 
 Working notes and implementation details that don't belong in the NRCS proposal.
 
@@ -795,6 +795,51 @@ Best for eastern/drier portions of Rogue Valley. Integrate with poultry systems 
 | **Goumi** | N-fixer | 'Sweet Scarlet' | 'Red Gem' | Non-invasive N-fixer |
 | **Alder** | N-fixer | Red Alder (moist) | Italian Alder (dry) | Site moisture |
 | **Siberian Pea** | N-fixer | Species type | — | Poultry integration |
+
+---
+
+## Plant Count Estimates
+
+Rough plant counts for 7 swales × 400 ft each. Assumes full build-out.
+
+| Layer | Species | Spacing | Per Swale | × 7 Swales | Total |
+|-------|---------|---------|-----------|------------|-------|
+| Emergent | Poplar | 30 ft | 13 | 91 | ~90 |
+| Canopy | Chestnut, honey locust | 40-50 ft | 8-10 | 56-70 | ~65 |
+| Sub-canopy | Mulberry, pear, fig, persimmon, jujube | 15-20 ft | 20-27 | 140-189 | ~165 |
+| Shrub | Serviceberry, hazelnut | 8-10 ft | 40-50 | 280-350 | ~315 |
+| N-fixers | Alder, Siberian pea, goumi | Interplanted | ~20 | 140 | ~140 |
+| Swale channel | Willow | 2-3 ft | 130-200 | 910-1400 | ~1000 |
+| Edges | Comfrey, sage, lavender, artemisia | 1-2 ft | Many | Many | ~500+ |
+| **Total** | | | | | **~2,300+** |
+
+### Propagation Strategy
+
+| Species | Method | Cost |
+|---------|--------|------|
+| Willow (~1000) | Cuttings — free | $0 |
+| Poplar (~90) | Cuttings or cheap bare-root | $50-200 |
+| Comfrey (~500) | Root divisions — free | $0 |
+| Fig (~25) | Cuttings from local stock | $0 |
+| Mulberry (~25) | Cuttings | $50-100 |
+| Alder (~50) | Conservation district | $50-150 |
+| Siberian pea (~50) | Seed or cheap plants | $50-100 |
+| Goumi (~40) | Cuttings or bare-root | $100-200 |
+| Serviceberry (~45) | Bare-root bulk | $150-300 |
+| Hazelnut (~45) | Bare-root (EFB-resistant required) | $300-500 |
+| Chestnut (~20) | Bare-root/seedlings | $150-300 |
+| Honey locust (~20) | Bare-root/seed | $100-200 |
+| Pear (~25) | Bare-root or graft your own | $150-300 |
+| Persimmon (~25) | Bare-root | $150-300 |
+| Jujube (~25) | Bare-root (harder to find) | $200-400 |
+
+**Estimated range:** $1,500 - $3,000 with heavy propagation; $6,000 - $10,000+ if mostly purchased.
+
+### Phasing Notes
+
+- **Year 1:** Fast establishers — poplar, willow, alder, comfrey (propagate over winter for spring planting)
+- **Years 2-3:** Slower species — chestnuts, fruit trees, shrubs
+- Self-propagation slows the project but significantly reduces costs
 
 ---
 
