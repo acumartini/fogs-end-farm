@@ -6,9 +6,9 @@
 
 ## The Opportunity
 
-The back 5 acres of this 9.5-acre property is a flood-irrigated pasture that underperforms due to low organic matter and limited water retention. During irrigation, significant runoff leaves the property underutilized. Continuous grazing has degraded pasture productivity and limited plant diversity. This project transforms the property into an integrated silvopasture system that addresses soil health, water management, biodiversity, carbon sequestration, and climate resilience as interconnected outcomes of a regenerative design.
+The back 5 acres of this 9.5-acre property is a flood-irrigated pasture with unrealized potential. Currently, the pasture struggles to hold water and support healthy forage. This project transforms the property into an integrated silvopasture system that addresses soil health, water management, biodiversity, carbon sequestration, and climate resilience as interconnected outcomes of a regenerative design.
 
-The system integrates contour swales for water management, diverse tree lines for silvopasture, and rotational grazing for soil health. The swales capture and infiltrate irrigation water, which supports the tree lines. The trees drop organic matter which feeds the pasture and provide shade and forage for animals. Rotational grazing invigorates the pasture, builds soil structure, and cycles nutrients back into the soil. Together these components create a regenerative feedback loop.
+The system integrates contour swales for water management, diverse tree lines for silvopasture, and rotational grazing for pasture and soil health. The swales capture and infiltrate irrigation water, which supports the tree lines. The trees drop organic matter which feeds the pasture and provide shade and forage for animals. Rotational grazing invigorates the pasture, builds soil structure, and cycles nutrients back into the soil. Together these components create a regenerative feedback loop.
 
 An eventual goal of this project is to give back to the community by documenting methods and results, hosting site visits, and propagating proven genetics for regional distribution.
 
