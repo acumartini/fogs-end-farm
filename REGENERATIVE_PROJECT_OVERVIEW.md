@@ -30,17 +30,30 @@ Seven contour swales (~400 ft each) run east-west across the pasture. Water ente
 
 ### Tree Line Structure
 
-Each swale berm supports a multi-layer tree line designed for long-term productivity and resilience. Fast-growing emergent trees establish shade and microclimate early, then are thinned as the permanent canopy matures.
+Each swale berm supports a multi-layer tree line designed for long-term productivity and resilience. All species selected for livestock safety — no toxic parts. Fast-growing emergent trees establish shade and microclimate early, then are thinned as the permanent canopy matures.
 
 | Layer | Species | Spacing |
 |-------|---------|---------|
 | Emergent | Poplar | 30 ft |
-| Canopy | Oak, chestnut, honey locust | 40-50 ft |
-| Sub-canopy | Pear, persimmon, mulberry, fig, pomegranate | 15-20 ft |
-| Shrub | Hazelnut, serviceberry, currant, strawberry tree | 8-10 ft |
+| Canopy | Chestnut, honey locust | 40-50 ft |
+| Sub-canopy | Mulberry, pear, fig, persimmon, jujube | 15-20 ft |
+| Shrub | Serviceberry, hazelnut | 8-10 ft |
 | Nitrogen-fixers | Alder, Siberian pea shrub, goumi | Interplanted |
 | Swale channel | Willow (coppiced for biomass) | 2-3 ft |
 | Edges | Sage, lavender, comfrey, artemisia | 1-2 ft |
+
+### Forage Cascade
+
+Fruit and nut species selected to provide dropped forage from late spring through winter:
+
+| Drop Time | Species | Type |
+|-----------|---------|------|
+| May-Jun | Mulberry | Fruit |
+| Jun | Serviceberry, goumi | Fruit |
+| Aug-Sep | Fig, pear | Fruit |
+| Sep-Oct | Chestnut, honey locust pods, hazelnut | Nut/Pod |
+| Oct-Nov | Persimmon | Fruit |
+| Nov-Feb | Jujube | Fruit (dries on tree) |
 
 ---
 

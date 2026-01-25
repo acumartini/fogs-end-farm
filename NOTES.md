@@ -368,6 +368,436 @@ When seeking a grazing partner, specify:
 
 ---
 
+## Rootstock & Field Grafting Reference
+
+Reference information for propagating fruit trees from garden scion sources for field grafting into silvopasture.
+
+### Apple Rootstocks
+
+| Rootstock | Size | Drought | Anchorage | Propagation | Notes |
+|-----------|------|---------|-----------|-------------|-------|
+| **MM.111** | 80% (15-25') | Excellent | Excellent | Clonal only | **Top pick for silvopasture** |
+| **Antonovka** | Full (25-35') | Good | Excellent | **Seed OK** | Grow your own rootstock |
+| **Bud 118** | Like MM.111 | Good | Excellent | Clonal only | Extra cold-hardy |
+| **M7** | 65% (12-16') | Moderate | Good | Clonal only | Fireblight resistant, but suckers |
+
+**Recommendation:** MM.111 for purchased rootstock, Antonovka if growing from seed.
+
+### Pear Rootstocks
+
+| Rootstock | Size | Notes |
+|-----------|------|-------|
+| **OHxF 333** | Semi-dwarf (12-16') | Fireblight resistant, well-anchored — **top choice** |
+| **OHxF 97** | Larger | More vigorous version |
+| **Pyrus betulifolia** | Full-size | Very drought tolerant, for tough sites |
+
+### Pear Varieties for Silvopasture
+
+For livestock fodder, prioritize varieties that: (1) resist fire blight, (2) drop fruit when ripe, (3) produce heavily. Asian pears are generally better for silvopasture — they drop when ripe and don't need bletting like European pears.
+
+| Variety | Type | Fire Blight | Drops? | Notes |
+|---------|------|-------------|--------|-------|
+| **Shinseiki** | Asian | Resistant | Yes | Self-fertile, reliable, heavy producer — **top pick for fodder** |
+| **Hosui** | Asian | Moderate | Yes | Great flavor, needs pollinator |
+| **Kikusui** | Asian | Resistant | Yes | Smaller fruit, very hardy |
+| **20th Century** | Asian | Resistant | Yes | Classic, reliable |
+| **Warren** | European | Very resistant | Yes | Good flavor, Southern variety |
+| **Maxine** | European | Very resistant | Yes | Heirloom, tough tree |
+| **Seckel** | European | Resistant | Somewhat | Small fruit, very hardy |
+| **Bartlett** | European | Susceptible | Yes | Classic but risky — fire blight prone |
+| **Comice** | European | Susceptible | No — hangs | Skip for silvopasture |
+
+**Recommendation:** Asian pears (especially Shinseiki) for silvopasture fodder. European pears for personal garden if preferred for eating.
+
+### Stone Fruit Rootstocks
+
+| Fruit | Rootstock | Notes |
+|-------|-----------|-------|
+| **Plum** | Marianna 2624 | Tolerates wet winters, semi-dwarf |
+| **Plum** | Myrobalan seedling | **Can grow from seed** (cherry plum pits) |
+| **Cherry** | Mazzard | Drought tolerant, full-size, **can grow from seed** |
+| **Peach/Apricot** | Lovell | Widely compatible, **can grow from seed** (peach pits) |
+
+### Field Grafting Timing (Zone 8b)
+
+| Technique | When | Best For |
+|-----------|------|----------|
+| **Whip-and-tongue** | Late Feb – early April | Matching diameter scion/rootstock |
+| **Cleft graft** | Late Feb – early April | Larger rootstock, beginners |
+| **Bark graft** | April – May (bark slipping) | Topworking established trees (1-4" diameter) |
+| **Chip budding** | Late July – Sept | Summer grafting, stone fruit |
+
+**For wild/seedling trees:** Bark graft on scaffold branches when bark slips (April-May). Graft 3-5 branches for redundancy. Leave some nurse branches temporarily.
+
+### Rootstock Sources (Pacific NW)
+
+**One Green World** (Portland, OR) - onegreenworld.com
+- Apple: Antonovka, MM.111, M7, Geneva series
+- Pear: OHxF 333
+- Stone fruit: Marianna 2624, Mazzard, Lovell
+- ~$5/rootstock, bundles of 10 available
+
+**Burnt Ridge Nursery** (Onalaska, WA) - burntridgenursery.com
+- Similar selection, also Myrobalan plum seedlings
+- ~$4.50-5.50/rootstock
+
+**Fedco Trees** (Maine, ships nationwide) - fedcoseeds.com/trees
+- Worker-owned co-op, good scionwood source too
+
+### Grow-Your-Own Rootstock
+
+| Rootstock | Source | Notes |
+|-----------|--------|-------|
+| **Antonovka** | Seed from known trees | Stratify 60-90 days cold, grow 1-2 years |
+| **Myrobalan** | Cherry plum pits | Local wild cherry plums work |
+| **Mazzard** | Sweet cherry pits | Collect from wild/feral trees |
+| **Lovell** | Peach pits | Standard peach pits work |
+| **Wild apple** | Local feral apples | Variable but functional |
+
+### Recommended Scion Varieties
+
+Based on disease resistance, vigor, and suitability for low-input silvopasture:
+
+| Type | Variety | Why |
+|------|---------|-----|
+| **Apple** | Liberty | Most disease-resistant apple — scab, rust, blight, mildew |
+| **Apple** | Gravenstein | Regional heritage, vigorous, proven in Pacific NW |
+| **Apple** | Arkansas Black | Heat tolerant, long storage, tough tree |
+| **Pear** | Shinseiki (Asian) | Fire blight resistant, self-fertile |
+| **Plum** | Green Gage | Self-fertile, ancient variety, tough |
+| **Cherry** | Van | Extra hardy, great pollinizer |
+
+### Silvopasture Grafting Notes
+
+- **Avoid dwarf rootstocks** — livestock damage risk too high
+- **Prioritize anchorage** — animals will rub on trees
+- **Protect young grafts 3-5 years** — cage or temporary fence
+- **MM.111 and Mazzard** handle Rogue Valley dry summers best
+- **Avoid M7** — suckers badly around grazing animals
+- **Collect scionwood** in late Jan-Feb while dormant, store in fridge in moist paper towels in sealed bags
+
+### Cost-Effective Approach
+
+1. **Year 1:** Order MM.111 + OHxF 333 rootstock (winter delivery)
+2. **Year 1:** Plant, establish, protect from livestock
+3. **Year 2:** Collect scionwood from garden trees (Jan-Feb), graft late Feb-March
+4. **Ongoing:** Grow Antonovka from seed for future apple rootstock
+5. **Ongoing:** Collect local Myrobalan, Mazzard, peach pits for stone fruit rootstock
+
+---
+
+## Silvopasture Tree Variety Research
+
+Detailed variety research for each species in the tree line, focused on production, livestock palatability, and suitability for Rogue Valley Zone 8b.
+
+### Mulberry Varieties
+
+**Top Pick: 'Illinois Everbearing'** (M. alba × M. rubra hybrid)
+
+| Factor | Rating |
+|--------|--------|
+| Fruit production | Very heavy |
+| Fruiting window | 6-8 weeks (longest available) |
+| Fruit size | 1.5"+ (large) |
+| Hardiness | Zone 4-8 — bulletproof in Rogue Valley |
+| Drought tolerance | Excellent |
+| Livestock palatability | High |
+| Pollination | Self-fertile |
+
+The workhorse mulberry. Heavy production over the longest window, drought-tough, cold-hardy.
+
+**Other Options:**
+
+| Variety | Fruiting | Fruit Size | Pros | Cons |
+|---------|----------|------------|------|------|
+| **Pakistan** | Apr-Jul | 3-4" (huge) | Largest fruit, extended season | Less cold-hardy (Zone 6+) |
+| **M. nigra** (Black) | Aug-Sep | 1" | Best flavor, highest palatability | Slower growing, shorter window |
+| **M. rubra** (Native) | May-Jul | 1" | Native species, good flavor | Less drought tolerant |
+
+**Skip:** M. alba (straight species) — invasive. Gerardi Dwarf — too small, cattle will damage.
+
+**Extended season strategy:** Plant 'Illinois Everbearing' as main crop. Add M. nigra for late-season (Aug-Sep) if desired.
+
+**Bonus:** Mulberry leaves are 15-28% protein — traditional livestock fodder. Can harvest or graze after fruiting.
+
+### Chestnut Varieties
+
+**Top Pick: Dunstan Hybrid** (C. dentata × C. mollissima)
+
+| Factor | Rating |
+|--------|--------|
+| Nut production | Heavy, 50-100 lbs/tree mature |
+| Nut size | Large (~30/lb) |
+| Drop timing | Mid-September |
+| Blight resistance | Excellent — bred for this |
+| Hardiness | Zone 5-9 |
+| Drought tolerance | Good |
+| Livestock palatability | Excellent — sweeter than Chinese |
+
+Combines American chestnut's superior sweetness with Chinese chestnut's blight resistance. Most widely planted chestnut for wildlife/livestock in America.
+
+**Second Pick: Chinese Chestnut Seedlings** (C. mollissima)
+
+| Factor | Rating |
+|--------|--------|
+| Blight resistance | Best — co-evolved with fungus |
+| Drought tolerance | Excellent |
+| Tree form | Broad, spreading (30-40') — great shade |
+| Cost | Lower — seedlings widely available |
+
+Plant multiple seedlings (5+) for pollination and genetic diversity. Both types cross-pollinate.
+
+**Skip:** Pure European (C. sativa) — blight susceptible. Pure American (C. dentata) — functionally extinct.
+
+### Honey Locust Varieties
+
+**Critical Issue:** Most thornless cultivars are also **fruitless** (bred for landscaping). Must find thornless WITH pods.
+
+**Top Pick: Wild Thornless** (G. triacanthos var. inermis seedlings)
+
+| Factor | Rating |
+|--------|--------|
+| Pod production | Good — produces full crops |
+| Thorns | Naturally thornless |
+| Sugar content | Up to 30% in pod pulp |
+| Hardiness | Zone 4-9 |
+| Drought tolerance | Excellent |
+
+Source from conservation nurseries, not ornamental nurseries. Verify stock is true var. inermis.
+
+**Second Pick: 'Millwood'**
+
+| Factor | Rating |
+|--------|--------|
+| Pod production | Heavy — 33 kg/mature tree |
+| Sugar content | 21-37% (highest documented) |
+| Thorns | Variable — some thorniness |
+| Selection | Bred specifically for pod production |
+
+May have some thorns — prune lower branches above livestock height.
+
+**Skip all ornamental cultivars:** Shademaster, Skyline, Sunburst, Imperial, Moraine — all fruitless.
+
+### Fig Varieties
+
+**Top Pick: Desert King**
+
+| Factor | Rating |
+|--------|--------|
+| Fruit production | Heavy breba crop |
+| Fruiting window | Early-mid July (2-3 weeks) |
+| Fruit size | Large (2-3 oz) |
+| Cold hardiness | Excellent (10°F) — proven PNW survivor |
+| Drought tolerance | Good |
+
+Breba-only crop is an advantage — ripens July when summer forage quality declines. 100+ year PNW track record.
+
+**Second Pick: Olympian**
+
+| Factor | Rating |
+|--------|--------|
+| Fruit production | Very heavy |
+| Fruiting window | Mid-Aug to Sept |
+| Fruit size | Large (2-3 oz) |
+| Cold hardiness | Good (10-15°F) |
+| Drop pattern | Thin skin, drops easily — ideal for livestock |
+
+Pair with Desert King for July-September fig availability.
+
+**Note:** You already have proven local genetics — propagate those first.
+
+### Persimmon Varieties
+
+**Top Pick: 'Meader'** (American — D. virginiana)
+
+| Factor | Rating |
+|--------|--------|
+| Cold hardiness | Exceptional (-30°F) — survives any winter |
+| Drought tolerance | Excellent — deep taproot |
+| Fruit production | Heavy, reliable |
+| Drop timing | September-October |
+| Pollination | Self-fertile |
+
+Bulletproof choice. American persimmons are far more drought/cold tolerant than Asian types.
+
+**Second Pick: '100-46' (Lehman's Delight)** (American)
+
+| Factor | Rating |
+|--------|--------|
+| Fruit size | Largest American variety (2"+) |
+| Production | Very heavy |
+| Drop timing | September-October |
+| Pollination | Self-fertile |
+
+Largest fruit of American types — more biomass per tree.
+
+**Alternative for larger fruit:** 'Saijo' (Asian) — most cold-hardy Asian variety (0°F). Plant in protected microclimates only.
+
+### Jujube Varieties
+
+**Top Pick: Sugar Cane**
+
+| Factor | Rating |
+|--------|--------|
+| Fruit production | Very heavy |
+| Thorns | **Less thorny than Li/Lang** — safest for livestock |
+| Sugar content | Very high — dries well |
+| Drying quality | Excellent — persists on tree |
+| Drought tolerance | Exceptional |
+
+Explicitly noted as having fewer thorns than other varieties. High sugar content means excellent dried fruit for winter.
+
+**Second Pick: GA-866**
+
+| Factor | Rating |
+|--------|--------|
+| Sugar content | Highest (45%) — maximum caloric value |
+| Fruit size | Large (1.5-2") |
+| Drying quality | Excellent — "date flavor when dried" |
+| Thorns | Moderate (standard) |
+
+USDA selection from Chico, CA — proven in similar Mediterranean climate.
+
+**Thorn management:** Prune lower branches above animal height. Allow fruit to drop rather than direct browsing.
+
+### Serviceberry Varieties
+
+**Top Pick: 'Thiessen' or 'Smoky'** (A. alnifolia)
+
+| Factor | Rating |
+|--------|--------|
+| Fruit size | Largest (Thiessen 15-17mm, Smoky 12-14mm) |
+| Production | Heavy, reliable |
+| Drop timing | June (early) |
+| Livestock palatability | High — deer, elk, cattle browse foliage |
+| Habit | Suckering — forms browse-resistant hedgerows |
+
+Native range extends to PNW. Site on north-facing slopes or with afternoon shade in Zone 8b.
+
+**Second Pick: 'Autumn Brilliance'** (A. × grandiflora)
+
+| Factor | Rating |
+|--------|--------|
+| Heat tolerance | Best of serviceberries — Zone 8 compatible |
+| Habit | Non-suckering tree form — easier to manage |
+| Fruit size | Medium (10mm) |
+| Form | 6m tree — allows grazing underneath |
+
+Better for hot Rogue Valley summers. Plant as scattered paddock trees.
+
+### Hazelnut Varieties
+
+**Critical:** Eastern Filbert Blight (EFB) is endemic in Oregon. Only plant EFB-resistant varieties.
+
+**Top Pick: 'Jefferson'**
+
+| Factor | Rating |
+|--------|--------|
+| EFB resistance | High (Gasaway gene) |
+| Nut production | Heavy, consistent |
+| Nut size | Large (18-20mm) |
+| Tree form | Single trunk 4-5m — ideal for silvopasture |
+| Availability | Industry standard, widely available |
+
+**Second Pick: 'Yamhill'**
+
+| Factor | Rating |
+|--------|--------|
+| EFB resistance | High (Gasaway gene) |
+| Nut production | Very heavy — possibly most productive |
+| Drop timing | Early September — extends mast season |
+| Kernel quality | Excellent |
+
+Plant 70% Jefferson + 20% Yamhill + 10% pollinators (McDonald or PollyO).
+
+**Do NOT plant:** 'Barcelona' or any variety without confirmed EFB resistance — they will fail in Oregon.
+
+### Goumi Varieties
+
+**Top Pick: 'Sweet Scarlet'**
+
+| Factor | Rating |
+|--------|--------|
+| Fruit production | Heavy |
+| Nitrogen fixation | Medium (Frankia symbiosis) |
+| Fruit timing | July |
+| Self-fertility | Partially self-fertile |
+| Invasiveness | **None** — unlike autumn olive |
+
+Most popular variety in US. Non-invasive alternative to autumn olive with same nitrogen-fixing benefits.
+
+**Second Pick: 'Red Gem'**
+
+| Factor | Rating |
+|--------|--------|
+| Disease resistance | Good |
+| Fruit quality | Good flavor |
+
+**Note:** Has thorns (longer than blackberry). Goats adapt and consume leaves when coppiced.
+
+**Do NOT plant:** Autumn olive (E. umbellata) — highly invasive.
+
+### Alder Species
+
+**For moist/riparian sites: Red Alder** (Alnus rubra)
+
+| Factor | Rating |
+|--------|--------|
+| Nitrogen fixation | **Highest** — up to 300 kg N/ha/year |
+| Growth rate | Very fast (6m in 5 years) |
+| Native | Yes — PNW native |
+| Coppicing | Yes |
+| Lifespan | 60-80 years |
+
+Top choice for moist sites. Documented fodder bank species.
+
+**For drier upland sites: Italian Alder** (Alnus cordata)
+
+| Factor | Rating |
+|--------|--------|
+| Drought tolerance | **Best of all alders** |
+| Nitrogen fixation | Medium-high |
+| Growth rate | Very fast |
+| Soil tolerance | Thrives on poor, dry soils — even chalk |
+
+Ideal for Rogue Valley's dry summer conditions.
+
+**Skip:** Black alder (A. glutinosa) — invasive concerns in North America.
+
+### Siberian Pea Shrub
+
+**Conditional recommendation** — Zone 8b may be marginal (prefers colder winters).
+
+| Factor | Rating |
+|--------|--------|
+| Nitrogen fixation | Medium (legume family) |
+| Drought tolerance | Excellent |
+| Seed protein | Up to 36% — excellent for poultry |
+| Zone fit | Best in Zones 2-7; Zone 8b marginal |
+
+Best for eastern/drier portions of Rogue Valley. Integrate with poultry systems for seed harvest.
+
+---
+
+## Final Variety Selection Summary
+
+| Species | Layer | Top Pick | Second Pick | Key Factor |
+|---------|-------|----------|-------------|------------|
+| **Chestnut** | Canopy | Dunstan Hybrid | Chinese Seedlings | Blight resistance |
+| **Honey Locust** | Canopy | Wild Thornless (var. inermis) | 'Millwood' | Pods + no thorns |
+| **Mulberry** | Sub-canopy | 'Illinois Everbearing' | M. nigra | 6-8 week window |
+| **Pear** | Sub-canopy | 'Shinseiki' (Asian) | 'Hosui' | Fire blight resistance |
+| **Fig** | Sub-canopy | 'Desert King' | 'Olympian' | PNW proven |
+| **Persimmon** | Sub-canopy | 'Meader' (American) | '100-46' | Drought/cold tolerance |
+| **Jujube** | Sub-canopy | 'Sugar Cane' | 'GA-866' | Fewer thorns + dries well |
+| **Serviceberry** | Shrub | 'Thiessen' | 'Autumn Brilliance' | Fruit size / heat tolerance |
+| **Hazelnut** | Shrub | 'Jefferson' | 'Yamhill' | EFB resistance |
+| **Goumi** | N-fixer | 'Sweet Scarlet' | 'Red Gem' | Non-invasive N-fixer |
+| **Alder** | N-fixer | Red Alder (moist) | Italian Alder (dry) | Site moisture |
+| **Siberian Pea** | N-fixer | Species type | — | Poultry integration |
+
+---
+
 ## Future Considerations
 
 - [ ] Solar pump for NE pond (if pond is added later)
@@ -376,4 +806,4 @@ When seeking a grazing partner, specify:
 
 ---
 
-*Last updated: January 18, 2026*
+*Last updated: January 24, 2026*
