@@ -82,7 +82,7 @@ The project rolls out in three phases, with major infrastructure in Year 1, syst
 - Fencing: perimeter upgrade, paddock subdivision
 - Irrigation distribution to swales
 - Livestock water system to paddocks
-- Fast-establishing species: poplar, willow, alder, comfrey
+- Fast-establishing species: poplar, willow, alder, comfrey, sage, lavender
 - Baseline soil testing
 
 **Years 2-3:** System establishment
@@ -93,12 +93,14 @@ The project rolls out in three phases, with major infrastructure in Year 1, syst
 - Annual soil monitoring
 - First coppice of willows for biomass
 - Begin deep bedding composting and distribution
+- Increase stocking rate as pasture productivity allows (target 25% increase)
 
 **Years 5+:** Maturation
 - Thin emergent trees (poplar) as permanent canopy develops
 - Ongoing rotational grazing and deep bedding composting
 - System increasingly self-reinforcing
 - Comprehensive soil testing to document outcomes
+- Scale stocking rate toward full carrying capacity (target 50%+ increase)
 
 ---
 
@@ -110,16 +112,15 @@ The following estimates cover the full project scope.
 |----------|----------|
 | Blackberry removal | $1,500 |
 | Earthwork (swales, access roads, subsoiling) | $11,000 - $16,000 |
-| Irrigation (distribution + source rehab) | $6,000 - $16,000 |
+| Irrigation (distribution + source rehab) | $4,000 - $10,000 |
 | Tree/shrub establishment* | $2,000 - $8,000 |
-| Fencing (perimeter + paddock) | $3,000 - $6,000 |
+| Fencing (perimeter + paddock, deer deterrent) | $5,000 - $9,000 |
 | Livestock water system | $1,200 - $2,200 |
 | Soil testing + amendments | $1,000 - $3,500 |
 | Pasture seed | $800 - $1,500 |
 | Compact tractor (4x4 w/ loader, used) | $8,000 - $15,000 |
-| PTO spreader (compost/manure, used) | $1,000 - $2,500 |
 | 3-pt broadcast spreader (seed) | $300 - $500 |
 | Mobile poultry housing | $1,500 - $3,500 |
-| **Total** | **$37,300 - $76,200** |
+| **Total** | **$35,300 - $70,200** |
 
 *Tree/shrub costs vary significantly based on propagation vs. purchasing. Lower end assumes willow, poplar, fig, mulberry, and comfrey propagated from cuttings; higher end assumes mostly bare-root nursery stock.

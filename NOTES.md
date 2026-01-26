@@ -59,7 +59,59 @@ LEGEND:
 
 ---
 
-## Electric Fencing System
+## Perimeter Fencing with Deer Deterrent
+
+### Design: 5' Fence + High Wire
+
+Standard 5' field fence provides livestock containment; 8' T-posts with two high wires create visual barrier that deters deer from jumping.
+
+```
+        ─────── wire (7.5')
+        ─────── wire (6.5')
+   ┌─────────────────────┐
+   │                     │  8' T-post
+   │    5' field fence   │
+   │                     │
+   └─────────────────────┘
+   ─────────────────────── ground
+```
+
+Deer can jump 8' but usually won't if they can't see a clear landing. The high wires create uncertainty.
+
+### Materials (Perimeter ~1,800 ft)
+
+| Item | Quantity | Est. Cost | Notes |
+|------|----------|-----------|-------|
+| 5' field fence | 1,800 ft | $2,700 - $4,500 | $1.50-2.50/ft |
+| 8' T-posts | 120-180 | $960 - $2,160 | Every 10-15 ft, $8-12 each |
+| High-tensile wire (2 strands) | 3,600 ft | $180 - $360 | Top wires |
+| Clips/fasteners | misc | $100 - $200 | |
+| **Total perimeter** | | **$3,940 - $7,220** | |
+
+### Notes
+
+- Top wires can be electrified for extra deterrent
+- Won't stop determined deer but deters 80-90%
+- Double-duty: deer + livestock in one fence
+- Corners and gates need extra attention
+
+### Deer Palatability by Species
+
+| Species | Deer Pressure | Protection Needed? |
+|---------|---------------|-------------------|
+| Fruit trees (pear, fig, persimmon) | High | Yes |
+| Chestnuts | Moderate-High | Yes |
+| Mulberry, serviceberry | Very High | Yes |
+| Hazelnut | Moderate | Yes |
+| Willow, poplar | High | No — coppices back |
+| Sage, lavender, artemisia | Low | No — deer avoid |
+| Comfrey | Low | No |
+
+With perimeter deer deterrent in place, individual tree protection may not be needed. Monitor first year and add tree tubes to high-value specimens if necessary.
+
+---
+
+## Electric Fencing System (Paddock Subdivision)
 
 ### Design Decisions
 
@@ -843,12 +895,75 @@ Rough plant counts for 7 swales × 400 ft each. Assumes full build-out.
 
 ---
 
+## Carrying Capacity
+
+4 acres of rotational grazing. Capacity increases as pasture improves.
+
+### Animal Unit (AU) Reference
+
+| Animal | AU Value |
+|--------|----------|
+| Mature cow (1,000+ lbs) | 1.0 AU |
+| Bull | 1.25-1.5 AU |
+| Calf (under 6 months) | 0.25-0.3 AU |
+| Weaned calf (6-12 months) | 0.5 AU |
+| Yearling | 0.6-0.75 AU |
+
+### Capacity by Pasture Condition
+
+| Condition | Acres per AU | 4 Acres Supports |
+|-----------|--------------|------------------|
+| Degraded (current) | 2-3 acres/AU | 1-2 head |
+| Improved (Year 3+) | 1-1.5 acres/AU | 3-4 head |
+| Intensive silvopasture (Year 5+) | 0.75-1 acre/AU | 4-5 head |
+
+### Realistic Scenarios
+
+| Scenario | Animals | Total AU |
+|----------|---------|----------|
+| Starting: 2 cows + 2 calves | 2 + (2 × 0.3) | 2.6 AU |
+| Max improved: 3-4 cows + calves | 3-4 + 0.9-1.2 | 4-5 AU |
+
+**Recommendation:** Start with 2 head (cow-calf pairs). Expand only as pasture productivity increases.
+
+---
+
+## Mobile Poultry Housing
+
+Tractor-towable chicken tractor for poultry rotation following cattle.
+
+### Design Requirements (Rogue Valley Wind)
+
+| Factor | Spec |
+|--------|------|
+| Profile | Low — 4' max height at peak |
+| Shape | Sloped/angled front to deflect wind |
+| Weight | 800-1200 lbs (heavy enough to stay, light enough to tow) |
+| Frame | 2x4 construction, plywood or metal skin |
+| Roof | Metal roofing preferred (durability) |
+| Mobility | Wheels + hitch for tractor towing |
+| Anchoring | T-post stake points or ground anchors when parked |
+
+### Style Comparison
+
+| Style | Weight | Wind Resistance | Notes |
+|-------|--------|-----------------|-------|
+| Hoop house (cattle panel + tarp) | 200-400 lbs | Poor — can flip | Not recommended for wind |
+| A-frame | 400-700 lbs | Good — low profile | Simple, effective |
+| Enclosed box | 800-1500 lbs | Good if low | Heavier, more durable |
+| Wedge/streamlined | 800-1200 lbs | Best | Ideal for windy sites |
+
+**Budget:** $1,500-3,500 for well-built, towable unit.
+
+---
+
 ## Future Considerations
 
 - [ ] Solar pump for NE pond (if pond is added later)
 - [ ] Additional grazing cells if stocking rate increases
-- [ ] Poultry integration after ruminant system is established
+- [ ] PTO spreader — add later if herd grows beyond 4 head
+- [ ] Fork attachment for tractor — add if needed
 
 ---
 
-*Last updated: January 24, 2026*
+*Last updated: January 25, 2026*
